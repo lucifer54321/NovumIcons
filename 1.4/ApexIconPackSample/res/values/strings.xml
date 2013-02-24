@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Basic theme information -->
+    <string name="theme_title">Novum Icons</string>
+    <string name="developer_name">Johannes Dahlgren, Swedroid Community</string>
+    <!-- This (optional) link will appear at the end of the theme description -->
+    <string name="developer_link">http://www.swedroid.se/forum/showthread.php?t=90177</string>
+    <string name="theme_description">Novum Icons, a icon pack from Swedroid Community.</string>
+
+    <!-- Theme settings -->
+    <bool name="config_iconpack">true</bool>
+    <bool name="config_apexskin">false</bool>
+
+    <!-- The feature graphic will appear above the theme description -->
+    <string name="theme_feature">feature</string>
+
+    <!-- Each theme may have up to 5 preview images -->
+    <string name="theme_preview3">preview3</string>
+    <string name="theme_preview4">preview4</string>
+
+</resources>
