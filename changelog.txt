@@ -15,3 +15,7 @@
 1.4
 - Flera nya ikoner tillagda
 - Fixat några ikoner som inte fungerat i tidigare versioner
+
+1.5
+- cirka 200 ikoner tillagda
+- Snyggat till kod och lagt upp på Github.
