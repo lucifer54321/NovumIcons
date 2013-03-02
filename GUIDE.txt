@@ -1,0 +1,152 @@
+GUIDE
+
+
+GITHUB:
+Jag tycker att vi kommittar varje gång vi har gjort en ändring och är klara för dagen.
+Vi ska dock inte ändra versionsnumret för appen varje gång vi ändrat något utan bara när allt är klart.
+
+
+ALLMÄNNT:
+
+I XML så ser en kommentar ut såhär <!-- Kommentar -->
+Allt som är innanför pilarna blir en kommentar som inte syns när programmet körs.
+Pilen kan avslutas på en annan rad om man vill ex.
+<!-- Detta är
+en lång
+kommentar -->
+
+De filer vi jobbar med är:
+
+iconpack.xml
+drawable.xml
+strings.xml
+appfilter.xml
+AndroidManifest.xml
+
+changelog.txt
+
+alla ikonfiler döps med endast små bokstäver och siffor 1-9 och _
+(inga mellanslag, stora bokstäver eller andra tecken, det blir error om ngt är feldöpt)
+De läggs sedan i "res/drawable-xhdpi"
+
+
+FILERNA:
+
+iconpack.xml:
+
+vi behöver bara bry oss om de rader med <icon>xxx</icon>
+
+rad 1: specificerar att filen är en xmlfil som är skriven i xml version 1.0 och teckenkodning utf-8
+rad 2: xml-tagg som säger att här börjar resurser listas?
+rad 4: xml-tagg som specificerar att nedan följer en stringarray som heter iconpack.
+
+rad 7 och nedåt:
+Varje rad specificerar en ikon. inom "<item> </item>" finns filnamnet för ikonen utan ".png"
+nu är det activitetsnamn, men ska till nästa version bytas ut till packetnamn,
+därför kan många av raderna tas bort.
+
+näst sista raden: här slutar stringarrayen
+sista raden: Här slutar resurserna
+
+
+drawable.xml
+
+detta är precis samma som iconpack.xml fast uppbyggd på ett annat sätt för att bland annat nova ska
+känna igen filnamnen.
+
+varje rad specifiserar en ikon, fast nu ser det ut <item drawable="xxx"/>
+
+
+strings.xml
+I denna fil specificerar man det som ska stå när man öppnar appen.
+Appen tror jag bara går att öppna genom apex temameny.
+
+De flesta rader förklarar sig själva, vi behöver inte ändra här så ofta.
+Dock kan det vara kul att senare lägga till screenshots över en launcher med våra ikoner.
+
+Då döper vi våra screenshots till preview1-5 och lägger in denna rad i strings.xml
+<string name="theme_preview3">preview3</string>
+
+Vi lägger screenshotet i "res/drawable-hdpi"
+
+
+appfilter.xml
+
+Detta är den viktiga filen!
+
+rad 4-7 är kommenterad nu, men här specificeras om vi vill ha en generell bild som appliceras för 
+de ikoner som vi ännu inte har gjort. Det som står innanför "" är filnamnet för tex iconback.
+Lättast är om de heter iconback, iconmask osv.
+Rad 8: Anger om vi skalar om bilderna så att de passar mot våran mall. Värden mindre än 1 gör den mindre
+och större än ett skalar upp den.
+
+
+Nu till det roliga.
+
+Varje app har först en kommentar så att det är lätt att söka efter den, annars står de i bokstavsordning!
+
+En app ser ut som följer
+<item
+        component="ComponentInfo{au.com.phil/au.com.phil.Intro}"
+        drawable="au_com_phil_intro"/>
+		
+component="xxx"
+där xxx är paketnamnet/activitetsnamnet
+
+drawable="yyy"
+där yyy är den bild vi specificerat i drawable.xml och iconpack.xml
+
+Just nu är det här flera olika bilder för varje app, men så snart vi kan så
+ändrar vi så att allt inom <!-- appnamn --> har samma drawable="yyy"
+
+NU:
+<!-- Aftonbladet -->
+    <item
+        component="ComponentInfo{se.aftonbladet.start/se.aftonbladet.start.Launcher}"
+        drawable="se_aftonbladet_start_launcher"/>
+    <item
+        component="ComponentInfo{se.aftonbladet.start/se.aftonbladet.start.AftonbladetActivity}"
+        drawable="se_aftonbladet_start_aftonbladetactivity"/>
+		
+		
+VILL HA:
+
+<!-- Aftonbladet -->
+    <item
+        component="ComponentInfo{se.aftonbladet.start/se.aftonbladet.start.Launcher}"
+        drawable="se_aftonbladet_start"/>
+    <item
+        component="ComponentInfo{se.aftonbladet.start/se.aftonbladet.start.AftonbladetActivity}"
+        drawable="se_aftonbladet_start"/>
+		
+		
+AndroidManifest.xml
+
+Här specificeras versionsnamn och kod.
+
+Version code: Denna är alltid heltal och stegas upp varje gång vi ändrar i "Version name"
+Denna syns ingenstans men är för att playstore ska veta om appen har uppdaterats.
+
+Version name: Här får man skriva vad man vill, man jag tycker att vi håller oss till x.y.z
+Där vi håller oss på samma x så länge appen fungerar på "samma sätt" och vi bara ökar y.
+Vi ökar x så fort det är en större förändring som sker.
+
+
+
+changelog.txt
+
+Här skriver vi vad vi gjort mellan varje version
+jag tycker det räcker med typ "lagt till ikoner" och kanske "nu fungerar appen xxx"
+
+
+
+
+
+
+
+
+
+
+
+
+
