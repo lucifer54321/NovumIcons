@@ -1,17 +1,24 @@
 1.0
-- Första versionen, några appar tillagda.
-- Fungerar på Apex Launcher
+- Fï¿½rsta versionen, nï¿½gra appar tillagda.
+- Fungerar pï¿½ Apex Launcher
 
 1.1
-- Fungerar nu även för Nova och Holo (möjligtvis fler)
+- Fungerar nu ï¿½ven fï¿½r Nova och Holo (mï¿½jligtvis fler)
 
 1.2
 - Lade till flera ikoner
 
 1.3
-- Lade till ännu fler ikoner
-- Icon picker fungerar i Nova och Apex (Möjligen fler)
+- Lade till ï¿½nnu fler ikoner
+- Icon picker fungerar i Nova och Apex (Mï¿½jligen fler)
 
 1.4
 - Flera nya ikoner tillagda
-- Fixat några ikoner som inte fungerat i tidigare versioner
+- Fixat nï¿½gra ikoner som inte fungerat i tidigare versioner
+
+1.5
+- cirka 200 ikoner tillagda
+- Snyggat till kod och lagt upp pÃ¥ Github.
+
+2.0
+- Strukturerat om koden fÃ¶r att underlÃ¤tta framtida arbete
