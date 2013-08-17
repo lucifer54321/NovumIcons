@@ -1,1515 +1,3882 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
-    <!--
-         <iconback img1="iconback" /> <iconmask img1="iconmask" /> <iconupon 
-		img1="iconupon" />
-
-    <scale factor="1.0" />  -->
-    
-    
-
-
-    <!-- Abduction! -->
-    <item
-        component="ComponentInfo{au.com.phil/au.com.phil.Intro}"
-        drawable="au_com_phil"/>
-
-    <!-- Abduction! 2 -->
-    <item
-        component="ComponentInfo{au.com.phil.abduction2/au.com.phil.abduction2.menus.PsymIntro}"
-        drawable="au_com_phil_abduction2"/>
-
-    <!-- Abduction! World Attack -->
-    <item
-        component="ComponentInfo{au.com.phil.abduction/au.com.phil.abduction.Intro}"
-        drawable="au_com_phil_abduction"/>
-
-    <!-- Adfree -->
-    <item
-        component="ComponentInfo{com.bigtincan.adfree/com.bigtincan.android.adfree.FreeMe}"
-        drawable="com_bigtincan_adfree"/>
-
-    <!-- Adobe Flash -->
-    <item
-        component="ComponentInfo{com.adobe.flashplayer/com.adobe.flashplayer.SettingsManager}"
-        drawable="com_adobe_flashplayer"/>
-
-    <!-- Adobe Reader -->
-    <item
-        component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}"
-        drawable="com_adobe_reader"/>
-    
-    <!-- Adv. English & Thesaurus -->    
-    <item
-        component="ComponentInfo{com.mobisystems.msdict.embedded.wireless.wordnet/com.mobisystems.msdict.viewer.ListActivity}"
-        drawable="com_mobisystems_msdict_embedded_wireless_wordnet"/>
-    <item
-        component="ComponentInfo{com.mobisystems.msdict.embedded.wireless.wordnet/com.mobisystems.msdict.viewer.LaunchActivity}"
-        drawable="com_mobisystems_msdict_embedded_wireless_wordnet"/>
-    
-    <!-- ADWlauncher EX -->    
-    <item
-        component="ComponentInfo{org.adwfreak.launcher/org.adwfreak.launcher.Launcher}"
-        drawable="org_adwfreak_launcher"/>
-    <item
-        component="ComponentInfo{org.adwfreak.launcher/org.adw.launcherlib.Launcher}"
-        drawable="org_adwfreak_launcher"/>
-    <item
-        component="ComponentInfo{org.adwfreak.launcher/org.adwfreak.launcher.main}"
-        drawable="org_adwfreak_launcher"/>
-
-    <!-- Aftonbladet -->
-    <item
-        component="ComponentInfo{se.aftonbladet.start/se.aftonbladet.start.Launcher}"
-        drawable="se_aftonbladet_start"/>
-    <item
-        component="ComponentInfo{se.aftonbladet.start/se.aftonbladet.start.AftonbladetActivity}"
-        drawable="se_aftonbladet_start"/>
-
-    <!-- Age of Zombies -->
-    <item
-        component="ComponentInfo{com.halfbrick.ageofzombies/com.halfbrick.ageofzombies.AOZActivity}"
-        drawable="com_halfbrick_ageofzombies"/>
-
-    <!-- AirDroid -->
-    <item
-        component="ComponentInfo{com.sand.airdroid/com.sand.airdroid.Splash}"
-        drawable="com_sand_airdroid"/>
-
-    <!-- Akinator the Genie -->
-    <item
-        component="ComponentInfo{com.digidust.elokence.akinator.paid/com.digidust.elokence.akinator.activities.SplashscreenActivity}"
-        drawable="com_digidust_elokence_akinator_paid"/>
-
-    <!-- Aldiko -->
-    <item
-        component="ComponentInfo{com.aldiko.android/com.aldiko.android.ui.AliasHomeScreen}"
-        drawable="com_aldiko_android"/>
-    
-    <!-- AllSnow Ski Reports & Tracker -->    
-    <item
-        component="ComponentInfo{com.allsnow.android/com.allsnow.android.StartActivity}"
-        drawable="com_allsnow_android"/>
-    
-    <!-- Amazing Alex -->
-    <item
-        component="ComponentInfo{com.rovio.amazingalex.premium/com.rovio.amazingalex.AAActivity}"
-        drawable="com_rovio_amazingalex_premium"/>
-    
-    <!-- Amazing Alex HD -->
-    <item
-        component="ComponentInfo{com.rovio.amazingalexHD/com.rovio.amazingalexHD.main}"
-        drawable="com_rovio_amazingalexhd"/>
-    
-    <!-- Amazon -->
-    <item
-        component="ComponentInfo{com.amazon.mshop.android/com.amazon.mShop.home.HomeActivity}"
-        drawable="com_amazon_mshop_android"/>
-    
-    <!-- Android Activities -->
-    <item
-        component="ComponentInfo{com.droidicon.androidactivities/com.droidicon.androidactivities.Main}"
-        drawable="com_droidicon_androidactivities"/>
-
-    <!-- Angry Birds -->
-    <item
-        component="ComponentInfo{com.rovio.angrybirds/com.rovio.angrybirds.ApplanetActivity}"
-        drawable="com_rovio_angrybirds"/>
-
-    <!-- Angry Birds Seasons -->
-    <item
-        component="ComponentInfo{com.rovio.angrybirdsseasons/com.rovio.ka3d.App}"
-        drawable="com_rovio_angrybirdsseasons"/>
-
-    <!-- Another World -->
-    <item
-        component="ComponentInfo{com.dotemu.anotherworld/com.dotemu.anotherworld.LaunchActivity}"
-        drawable="com_dotemu_anotherworld"/>
-    
-    <!-- Apollo -->
-    <item
-        component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.MusicLibrary}"
-        drawable="com_andrew_apollo"/>
-
-    <!-- Appbrain -->
-    <item
-        component="ComponentInfo{com.appspot.swisscodemonkeys.apps/com.appspot.swisscodemonkeys.apps.AppsActivity}"
-        drawable="com_appspot_swisscodemonkeys_apps"/>
-
-    <!-- Bad Piggies -->
-    <item
-        component="ComponentInfo{com.rovio.BadPiggies/com.rovio.BadPiggies.PluginManager}"
-        drawable="com_rovio_badpiggies"/>
-
-    <!-- Badoo -->
-    <item
-        component="ComponentInfo{com.badoo.mobile/com.badoo.mobile.android.BadooActivity}"
-        drawable="com_badoo_mobile"/>
-
-    <!-- Bambuser -->
-    <item
-        component="ComponentInfo{com.bambuser.broadcaster/com.bambuser.broadcaster.BambuserStarter}"
-        drawable="com_bambuser_broadcaster"/>
-
-    <!-- Bankdroid -->
-    <item
-        component="ComponentInfo{com.liato.bankdroid/com.liato.bankdroid.MainActivity}"
-        drawable="com_liato_bankdroid"/>
-
-    <!-- Barcode Scanner -->
-    <item
-        component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}"
-        drawable="com_google_zxing_client_android"/>
-    
-    <!-- Battery Widget Reborn -->
-    <item
-        component="ComponentInfo{net.hubalek.android.reborn.beta/net.hubalek.android.apps.reborn.beta.activities.MainActivityBeta}"
-        drawable="net_hubalek_android_reborn_beta"/>
-    
-    <!-- Battery Widget Reborn pro -->
-    <item
-        component="ComponentInfo{net.hubalek.android.apps.reborn.pro/net.hubalek.android.apps.reborn.pro.activities.MainActivityBeta}"
-        drawable="net_hubalek_android_apps_reborn_pro"/>
-    
-    <!-- Battleheart -->
-    <item
-        component="ComponentInfo{com.KelliNoda.Battleheart/com.unity3d.player.UnityPlayerProxyActivity}"
-        drawable="com_kellinida_battleheart"/>
-
-    <!-- Bestbuy -->
-    <item
-        component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.Home}"
-        drawable="com_bestbuy_android"/>
-
-    <!-- Bike Race -->
-    <item
-        component="ComponentInfo{com.topfreegames.bikeracefreeworld/com.topfreegames.bikerace.activities.MainActivity}"
-        drawable="com_topfreegames_bikeracefreeworld"/>
-
-    <!-- Blocket -->
-    <item
-        component="ComponentInfo{se.appcorn.Blocket/se.appcorn.Blocket.ACSplashScreen}"
-        drawable="se_appcorn_blocket"/>
-    <item
-        component="ComponentInfo{se.appcorn.Blocket/se.appcorn.Blocket.activities.ACSplashScreen}"
-        drawable="se_appcorn_blocket"/>
-
-    <!-- Bloons TD5 -->
-    <item
-        component="ComponentInfo{com.ninjakiwi.bloonstd5/com.ninjakiwi.Expansion}"
-        drawable="com_ninjakiwi_bloonstd5"/>
-
-    <!-- BlueDict -->
-    <item
-        component="ComponentInfo{cn.ssdl.bluedict/cn.ssdl.main.MainActivity}"
-        drawable="cn_ssdl_bluedict"/>
-
-    <!-- Box.com -->
-    <item
-        component="ComponentInfo{com.box.android/com.box.android.activities.Authentication}"
-        drawable="com_box_android"/>
-
-    <!-- Broken Sword Directors Cut -->
-    <item
-        component="ComponentInfo{uk.co.revolution.bs1dc/uk.co.revolution.bs1dc.BS1DCLaunchActivity}"
-        drawable="uk_co_revolution_bs1dc"/>
-    <item
-        component="ComponentInfo{uk.co.revolution.bs1dc.es/uk.co.revolution.bs1dc.es.BS1DCLaunchActivity}"
-        drawable="uk_co_revolution_bs1dc"/>
-
-    <!-- Browser -->
-    <item
-        component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}"
-        drawable="com_android_browser"/>
-    <item
-        component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}"
-        drawable="com_android_browser"/>
-
-    <!-- Busybox -->
-    <item
-        component="ComponentInfo{stericson.busybox/stericson.busybox.Activity.MainActivity}"
-        drawable="stericson_busybox"/>
-    
-    <!-- Busybox pro -->
-    <item
-        component="ComponentInfo{stericson.busybox.donate/stericson.busybox.donate.Activity.MainActivity}"
-        drawable="stericson_busybox_donate"/>
-
-    <!-- Calculator -->
-    <item
-        component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}"
-        drawable="com_android_calculator2"/>
-    <item
-        component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}"
-        drawable="com_android_calculator2"/>
-
-    <!-- Calendar -->
-    <item
-        component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.lgl.calendar/com.lgl.calendar.activity.TabManagerActivity}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}"
-        drawable="com_android_calendar"/>
-    <item
-        component="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}"
-        drawable="com_android_calendar"/>
-
-    <!-- Camera -->
-    <item
-        component="ComponentInfo{com.motorola.Camera/com.motorola.Camera.Camera}"
-        drawable="com_android_camera"/>
-    <item
-        component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}"
-        drawable="com_android_camera"/>
-    <item
-        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
-        drawable="com_android_camera"/>
-    <item
-        component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}"
-        drawable="com_android_camera"/>
-    <item
-        component="ComponentInfo{com.android.camera/com.android.camera.Camera}"
-        drawable="com_android_camera"/>
-    <item
-        component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}"
-        drawable="com_android_camera"/>
-
-    <!-- Camera Launcher for Nexus 7 -->
-    <item
-        component="ComponentInfo{com.modaco.cameralauncher/com.modaco.cameralauncherActivity}"
-        drawable="com_modaco_cameralauncher"/>
-
-    <!-- Camera Zoom -->
-    <item
-        component="ComponentInfo{slide.cameraZoom/slide.cameraZoom.CameraZoomActivity}"
-        drawable="slide_camerazoom"/>
-
-    <!-- Carbon -->
-    <item
-        component="ComponentInfo{com.koushikdutta.backup/com.koushikdutta.backup.MainActivity}"
-        drawable="com_koushikdutta_backup"/>
-    
-    <!-- Carbon premium -->
-    <item
-        component="ComponentInfo{com.koushikdutta.backup.license/com.koushikdutta.backup.license.InstallFree}"
-        drawable="com_koushikdutta_backup_license"/>
-
-    <!-- ChatOn -->
-    <item
-        component="ComponentInfo{com.sec.chaton/com.sec.chaton.HomeActivity}"
-        drawable="com_sec_chaton"/>
-
-    <!-- Color Dict -->
-    <item
-        component="ComponentInfo{com.socialnmobile.colordict/com.socialnmobile.colordict.activity.Main}"
-        drawable="com_socialnmobile_colordict"/>
-
-    <!-- ColorNote Notepad Notes To Do -->
-    <item
-        component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.NoteList}"
-        drawable="com_socialnmobile_dictapps_notepad_color_note"/>
-    <item
-        component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main}"
-        drawable="com_socialnmobile_dictapps_notepad_color_note"/>
-    
-    <!-- Comics -->
-    <item
-        component="ComponentInfo{com.iconology.comics/com.iconology.comics.app.ComicsActivity}"
-        drawable="com_iconology_comics"/>
-
-    <!-- Compass -->
-    <item
-        component="ComponentInfo{com.apksoftware.compass/com.apksoftware.compass.Compass}"
-        drawable="com_apksoftware_compass"/>
-
-    <!-- Phone -->
-
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="com_android_dialer"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}"
-        drawable="com_android_dialer"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}"
-        drawable="com_android_dialer"/>
-    <item
-        component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}"
-        drawable="com_android_dialer"/>
-    <item
-        component="ComponentInfo{com.android.htcdialer/com.android.htcdialer.Dialer}"
-        drawable="com_android_dialer"/>
-    <item
-        component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}"
-        drawable="com_android_dialer"/>
-
-    <!-- Contacts -->
-
-    <item
-        component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}"
-        drawable="com_android_contacts"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.ContactsEntryActivity}"
-        drawable="com_android_contacts"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="com_android_contacts"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.PhoneBookTopMenuActivity}"
-        drawable="com_android_contacts"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogEntryActivity}"
-        drawable="com_android_contacts"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}"
-        drawable="com_android_contacts"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}"
-        drawable="com_android_contacts"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.PhoneBookSplitTopMenuActivity}"
-        drawable="com_android_contacts"/>
-    <item
-        component="ComponentInfo{com.android.contacts/com.android.contacts.PhoneContactsActivity}"
-        drawable="com_android_contacts"/>
-
-    <!-- Cool Wallpapers HD -->
-    <item
-        component="ComponentInfo{com.appsilicious.wallpapers/com.appsilicious.wallpapers.WallpapersMain}"
-        drawable="com_appsilicious_wallpapers"/>
-    
-    <!-- Cut The Rope -->
-    <item
-        component="ComponentInfo{com.zeptolab.ctr.paid/com.zeptolab.ctr.paid.CtrAppPaid}"
-        drawable="com_zeptolab_ctr_paid"/>
-    <item
-        component="ComponentInfo{com.zeptolab.ctr.paid/com.zeptolab.ctr.paid.Applanet.2}"
-        drawable="com_zeptolab_ctr_paid"/>
-    
-    <!-- Cut The Rope: Experiments -->
-    <item
-        component="ComponentInfo{com.zeptolab.ctrexperiments.google.paid/com.zeptolab.ctrexperiments.google.paid.main}"
-        drawable="com_zeptolab_ctrexperiments_google_paid"/>
-    <item
-        component="ComponentInfo{com.zeptolab.ctrexperiments.hd.google.paid/com.zeptolab.ctrexperiments.hd.google.paid.main}"
-        drawable="com_zeptolab_ctrexperiments_google_paid"/>
-    <item
-        component="ComponentInfo{com.zeptolab.ctrexperiments.ads/com.zeptolab.ctrexperiments.ads.main}"
-        drawable="com_zeptolab_ctrexperiments_google_paid"/>
-
-    <!-- CyanogenMod Filemanager -->
-    <item
-        component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}"
-        drawable="com_cyanogenmod_filemanager"/>
-
-    <!-- Datasync -->
-    <item
-        component="ComponentInfo{com.quintstoffers.DataSync/com.quintstoffers.DataSync.DataSync}"
-        drawable="com_quintstoffers_datasync"/>
-    
-    <!-- Datasync Beta -->
-    <item
-        component="ComponentInfo{com.quintstoffers.DataSync.beta/com.quintstoffers.DataSync.beta.DataSync}"
-        drawable="com_quintstoffers_datasync_beta"/>
-
-    <!-- Datasync+ -->
-    <item
-        component="ComponentInfo{com.quintstoffers.DataSync.key/com.quintstoffers.DataSync.key.LicenseActivity}"
-        drawable="com_quintstoffers_datasync_key"/>  
-
-    <!-- Dead Space -->
-    <item
-        component="ComponentInfo{com.ea.deadspace.row/com.ea.deadspace.row.DeadSpaceActivity}"
-        drawable="com_ea_deadspace_row"/>
-
-    <!-- Devils Attorney -->
-    <item
-        component="ComponentInfo{com.senri.da/com.senri.da.DevilsAttorneyActivity}"
-        drawable="com_senri_da"/>
-
-    <!-- Dice Player -->
-    <item
-        component="ComponentInfo{com.inisoft.mediaplayer.a/com.inisoft.mediaplayer.a.SplashActivity}"
-        drawable="com_inisoft_mediaplayer_a"/>
-    
-    <!-- Dictionary -->
-    <item
-        component="ComponentInfo{com.dictionary/com.dictionary.Splash}"
-        drawable="com_dictionary"/>
-    
-    <!-- Dictionary paid -->
-    <item
-        component="ComponentInfo{com.dictionary.paid/com.dictionary.paid.Splash}"
-        drawable="com_dictionary_paid"/>
-
-    <!-- Drippler -->
-    <item
-        component="ComponentInfo{com.drippler.android.updates/com.drippler.android.updates.PreSplash}"
-        drawable="com_drippler_android_updates"/>
-
-    <!-- Dropbox -->
-    <item
-        component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}"
-        drawable="com_dropbox_android"/>
-    <item
-        component="ComponentInfo{com.dropbox.android/com.dropbox.android.FileBrowser}"
-        drawable="com_dropbox_android"/>
-
-    <!-- Ebay -->
-    <item
-        component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay}"
-        drawable="com_ebay_mobile"/>
-
-    <!-- Ebuddy -->
-    <item
-        component="ComponentInfo{com.ebuddy.android/com.ebuddy.android.ui.StartupActivity}"
-        drawable="com_ebuddy_android"/>
-
-    <!-- Elitserien -->
-    <item
-        component="ComponentInfo{se.hockeyligan.elitserien1112/se.hockeyligan.elitserien1112.mainActivity}"
-        drawable="se_hockeyligan_elitserien1112"/>
-
-    <!-- Engadget -->
-    <item
-        component="ComponentInfo{com.aol.mobile.engadget/com.aol.mobile.engadget.splashscreen.SplashScreen}"
-        drawable="com_aol_mobile_engadget"/>
-
-    <!-- Eniro -->
-    <item
-        component="ComponentInfo{com.eniro/com.eniro.core.android.map.MapActivity}"
-        drawable="com_eniro"/>
-    
-    <!-- Evernote -->
-    <item
-        component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}"
-        drawable="com_evernote"/>
-    
-    <!-- Explorer -->
-    <item
-        component="ComponentInfo{com.speedsoftware.explorer/com.speedsoftware.explorer.Explorer}"
-        drawable="com_speedsoftware_explorer"/>
-    
-    <!-- Explorer root -->
-    <item
-        component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}"
-        drawable="com_speedsoftware_rootexplorer"/>
-
-    <!-- ezPDFreader pro -->
-    <item
-        component="ComponentInfo{udk.android.reader/udk.android.reader.ApplicationActivity}"
-        drawable="udk_android_reader"/>
-
-    <!-- Facebook -->
-    <item
-        component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
-        drawable="com_facebook_katana"/>
-
-    <!-- Facebook Messenger -->
-    <item
-        component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}"
-        drawable="com_facebook_orca"/>
-
-    <!-- Falcon Pro -->
-    <item
-        component="ComponentInfo{com.jv.falcon.pro/com.jv.falcon.pro.activities.TweetListActivity}"
-        drawable="com_jv_falcon_pro"/>
-
-    <!-- FastDormancy Toggle -->
-    <item
-        component="ComponentInfo{com.gokhanmoral.fastdormancytoggle.i9300/com.gokhanmoral.fastdormancytoggle.i9300.main}"
-        drawable="com_gokhanmoral_fastdormancytoggle_i9300"/>
-
-    <!-- Faster GPS -->
-    <item
-        component="ComponentInfo{org.fastergps/org.fastergps.ui.BaseActivity}"
-        drawable="org_fastergps"/>
-    
-    <!-- Feed me -->
-    <item
-        component="ComponentInfo{com.seazon.feedme/com.seazon.feedme.activity.FeedListActivity}"
-        drawable="com_seazon_feedme"/>
-
-    <!-- Feedly -->
-    <item
-        component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}"
-        drawable="com_devhd_feedly"/>
-
-    <!-- Fifa 12 -->
-    <item
-        component="ComponentInfo{com.ea.game.fifa12.row/com.ea.game.fifa12.row.Main}"
-        drawable="com_ea_game_fifa12_row"/>
-
-    <!-- Flickr -->
-    <item
-        component="ComponentInfo{com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity}"
-        drawable="com_yahoo_mobile_client_android_flickr"/>
-    
-    <!-- Flight control -->
-    <item
-        component="ComponentInfo{com.namcowireless.flightcontrol/com.namcowireless.flightcontrol.StartupActivity}"
-        drawable="com_namcowireless_flightcontrol"/>
-    
-    <!-- Flow Free -->
-    <item
-        component="ComponentInfo{com.bigduckgames.flow/com.bigduckgames.flow.flow}"
-        drawable="com_bigduckgames_flow"/>
-
-    <!-- Flow Free: Bridges -->
-    <item
-        component="ComponentInfo{com.bigduckgames.flowbridges/com.bigduckgames.flowbridges.flow}"
-        drawable="com_bigduckgames_flowbridges"/>
-
-    <!-- Football Manager 2013 -->
-    <item
-        component="ComponentInfo{com.sigames.fmh2013/com.sigames.fmh2013.fmh2013}"
-        drawable="com_sigames_fmh2013"/>
-
-    <!-- Foursquare -->
-    <item
-        component="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}"
-        drawable="com_joelapenna_foursquared"/>
-
-    <!-- Foursquare for business -->
-    <item
-        component="ComponentInfo{com.foursquare.merchant/com.foursquare.merchant.LoginActivity}"
-        drawable="com_foursquare_merchant"/>
-    
-    <!-- Friendcaster chat -->
-    <item
-        component="ComponentInfo{com.handmark.friendcaster.chat/com.handmark.friendcaster.chat.MainActivity}"
-        drawable="com_handmark_friendcaster_chat"/>
-    
-    <!-- Fruit ninja -->
-    <item
-        component="ComponentInfo{com.halfbrick.fruitninja/com.halfbrick.fruitninja.FruitNinjaActivity}"
-        drawable="com_halfbrick_fruitninja"/>
-    
-    <!-- Fruit ninja free -->
-    <item
-        component="ComponentInfo{com.halfbrick.fruitninjafree/com.halfbrick.fruitninjafree.FruitNinjafreeActivity}"
-        drawable="com_halfbrick_fruitninjafree"/>
-    
-    <!-- Fun Gallery -->
-    <item
-        component="ComponentInfo{com.smartanuj.funny/com.smartanuj.funny.Home}"
-        drawable="com_smartanuj_funny"/>
-
-    <!-- FX Camera -->
-    <item
-        component="ComponentInfo{ymst.android.fxcamera/ymst.android.fxcamera.FxCameraTopActivity}"
-        drawable="ymst_android_fxcamera"/>
-    
-    <!-- Game dev story -->    
-    <item
-        component="ComponentInfo{net.kairosoft.android.gamedev3en/net.kairosoft.android.gamedev3en.Main}"
-        drawable="net_kairosoft_android_gamedev3en"/>
-    
-    <!-- Go launcher EX -->
-    <item
-        component="ComponentInfo{com.gau.go.launcherex/com.jiubang.ggheart.apps.desks.diy.GoLauncher}"
-        drawable="com_gau_go_launcherex"/>
-
-    <!-- Google ADK 2012 -->
-    <item
-        component="ComponentInfo{com.google.android.apps.adk2/com.google.android.apps.adk2.activity.ConnectActivity}"
-        drawable="com_google_android_apps_adk2"/>
-
-    <!-- Google analytics -->
-    <item
-        component="ComponentInfo{com.google.android.apps.giant/com.google.android.apps.giant.activity.ProfilePickerActivity}"
-        drawable="com_google_android_apps_giant"/>
-    
-    <!-- Google Androidify -->
-    <item
-        component="ComponentInfo{com.google.android.apps.androidify/com.google.android.apps.androidify.Androidify}"
-        drawable="com_google_android_apps_androidify"/>
-
-    <!-- Google apps device policy -->
-    <item
-        component="ComponentInfo{com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity}"
-        drawable="com_google_android_apps_enterprise_dmagent"/>
-
-    <!-- Google apps look up -->
-    <item
-        component="ComponentInfo{com.google.android.apps.enterprise.lookup/com.google.android.apps.enterprise.lookup.ContactListActivity}"
-        drawable="com_google_android_apps_enterprise_lookup"/>
-
-    <!-- Google Blogger -->
-    <item
-        component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.TosActivity}"
-        drawable="com_google_android_apps_blogger"/>
-    
-    <!-- Google Car Home -->
-    <item
-        component="ComponentInfo{com.google.android.carhome/com.google.android.carhome.CarHome}"
-        drawable="com_google_android_carhome"/>
-    
-    <!-- Google Chrome -->
-    <item
-        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
-        drawable="com_android_chrome"/>
-    <item
-        component="ComponentInfo{com.android.chrome/com.android.chrome.Main}"
-        drawable="com_android_chrome"/>
-
-    <!-- Google Currents -->
-    <item
-        component="ComponentInfo{com.google.android.apps.currents/com.google.apps.dots.android.app.activity.CurrentsStartActivity}"
-        drawable="com_google_android_apps_currents"/>
-
-    <!-- Google Drive -->
-    <item
-        component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
-        drawable="com_google_android_apps_docs"/>
-    
-    <!-- Google Earth -->
-    <item
-        component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}"
-        drawable="com_google_earth"/>
-
-    <!-- Google Finance -->
-    <item
-        component="ComponentInfo{com.google.android.apps.finance/com.google.android.apps.finance.HomeActivity}"
-        drawable="com_google_android_apps_finance"/>
-
-    <!-- Google Gesturre Search -->
-    <item
-        component="ComponentInfo{com.google.android.apps.gesturesearch/com.google.android.apps.gesturesearch.GShell}"
-        drawable="com_google_android_apps_gesturesearch"/>
-
-    <!-- Google intersection explorer -->
-    <item
-        component="ComponentInfo{com.google.android.marvin.intersectionexplorer/com.google.android.marvin.intersectionexplorer.IntersectionExplorer}"
-        drawable="com_google_android_marvin_intersectionexplorer"/>
-    
-    <!-- Google Play Books -->
-    <item
-        component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}"
-        drawable="com_google_android_apps_books"/>
-    
-    <!-- Google Play Store -->
-    <item
-        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
-        drawable="com_android_vending"/>
-
-    <!-- Goole Search -->
-    <item
-        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
-        drawable="com_google_android_googlequicksearchbox"/>
-
-    <!-- Google Translate -->
-    <item
-        component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}"
-        drawable="com_google_android_apps_translate"/>
-
-    <!-- Google Voice Search -->
-    <item
-        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}"
-        drawable="com_google_android_voicesearch"/>
-    <item
-        component="ComponentInfo{com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivity}"
-        drawable="com_google_android_voicesearch"/>
-    
-    <!-- Google+ -->
-    <item
-        component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}"
-        drawable="com_google_android_apps_plus"/>
-    <item
-        component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}"
-        drawable="com_google_android_apps_plus"/>
-    <item
-        component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plusone.app.HomeScreenActivity}"
-        drawable="com_google_android_apps_plus"/>
-
-    <!-- Google+ Messenger -->
-    <item
-        component="ComponentInfo{com.google.android.apps.circles.realtimechat.ConversationListActivity/com.google.android.apps.circles.realtimechat.ConversationListActivit}"
-        drawable="com_google_android_apps_circles_realtimechat_conversationlistactivity"/>
-    
-    <!-- Grand Theft Auto III -->
-    <item
-        component="ComponentInfo{com.rockstar.gta3/com.rockstar.gta3.ApplanetActivity}"
-        drawable="com_rockstar_gta3"/>
-    <item
-        component="ComponentInfo{com.rockstar.gta3/com.rockstar.gta3.DefaultActivity}"
-        drawable="com_rockstar_gta3"/>
-    <item
-        component="ComponentInfo{com.rockstar.gta3/com.rockstar.gta3.Applanet.2}"
-        drawable="com_rockstar_gta3"/>
-    
-    <!-- Granny smith -->
-    <item
-        component="ComponentInfo{com.mediocre.grannysmith/com.mediocre.grannysmith.Main}"
-        drawable="com_mediocre_grannysmith"/>
-    
-    <!-- Granny smith free -->
-    <item
-        component="ComponentInfo{com.mediocre.grannysmithfree/com.mediocre.grannysmithfree.Main}"
-        drawable="com_mediocre_grannysmithfree"/>
-
-    <!-- gReader -->
-    <item
-        component="ComponentInfo{com.noinnion.android.greader.reader/com.noinnion.android.greader.reader.LoginActivity}"
-        drawable="com_noinnion_android_greader_reader"/>
-    <item
-        component="ComponentInfo{com.noinnion.android.greader.readerpro/com.noinnion.android.greader.readerpro.LoginActivity}"
-        drawable="com_noinnion_android_greader_reader"/>
-    
-    <!-- Gunman clive -->
-    <item
-        component="ComponentInfo{beril.mootor.gmc/beril.mootor.gmc.JavaBase}"
-        drawable="beril_mootor_gmc"/>
-    
-    <!-- Handyman -->
-    <item
-        component="ComponentInfo{com.epocket.handyman.ui/com.epocket.handyman.ui.activity.StartupActivity}"
-        drawable="com_epocket_handyman_ui"/>
-    
-    <!-- Holo launcher -->
-    <item
-        component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}"
-        drawable="com_mobint_hololauncher"/>
-
-    <!-- Holo launcher plus -->
-    <item
-        component="ComponentInfo{com.mobint.hololauncherplus/com.mobint.hololauncherplus.MainActivity}"
-        drawable="com_mobint_hololauncherplus"/>
-
-    <!-- How to Draw - Easy Lessons -->
-    <item
-        component="ComponentInfo{com.artelplus.howtodraw/com.artelplus.howtodraw.Main}"
-        drawable="com_artelplus_howtodraw"/>
-    
-    <!-- How to Tie a Tie -->
-    <item
-        component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}"
-        drawable="com_artelplus_howtotie"/>
-    
-    <!-- How to Tie a Tie Pro -->
-    <item
-        component="ComponentInfo{com.artelplus.howtotiepro/com.artelplus.howtotiepro.Main}"
-        drawable="com_artelplus_howtotiepro"/>
-    
-    <!-- Instagram -->
-    <item
-        component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
-        drawable="com_instagram_android"/>
-    
-    <!-- Jetpack Joyride -->
-    <item
-        component="ComponentInfo{com.halfbrick.jetpackjoyride/com.halfbrick.mortar.MortarGameActivity}"
-        drawable="com_halfbrick_jetpackjoyride"/>
-    
-    <!-- Kakao talk -->
-    <item
-        component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.SplashActivity}"
-        drawable="com_kakao_talk"/>
-    
-    <!-- Line -->
-    <item
-        component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}"
-        drawable="jp_naver_line_android"/>
-    
-    <!-- Line bubble -->
-    <item
-        component="ComponentInfo{jp.naver.SJLGBUBBLE/jp.naver.SJLGBUBBLE.activity.LineBubble}"
-        drawable="jp_naver_sjlgbubble"/>
-    
-    <!-- Line camera -->
-    <item
-        component="ComponentInfo{jp.naver.linecamera.android/jp.naver.pick.android.camera.activity.CameraActivity}"
-        drawable="jp_naver_linecamera_android"/>
-    
-    <!-- Line card -->
-    <item
-        component="ComponentInfo{jp.naver.linecard.android/jp.naver.linecard.android.TemplateListActivity}"
-        drawable="jp_naver_linecard_android"/>
-    <item
-        component="ComponentInfo{jp.naver.linecard.android/jp.naver.linecard.android.activity.TemplateListActivity}"
-        drawable="jp_naver_linecard_android"/>
-    
-    <!-- Machinarium -->
-    <item
-        component="ComponentInfo{air.net.machinarium.Machinarium/air.net.machinarium.Machinarium.AppEntry}"
-        drawable="air_net_machinarium_machinarium"/>
-
-    <!-- Mass Effect: Infiltrator -->
-    <item
-        component="ComponentInfo{com.ea.games.meinfiltrator_row/com.ea.games.meinfiltrator_row.MassEffectActivity}"
-        drawable="com_ea_games_meinfiltrator_row"/>
-    <item
-        component="ComponentInfo{com.ea.games.meinfiltrator_na/com.ea.games.meinfiltrator_na.MassEffectActivity}"
-        drawable="com_ea_games_meinfiltrator_row"/>
-    
-    <!-- Messages -->
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}"
-        drawable="com_android_mms"/>
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
-        drawable="com_android_mms"/>
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.VoiceMailTabActivity}"
-        drawable="com_android_mms"/>
-    
-    <!-- Minecraft -->
-    <item
-        component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.Minecraft.Market}"
-        drawable="com_mojang_minecraftpe"/>
-    <item
-        component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}"
-        drawable="com_mojang_minecraftpe"/>
-    
-    <!-- Minecraft demo -->
-    <item
-        component="ComponentInfo{com.mojang.minecraftpe.demo/com.mojang.minecraftpe.Minecraft.Market.Demo}"
-        drawable="com_mojang_minecraftpe_demo"/>
-
-    <!-- Mortplayer Audiobooks -->
-    <item
-        component="ComponentInfo{de.stohelit.audiobookplayer/de.stohelit.audiobookplayer.MainPlayer}"
-        drawable="de_stohelit_audiobookplayer"/>
-
-    <!-- Mortplayer Music -->
-    <item
-        component="ComponentInfo{de.stohelit.folderplayer/de.stohelit.folderplayer.MainPlayer}"
-        drawable="de_stohelit_folderplayer"/>
-    
-    <!-- Music player HTC -->
-    <item
-        component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}"
-        drawable="com_htc_music"/>
-    
-    <!-- Music player Samsung -->
-    <item
-        component="ComponentInfo{com.samsung.music/com.samsung.music.Main}"
-        drawable="com_samsung_music"/>
-    
-    <!-- Netflix -->
-    <item
-        component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}"
-        drawable="com_netflix_mediaclient"/>
-    <item
-        component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewTabletActivity}"
-        drawable="com_netflix_mediaclient"/>
-    
-    <!-- NinjaSkydivingPlusZomb -->
-    <item
-        component="ComponentInfo{air.snspzFree/air.snspzfree.AppEntry}"
-        drawable="air_snspzfree"/>
-    
-    <!-- NinjaSkydivingPlusZomb Plus -->
-    <item
-        component="ComponentInfo{air.snspz/air.snspz.AppEntry}"
-        drawable="air_snspz"/>
-    
-    <!-- Opera Browser -->
-    <item
-        component="ComponentInfo{com.opera.browser/com.opera.Opera}"
-        drawable="com_opera_browser"/>
-    
-    <!-- Opera Browser mini -->
-    <item
-        component="ComponentInfo{com.opera.mini.android/com.opera.mini.android.Browser}"
-        drawable="com_opera_mini_android"/>
-    
-    <!-- Orbital Defender Full -->
-    <item
-        component="ComponentInfo{com.addictivezone.odefenderfull1/com.addictivezone.odefenderfull1.MyCoronaActivity}"
-        drawable="com_addictivezone_odefenderfull1"/>
-    
-    <!-- Orbital Defender Lite -->
-    <item
-        component="ComponentInfo{com.addictivezone.odefenderlite1/com.addictivezone.odefenderlite1.MyCoronaActivity}"
-        drawable="com_addictivezone_odefenderlite1"/>
-
-    <!-- Our groceries shopping list -->
-    <item
-        component="ComponentInfo{com.headcode.ourgroceries/com.headcode.ourgroceries.android.ListsActivity}"
-        drawable="com_headcode_ourgroceries"/>
-
-    <!-- Package manager ad -->
-    <item
-        component="ComponentInfo{rabisoft.packagemanagerad/RabiSoft.PackageManagerAd.Main}"
-        drawable="rabisoft_packagemanagerad"/>
-    <item
-        component="ComponentInfo{RabiSoft.PackageManagerAd/RabiSoft.PackageManagerAd.Main}"
-        drawable="rabisoft_packagemanagerad"/>
-    
-    <!-- Paper camera -->
-    <item
-        component="ComponentInfo{com.dama.papercamera/com.dama.papercamera.PaperCameraActivity}"
-        drawable="com_dama_papercamera"/>
-
-    <!-- Parcels -->
-    <item
-        component="ComponentInfo{eu.zomtec.android.delivery/eu.zomtec.android.delivery.DeliveryActivity}"
-        drawable="eu_zomtec_android_delivery"/>
-    
-    <!-- Photo Grid - Collage Maker -->
-    <item
-        component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.AdMobActivity}"
-        drawable="com_roidapp_photogrid"/>
-    <item
-        component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.MainPage}"
-        drawable="com_roidapp_photogrid"/>
-    <item
-        component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.common.AdMobActivity}"
-        drawable="com_roidapp_photogrid"/>
-    <item
-        component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.ModeSelect}"
-        drawable="com_roidapp_photogrid"/>
-    
-    <!-- Photoshop Express -->
-    <item
-        component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.PhotoshopMobile}"
-        drawable="com_adobe_psmobile"/>
-    
-    <!-- Pic Frame -->
-    <item
-        component="ComponentInfo{nz.co.activedevelopment.picframe_android/nz.co.activedevelopment.picframe.android.PicFrameActivity}"
-        drawable="nz_co_activedevelopment_picframe_android"/>
-    
-    <!-- Picsay -->
-    <item
-        component="ComponentInfo{com.shinycore.picsayfree/com.shinycore.picsayfree.PicSay}"
-        drawable="com_shinycore_picsayfree"/>
-    
-    <!-- Picsay pro -->
-    <item
-        component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.PicSay}"
-        drawable="com_shinycore_picsaypro"/>
-    <item
-        component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}"
-        drawable="com_shinycore_picsaypro"/>
-    
-    <!-- Pixlr-o-matic -->
-    <item
-        component="ComponentInfo{pixlr.omatic/pixlr.OMatic.OMatic}"
-        drawable="pixlr_omatic"/>
-    
-    <!-- Play SE -->
-    <item
-        component="ComponentInfo{com.kantaris.playse/com.kantaris.playse.app.MainActivity}"
-        drawable="com_kantaris_playse"/>
-    <item
-        component="ComponentInfo{com.kantaris.playse/com.kantaris.playse.app.FavoritesActivity}"
-        drawable="com_kantaris_playse"/>
-    <item
-        component="ComponentInfo{com.kantaris.playse/com.kantaris.playse.app.SettingsActivity}"
-        drawable="com_kantaris_playse"/>
-    <item
-        component="ComponentInfo{com.kantaris.playse/com.kantaris.playse.app.PlayerActivity}"
-        drawable="com_kantaris_playse"/>
-    
-    <!-- Polaris office -->
-    <item
-        component="ComponentInfo{com.infraware.docmaster/com.htc.FilePicker.FilePickerPolarisOffice}"
-        drawable="com_infraware_docmaster"/>
-    <item
-        component="ComponentInfo{com.infraware.docmaster/com.infraware.polarisoffice.OfficeLauncherActivity}"
-        drawable="com_infraware_docmaster"/>
-    <item
-        component="ComponentInfo{com.infraware.docmaster/com.infraware.OfficeMainActivity}"
-        drawable="com_infraware_docmaster"/>
-    
-    <!-- Prince of persia -->
-    <item
-        component="ComponentInfo{org.ubisoft.premium.POPClassic/org.ubisoft.expansion.downloader.POPDownloaderActivity}"
-        drawable="org_ubisoft_premium_popclassic"/>
-    
-    <!-- Prince of persia free -->
-    <item
-        component="ComponentInfo{org.ubisoft.freemium.POPClassic/org.ubisoft.freemium.POPClassic.POPClassic}"
-        drawable="org_ubisoft_freemium_popclassic"/>
-    
-    <!-- Pro Capture -->
-    <item
-        component="ComponentInfo{com.neaststudios.procapture/com.neaststudios.procapture.Camera}"
-        drawable="com_neaststudios_procapture"/>
-    
-    <!-- Pro Capture free -->
-    <item
-        component="ComponentInfo{com.neaststudios.procapture.free/com.neaststudios.procapture.free.Camera}"
-        drawable="com_neaststudios_procapture_free"/>
-    
-    <!-- Pulse news -->
-    <item
-        component="ComponentInfo{com.alphonso.pulse/com.alphonso.pulse.newsrack.NewsRackActivity}"
-        drawable="com_alphonso_pulse"/>
-    <item
-        component="ComponentInfo{com.alphonso.pulse/com.alphonso.pulse.NewsRack}"
-        drawable="com_alphonso_pulse"/>
-
-    <!-- Quick Pic -->
-    <item
-        component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}"
-        drawable="com_alensw_picfolder"/>
-
-    <!-- Quizkampen -->
-    <item
-        component="ComponentInfo{se.feomedia.quizkampen/se.feomedia.quizkampen.MainActivity}"
-        drawable="se_feomedia_quizkampen"/>
-    
-    <!-- Quizkampen Premium -->
-    <item
-        component="ComponentInfo{se.feomedia.quizkampen.premium/se.feomedia.quizkampen.premium.MainActivity}"
-        drawable="se_feomedia_quizkampen_premium"/>
-    
-    <!-- Reckless getaway -->
-    <item
-        component="ComponentInfo{com.polarbit.getaway/com.polarbit.Getaway.Getaway}"
-        drawable="com_polarbit_getaway"/>
-    
-    <!-- Reckless Racing -->
-    <item
-        component="ComponentInfo{com.polarbit.RecklessRacing/com.polarbit.RecklessRacing.RecklessRacing}"
-        drawable="com_polarbit_recklessracing"/>
-    
-    <!-- Reckless Racing HD -->
-    <item
-        component="ComponentInfo{com.polarbit.RecklessRacingPlay/com.polarbit.RecklessRacingPlay.RecklessRacingPlay}"
-        drawable="com_polarbit_recklessracingplay"/>
-    
-    <!-- Reckless Racing lite -->
-    <item
-        component="ComponentInfo{com.polarbit.RecklessRacingLite/com.polarbit.RecklessRacingLite.RecklessRacingLite}"
-        drawable="com_polarbit_recklessracinglite"/>
-
-    <!-- RetroArch -->
-    <item
-        component="ComponentInfo{org.retroarch/org.retroarch.browser.RetroArch}"
-        drawable="org_retroarch"/>
-    
-    <!-- Road warrior -->
-    <item
-        component="ComponentInfo{com.mobjoy.roadwarrior/com.mobjoy.roadwarrior.RoadWarriorActivity}"
-        drawable="com_mobjoy_roadwarrior"/>
-    
-    <!-- Rom Manager -->
-    <item
-        component="ComponentInfo{com.koushikdutta.rommanager/com.koushikdutta.rommanager.RomManager}"
-        drawable="com_koushikdutta_rommanager"/>
-    
-    <!-- Rom Manager premium -->
-    <item
-        component="ComponentInfo{com.koushikdutta.rommanager.license/com.koushikdutta.rommanager.license.InstallFree}"
-        drawable="com_koushikdutta_rommanager_license"/>
-    
-    <!-- ROM Toolbox lite -->
-    <item
-        component="ComponentInfo{com.jrummy.liberty.toolbox/com.jrummy.liberty.toolbox.MainActivity}"
-        drawable="com_jrummy_liberty_toolbox"/>
-    
-    <!-- ROM Toolbox Pro -->
-    <item
-        component="ComponentInfo{com.jrummy.liberty.toolboxpro/com.jrummy.liberty.toolboxpro.MainActivity}"
-        drawable="com_jrummy_liberty_toolboxpro"/>
-    <item
-        component="ComponentInfo{com.jrummy.liberty.toolboxpro/com.jrummy.apps.rom.toolbox.RomToolboxActivity}"
-        drawable="com_jrummy_liberty_toolboxpro"/>
-    
-    <!-- Ruzzle -->
-    <item
-        component="ComponentInfo{se.maginteractive.rumble/se.maginteractive.rumble.activities.SplashActivity}"
-        drawable="se_maginteractive_rumble"/>
-    
-    <!-- Ruzzle free -->
-    <item
-        component="ComponentInfo{se.maginteractive.rumble.free/se.maginteractive.rumble.free.activities.SplashActivity}"
-        drawable="se_maginteractive_rumble_free"/>
-    
-    <!-- Samurai II: Vengeance -->
-    <item
-        component="ComponentInfo{com.madfingergames.SamuraiIIAll/com.madfingergames.SamuraiIIAll.com.unity3d.player.UnityPlayerProxyActivity}"
-        drawable="com_madfingergames_samuraiiiall"/>
-    <item
-        component="ComponentInfo{com.madfingergames.SamuraiIIAll/com.madfingergames.SamuraiIIAll.com.unity3d.player.UnityPlayerActivity}"
-        drawable="com_madfingergames_samuraiiiall"/>
-    <item
-        component="ComponentInfo{com.madfingergames.SamuraiIIAll/com.madfingergames.SamuraiIIAll.com.unity3d.player.UnityPlayernativeActivity}"
-        drawable="com_madfingergames_samuraiiiall"/>
-    <item
-        component="ComponentInfo{com.madfingergames.SamuraiIIAll/com.madfingergames:SamuraiIIAll.com.unity3d.player.VideoPlayer}"
-        drawable="com_madfingergames_samuraiiiall"/>
-    
-    <!-- SEB -->
-    <item
-        component="ComponentInfo{se.seb.privatkund/se.seb.privatkund.Splash}"
-        drawable="se_seb_privatkund"/>
-    <item
-        component="ComponentInfo{se.seb.privatkund/se.seb.privatkund.Main}"
-        drawable="se_seb_privatkund"/>
-    
-    <!-- SEB enkla firman -->
-    <item
-        component="ComponentInfo{se.seb.enklafirman/se.seb.enklafirman.Splash}"
-        drawable="se_seb_enklafirman"/>
-    
-    <!-- SetCPU for Root Users -->
-    <item
-        component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.Setcpu}"
-        drawable="com_mhuang_overclocking"/>
-    <item
-        component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.PhoneMainActivity}"
-        drawable="com_mhuang_overclocking"/>
-    <item
-        component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.IntroActivity}"
-        drawable="com_mhuang_overclocking"/>
-    <item
-        component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.overclocking}"
-        drawable="com_mhuang_overclocking"/>
-    <item
-        component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.DefaultActivity}"
-        drawable="com_mhuang_overclocking"/>
-    
-    <!-- Settings -->
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
-        drawable="com_android_settings"/>
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}"
-        drawable="com_android_settings"/>
-    
-    <!-- Settings Samsung -->
-    <item
-        component="ComponentInfo{com.samsung.twsettings/com.samsung.twsettings.Settings}"
-        drawable="com_samsung_twsettings"/>
-    
-    <!-- Skatteverket -->
-    <item
-        component="ComponentInfo{se.rsv.ef.mobil.android/se.rsv.ef.mobil.android.SkatteverketActivity}"
-        drawable="se_rsv_ef_mobil_android"/>
-    
-    <!-- Ski safari -->
-    <item
-        component="ComponentInfo{com.DefiantDev.SkiSafari/com.proxy.ProxyActivity}"
-        drawable="com_defiantdev_skisafari"/>
-
-    <!-- Soundcloud -->
-    <item
-        component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Main}"
-        drawable="com_soundcloud_android"/>
-    <item
-        component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Launch}"
-        drawable="com_soundcloud_android"/>
-    <item
-        component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Dashboard}"
-        drawable="com_soundcloud_android"/>
-
-    <!-- Soundhound -->
-    <item
-        component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SoundHound}"
-        drawable="com_melodis_midomimusicidentifier"/>
-    <item
-        component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.melodis.midomiMusicIdentifier.view.SoundHound}"
-        drawable="com_melodis_midomimusicidentifier"/>
-    
-    <!-- Soundhound free -->
-    <item
-        component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SoundHound}"
-        drawable="com_melodis_midomimusicidentifier_freemium"/>
-
-    <!-- Spotify -->
-    <item
-        component="ComponentInfo{com.spotify.mobile.android.ui/com.spotify.mobile.android.ui.Launcher}"
-        drawable="com_spotify_mobile_android_ui"/>
-    <item
-        component="ComponentInfo{com.spotify.mobile.android.ui/com.spotify.mobile.android.ui.activity.MainActivity}"
-        drawable="com_spotify_mobile_android_ui"/>
-
-    <!-- Steam -->
-    <item
-        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.CommunityActivity}"
-        drawable="com_valvesoftware_android_steam_community"/>
-    
-    <!-- STHLM traveling -->
-    <item
-        component="ComponentInfo{com.markupartist.sthlmtraveling/com.markupartist.sthlmtraveling.StartActivity}"
-        drawable="com_markupartist_sthlmtraveling"/>
-    
-    <!-- Super Hexagon -->
-    <item
-        component="ComponentInfo{com.distractionware.superhexagon/com.distractionware.superhexagon.SplashScreenActivity}"
-        drawable="com_distractionware_superhexagon"/>
-    
-    <!-- SuperGNES -->
-    <item
-        component="ComponentInfo{com.bubblezapgames.supergnes/com.bubblezapgames.supergnes.Splash}"
-        drawable="com_bubblezapgames_supergnes"/>
-    
-    <!-- SuperGNES lite -->
-    <item
-        component="ComponentInfo{com.bubblezapgames.supergnes_lite/com.bubblezapgames.supergnes_lite.Splash}"
-        drawable="com_bubblezapgames_supergnes_lite"/>
-
-    <!-- SvD -->
-    <item
-        component="ComponentInfo{se.svd.start/se.svd.start.Launcher}"
-        drawable="se_svd_start"/>
-    
-    <!-- SVOX classic tts -->
-    <item
-        component="ComponentInfo{com.svox.classic/com.svox.classic.catalog.Catalog}"
-        drawable="com_svox_classic"/>
-
-    <!-- SVT Play -->
-    <item
-        component="ComponentInfo{air.se.svt.svti.android.svtplayer/se.svt.svti.android.svtplay.SvtPlayActivity}"
-        drawable="air_svt_svti_android_svtplayer"/>
-    
-    <!-- SwitchPro Widget -->
-    <item
-        component="ComponentInfo{alei.switchpro/alei.switchpro.MainPrefActivity}"
-        drawable="alei_switchpro"/>
-    <item
-        component="ComponentInfo{alei.switchpro/alei.switchpro.MainConfigActivity}"
-        drawable="alei_switchpro"/>
-    <item
-        component="ComponentInfo{alei.switchpro/alei.switchpro.GlobalConfigPrefActivity}"
-        drawable="alei_switchpro"/>
-    
-    <!-- Swype -->
-    <item
-        component="ComponentInfo{com.swype.android.installer/com.swype.android.installer.SwypeInstaller}"
-        drawable="com_swype_android_installer"/>
-    
-    <!-- Tablet talk -->
-    <item
-        component="ComponentInfo{com.apdroid.tabtalk/com.apdroid.tabtalk.MainActivity}"
-        drawable="com_apdroid_tabtalk"/>
-    <item
-        component="ComponentInfo{com.apdroid.tabtalk/com.apdroid.tabtalk.DialActivity}"
-        drawable="com_apdroid_tabtalk"/>
-    
-    <!-- Taptu -->
-    <item
-        component="ComponentInfo{com.taptu.streams/com.taptu.streams.activities.MainActivity}"
-        drawable="com_taptu_streams"/>
-
-    <!-- Tasker -->
-    <item
-        component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}"
-        drawable="net_dinglisch_android_taskerm"/>
-
-    <!-- Temple Run -->
-    <item
-        component="ComponentInfo{com.imangi.templerun/com.temple.run.game.A.LaunchActivity}"
-        drawable="com_imangi_templerun"/>
-    
-    <!-- Temple Run: Brave -->
-    <item
-        component="ComponentInfo{com.disney.brave_google/com.bhvr.extendedunityplayer.ExtendedUnityPlayer}"
-        drawable="com_disney_brave_google"/>
-
-    <!-- Tetris Space -->
-    <item
-        component="ComponentInfo{com.pastagames.ro1mobile/com.power.tetrisspace.TetrisSpace}"
-        drawable="com_pastagames_ro1mobile"/>
-
-    <!-- Tradera -->
-    <item
-        component="ComponentInfo{com.tradera/com.tradera.activity.SearchActivity}"
-        drawable="com_tradera"/>
-    
-    <!-- TSF shell -->
-    <item
-        component="ComponentInfo{com.tsf.shell/com.tsf.shell.Home}"
-        drawable="com_tsf_shell"/>
-    
-    <!-- Tv guiden -->
-    <item
-        component="ComponentInfo{com.appsforenbedreverden.tvguide/com.appsforenbedreverden.tvguide.TVGuide}"
-        drawable="com_appsforenbedreverden_tvguide"/>
-    <item
-        component="ComponentInfo{com.appsforenbedreverden.tvguide/com.appsforenbedreverden.tvguidepaid.TVGuide}"
-        drawable="com_appsforenbedreverden_tvguide"/>
-    
-    <!--Tv.nu  -->
-    <item
-        component="ComponentInfo{com.tvnu.app/com.tvnu.app.Main}"
-        drawable="com_tvnu_app"/>
-    <item
-        component="ComponentInfo{com.tvnu.app/com.tvnu.app.ui.HomeActivity}"
-        drawable="com_tvnu_app"/>
-    <item
-        component="ComponentInfo{com.tvnu.app/com_tvnu_app_ui_homeactivity}"
-        drawable="com_tvnu_app"/>
-
-    <!-- Twee -->
-    <item
-        component="ComponentInfo{se.ja1984.twee/se.ja1984.twee.HomeActivity}"
-        drawable="se_ja1984_twee"/>
-    
-    <!-- Tweetcaster -->
-    <item
-        component="ComponentInfo{com.handmark.tweetcaster/com.handmark.tweetcaster.TimelineActivity}"
-        drawable="com_handmark_tweetcaster"/>
-    
-    <!-- Tweetcaster premium -->
-    <item
-        component="ComponentInfo{com.handmark.tweetcaster.premium/com.handmark.tweetcaster.TimelineActivity}"
-        drawable="com_handmark_tweetcaster_premium"/>
-    
-    <!-- Umano -->
-    <item
-        component="ComponentInfo{com.sothree.umano/com.sothree.umano.activities.SplashActivity}"
-        drawable="com_sothree_umano"/>
-    
-    <!-- Unified Remote -->
-    <item
-        component="ComponentInfo{com.Relmtech.Remote/com.Relmtech.Remote.RemoteStart}"
-        drawable="com_relmtech_remote"/>
-    
-    <!-- Unified Remote full -->
-    <item
-        component="ComponentInfo{com.Relmtech.RemotePaid/com.Relmtech.Remote2.Activities.MainActivity}"
-        drawable="com_relmtech_remotepaid"/>
-
-    <!-- uTorrent -->
-    <item
-        component="ComponentInfo{com.utorrent.client/com.utorrent.client.Main}"
-        drawable="com_utorrent_client"/>
-    
-    <!-- Vector -->
-    <item
-        component="ComponentInfo{com.nekki.vector/com.nekki.vector.Main}"
-        drawable="com_nekki_vector"/>
-    
-    <!-- Viaplay -->
-    <item
-        component="ComponentInfo{com.viasatondemand/com.viasatondemand.activity.StartActivity}"
-        drawable="com_viasatondemand"/>
-
-    <!-- Viber -->
-    <item
-        component="ComponentInfo{com.viber.voip/com.viber.voip.IdleActivity}"
-        drawable="com_viber_voip"/>
-    
-    <!-- Vignette -->
-    <item
-        component="ComponentInfo{uk.co.neilandtheresa.NewVignette/uk.co.neilandtheresa.Vignette.Vignette}"
-        drawable="uk_co_neilandtheresa_newvignette"/>
-    <item
-        component="ComponentInfo{uk.co.neilandtheresa.NewVignette/uk.co.neilandtheresa.NewVignette.Vignette}"
-        drawable="uk_co_neilandtheresa_newvignette"/>
-    
-    <!-- What's worth on ebay -->
-    <item
-        component="ComponentInfo{de.koloch.evaluator/de.koloch.evaluator.SearchScreen}"
-        drawable="de_koloch_evaluator"/>
-    
-    <!-- What's worth on ebay free -->
-    <item
-        component="ComponentInfo{de.koloch.evaluator.free/de.koloch.evaluator.free.SearchScreen}"
-        drawable="de_koloch_evaluator_free"/>
-    
-    <!-- Where's My Perry? -->
-    <item
-        component="ComponentInfo{com.disney.WMP/com.disney.WMP.WMWActivity}"
-        drawable="com_disney_wmp"/>
-    <item
-        component="ComponentInfo{com.disney.WMP_AMA/com.disney.WMP_AMA.WMWActivity}"
-        drawable="com_disney_wmp"/>
-
-    <!-- Where's My Perry? Free -->
-    <item
-        component="ComponentInfo{com.disney.WMPLite/com.disney.WMPLite.WMWActivity}"
-        drawable="com_disney_wmplite"/>
-    <item
-        component="ComponentInfo{com.disney.WMPLite_AMA/com.disney.WMPLite_AMA.WMWActivity}"
-        drawable="com_disney_wmplite"/>
-
-    <!-- Wordfeud -->
-    <item
-        component="ComponentInfo{com.hbwares.wordfeud.full/com.hbwares.wordfeud.lib.WordFeudActivity}"
-        drawable="com_hbwares_wordfeud_full"/>
-
-    <!-- Wordfeud Free -->
-    <item
-        component="ComponentInfo{com.hbwares.wordfeud.free/com.hbwares.wordfeud.ui.WordFeudActivity}"
-        drawable="com_hbwares_wordfeud_free"/>
-    
-    <!-- Wordpress -->
-    <item
-        component="ComponentInfo{org.wordpress.android/org.wordpress.android.Dashboard}"
-        drawable="org_wordpress_android"/>
-    <item
-        component="ComponentInfo{org.wordpress.android/org.wordpress.android.splashScreen}"
-        drawable="org_wordpress_android"/>
-
-    <!-- World of Goo -->
-    <item
-        component="ComponentInfo{com.twodboy.worldofgoofull/com.twodboy.worldofgoofull.WorldOfGooFull}"
-        drawable="com_twodboy_worldofgoofull"/>
-
-    <!-- WyWallet -->
-    <item
-        component="ComponentInfo{se.accumulate.me.core.androidclient/se.accumulate.me.core.androidclient.wywallet.WyWalletClient}"
-        drawable="se_accumulate_me_core_androidclient"/>
-
-    <!-- Youtube -->
-    <item
-        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity}"
-        drawable="com_google_android_youtube"/>
-    <item
-        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}"
-        drawable="com_google_android_youtube"/>
-    <item
-        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
-        drawable="com_google_android_youtube"/>
-    <item
-        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity}"
-        drawable="com_google_android_youtube"/>
-    <item
-        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomePage}"
-        drawable="com_google_android_youtube"/>
-    
-    <!-- Youtube remote -->
-    <item
-        component="ComponentInfo{com.google.android.ytremote/com.google.android.ytremote.WatchActivityProxy}"
-        drawable="com_google_android_ytremote"/>
-    <item
-        component="ComponentInfo{com.google.android.ytremote/com.google.android.ytremote.WatchActivity}"
-        drawable="com_google_android_ytremote"/>
-    
-    <!-- Zeam Launcher -->
-    <item
-        component="ComponentInfo{org.zeam/org.zeam.Launcher}"
-        drawable="org_zeam"/>
-
-    <!-- Zedge -->
-    <item
-        component="ComponentInfo{net.zedge.android/net.zedge.android.Main}"
-        drawable="net_zedge_android"/>
-    
-    
-    
-    
+
+		<!--<iconback img1="temp" /> <iconmask img1="iconmask" /> <iconupon img1="iconupon" />
+
+	<scale factor="0.3" />-->
+
+
+
+
+	<!-- Pix: Pixel Mixer -->
+
+	<item
+	component="ComponentInfo{air.net.daum.pix/air.net.daum.pix.AppEntry}"
+	drawable="air_net_daum_pix"/>
+
+
+	<!-- Machinarium -->
+
+	<item
+	component="ComponentInfo{air.net.machinarium.Machinarium/air.net.machinarium.Machinarium.AppEntry}"
+	drawable="air_net_machinarium_Machinarium"/>
+
+
+	<!-- Svt Play -->
+
+	<item
+	component="ComponentInfo{air.se.svt.svti.android.svtplayer/se.svt.svti.android.svtplay.SVTPlayViewer}"
+	drawable="air_se_svt_svti_android_svtplayer"/>
+
+	<item
+	component="ComponentInfo{air.se.svt.svti.android.svtplayer/air.se.svt.svti.android.svtplayer.AppEntry}"
+	drawable="air_se_svt_svti_android_svtplayer"/>
+
+	<item
+	component="ComponentInfo{air.se.svt.svti.android.svtplayer/se.svt.svti.android.svtplay.SvtPlayActivity}"
+	drawable="air_se_svt_svti_android_svtplayer"/>
+
+
+	<!-- SuperNinjaSkydivingPlus -->
+
+	<item
+	component="ComponentInfo{air.snspz/air.snspz.AppEntry}"
+	drawable="air_snspz"/>
+
+
+	<!-- NinjaSkydivingPlusZomb -->
+
+	<item
+	component="ComponentInfo{air.snspzFree/air.snspzfree.AppEntry}"
+	drawable="air_snspzFree"/>
+
+
+	<!-- SwitchPro Widget -->
+
+	<item
+	component="ComponentInfo{alei.switchpro/alei.switchpro.MainPrefActivity}"
+	drawable="alei_switchpro"/>
+
+	<item
+	component="ComponentInfo{alei.switchpro/alei.switchpro.MainConfigActivity}"
+	drawable="alei_switchpro"/>
+
+	<item
+	component="ComponentInfo{alei.switchpro/alei.switchpro.GlobalConfigPrefActivity}"
+	drawable="alei_switchpro"/>
+
+
+	<!-- Abduction! -->
+
+	<item
+	component="ComponentInfo{au.com.phil/au.com.phil.Intro}"
+	drawable="au_com_phil"/>
+
+
+	<!-- Abduction! World Attack -->
+
+	<item
+	component="ComponentInfo{au.com.phil.abduction/au.com.phil.abduction.Intro}"
+	drawable="au_com_phil_abduction"/>
+
+
+	<!-- Abduction! 2 -->
+
+	<item
+	component="ComponentInfo{au.com.phil.abduction2/au.com.phil.abduction2.menus.PsymIntro}"
+	drawable="au_com_phil_abduction2"/>
+
+
+	<!-- Gunman clive -->
+
+	<item
+	component="ComponentInfo{beril.mootor.gmc/beril.mootor.gmc.JavaBase}"
+	drawable="beril_mootor_gmc"/>
+
+
+	<!-- Blue Dict -->
+
+	<item
+	component="ComponentInfo{cn.ssdl.bluedict/cn.ssdl.main.MainActivity}"
+	drawable="cn_ssdl_bluedict"/>
+
+
+	<!-- Accuweather -->
+
+	<item
+	component="ComponentInfo{com.accuweather.android/com.accuweather.android.MainActivity}"
+	drawable="com_accuweather_android"/>
+
+	<item
+	component="ComponentInfo{com.accuweather.android/com.accuweather.android.LauncherActivity}"
+	drawable="com_accuweather_android"/>
+
+	<item
+	component="ComponentInfo{com.accuweather.android/com.accuweather.android.AccuWeather}"
+	drawable="com_accuweather_android"/>
+
+	<item
+	component="ComponentInfo{com.accuweather.android/com.accuweather.android.MainMenuActivity}"
+	drawable="com_accuweather_android"/>
+
+
+	<!-- Orbital Defender Full -->
+
+	<item
+	component="ComponentInfo{com.addictivezone.odefenderfull1/com.addictivezone.odefenderfull1.MyCoronaActivity}"
+	drawable="com_addictivezone_odefenderfull1"/>
+
+
+	<!-- Orbital Defender Lite -->
+
+	<item
+	component="ComponentInfo{com.addictivezone.odefenderlite1/com.addictivezone.odefenderlite1.MyCoronaActivity}"
+	drawable="com_addictivezone_odefenderlite1"/>
+
+
+	<!-- Adobe flash player  -->
+
+	<item
+	component="ComponentInfo{com.adobe.flashplayer/com.adobe.flashplayer.SettingsManager}"
+	drawable="com_adobe_flashplayer"/>
+
+
+	<!-- Photoshop Express -->
+
+	<item
+	component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.PhotoshopMobile}"
+	drawable="com_adobe_psmobile"/>
+
+
+	<!-- Adobe Reader -->
+
+	<item
+	component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}"
+	drawable="com_adobe_reader"/>
+
+
+	<!-- Sportbladet -->
+
+	<item
+	component="ComponentInfo{com.aftonbladet.sportbladet/com.aftonbladet.sportbladet.SportbladetActivity}"
+	drawable="com_aftonbladet_sportbladet"/>
+
+
+	<!-- Androzip -->
+
+	<item
+	component="ComponentInfo{com.agilesoftresource/com.agilesoftresource.MainView}"
+	drawable="com_agilesoftresource"/>
+
+	<item
+	component="ComponentInfo{com.asrazpaid/com.asrazpaid.MainView}"
+	drawable="com_agilesoftresource"/>
+
+
+	<!-- Aldiko -->
+
+	<item
+	component="ComponentInfo{com.aldiko.android/com.aldiko.android.ui.AliasHomeScreen}"
+	drawable="com_aldiko_android"/>
+
+
+	<!-- QuickPic -->
+
+	<item
+	component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}"
+	drawable="com_alensw_PicFolder"/>
+
+
+	<!-- AllSnow Ski Reports & Tracker -->
+
+	<item
+	component="ComponentInfo{com.allsnow.android/com.allsnow.android.StartActivity}"
+	drawable="com_allsnow_android"/>
+
+
+	<!-- Pulse news -->
+
+	<item
+	component="ComponentInfo{com.alphonso.pulse/com.alphonso.pulse.newsrack.NewsRackActivity}"
+	drawable="com_alphonso_pulse"/>
+
+	<item
+	component="ComponentInfo{com.alphonso.pulse/com.alphonso.pulse.NewsRack}"
+	drawable="com_alphonso_pulse"/>
+
+
+	<!-- AlpineReplay Ski & Snowboard -->
+
+	<item
+	component="ComponentInfo{com.alpinereplay.android/com.alpinereplay.android.activities.Splash}"
+	drawable="com_alpinereplay_android"/>
+
+	<item
+	component="ComponentInfo{com.alpinereplay.android/com.alpinereplay.android.splash.Splash}"
+	drawable="com_alpinereplay_android"/>
+
+
+	<!-- Amazon -->
+
+	<item
+	component="ComponentInfo{com.amazon.mshop.android/com.amazon.mShop.home.HomeActivity}"
+	drawable="com_amazon_mshop_android"/>
+
+
+	<!-- Fancy Widget -->
+
+	<item
+	component="ComponentInfo{com.anddoes.fancywidget/com.anddoes.fancywidgets.PreferencesActivity}"
+	drawable="com_anddoes_fancywidget"/>
+
+
+	<!-- Apollo -->
+
+	<item
+	component="ComponentInfo{com.andrew.apollo/com.andrew.apollo.activities.MusicLibrary}"
+	drawable="com_andrew_apollo"/>
+
+
+	<!-- Clock -->
+
+	<item
+	component="ComponentInfo{com.android.alarmclock/com.android.alarmclock.AlarmClock}"
+	drawable="com_android_alarmclock"/>
+
+	<item
+	component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}"
+	drawable="com_android_alarmclock"/>
+
+	<item
+	component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
+	drawable="com_android_alarmclock"/>
+
+	<item
+	component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
+	drawable="com_android_alarmclock"/>
+
+	<item
+	component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}"
+	drawable="com_android_alarmclock"/>
+
+
+	<!-- Browser -->
+
+	<item
+	component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}"
+	drawable="com_android_browser"/>
+
+	<item
+	component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}"
+	drawable="com_android_browser"/>
+
+
+	<!-- Calculator -->
+
+	<item
+	component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}"
+	drawable="com_android_calculator2"/>
+
+	<item
+	component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}"
+	drawable="com_android_calculator2"/>
+
+
+	<!-- Calendar -->
+
+	<item
+	component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.lgl.calendar/com.lgl.calendar.activity.TabManagerActivity}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}"
+	drawable="com_android_calendar"/>
+
+	<item
+	component="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}"
+	drawable="com_android_calendar"/>
+
+
+	<!-- Camera -->
+
+	<item
+	component="ComponentInfo{com.google.android.gallery3d/com.android.camera.CameraLauncher}"
+	drawable="com_google_android_gallery3d"/>
+
+
+	<!-- Google Chrome -->
+
+	<item
+	component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+	drawable="com_android_chrome"/>
+
+	<item
+	component="ComponentInfo{com.android.chrome/com.android.chrome.Main}"
+	drawable="com_android_chrome"/>
+
+
+	<!-- Contacts -->
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}"
+	drawable="com_android_contacts"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.ContactsEntryActivity}"
+	drawable="com_android_contacts"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}"
+	drawable="com_android_contacts"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.PhoneBookTopMenuActivity}"
+	drawable="com_android_contacts"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallLogEntryActivity}"
+	drawable="com_android_contacts"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.android.contacts.activities.ContactsFrontDoor}"
+	drawable="com_android_contacts"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}"
+	drawable="com_android_contacts"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.PhoneBookSplitTopMenuActivity}"
+	drawable="com_android_contacts"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.android.contacts.PhoneContactsActivity}"
+	drawable="com_android_contacts"/>
+
+
+	<!-- Phone (HTC Dialer) -->
+
+	<item
+	component="ComponentInfo{com.android.htcdialer/com.android.htcdialer.Dialer}"
+	drawable="com_android_htcdialer"/>
+
+
+	<!-- Messages -->
+
+	<item
+	component="ComponentInfo{com.android.mms/com.android.mms.ui.MessageTabActivity}"
+	drawable="com_android_mms"/>
+
+	<item
+	component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+	drawable="com_android_mms"/>
+
+	<item
+	component="ComponentInfo{com.android.mms/com.android.mms.ui.VoiceMailTabActivity}"
+	drawable="com_android_mms"/>
+
+
+	<!-- Music player -->
+
+	<item
+	component="ComponentInfo{com.android.music/com.android.music.MusicBrowserActivity}"
+	drawable="com_android_music"/>
+
+	<item
+	component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.list.activity.MpMainTabActivity}"
+	drawable="com_android_music"/>
+
+	<item
+	component="ComponentInfo{com.android.music/com.android.music.list.activity.MpMainTabActivity}"
+	drawable="com_android_music"/>
+
+
+	<!-- Phone -->
+
+	<item
+	component="ComponentInfo{com.android.phone/com.android.phone.DialtactsContactsEntryActivity}"
+	drawable="com_android_phone"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.android.contacts.activites.DialtactsActivity}"
+	drawable="com_android_phone"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}"
+	drawable="com_android_phone"/>
+
+	<item
+	component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}"
+	drawable="com_android_phone"/>
+
+	<item
+	component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}"
+	drawable="com_android_phone"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.android.contacts.RecentCallsListActivity}"
+	drawable="com_android_phone"/>
+
+	<item
+	component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}"
+	drawable="com_android_phone"/>
+
+	<item
+	component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}"
+	drawable="com_android_phone"/>
+
+
+	<!-- Downloads -->
+
+	<item
+	component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}"
+	drawable="com_android_providers_downloads_ui"/>
+
+	<item
+	component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab}"
+	drawable="com_android_providers_downloads_ui"/>
+
+	<item
+	component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadTabActivity}"
+	drawable="com_android_providers_downloads_ui"/>
+
+
+	<!-- Settings -->
+
+	<item
+	component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+	drawable="com_android_settings"/>
+
+
+	<!-- Settings (HTC) -->
+
+	<item
+	component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}"
+	drawable="com_android_settings"/>
+
+
+	<!-- Ljudinspelaren -->
+
+	<item
+	component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}"
+	drawable="com_android_soundrecorder"/>
+
+	<item
+	component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.recorderactivity}"
+	drawable="com_android_soundrecorder"/>
+
+
+	<!-- Google Play Store -->
+
+	<item
+	component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
+	drawable="com_android_vending"/>
+
+
+	<!-- Video Editor -->
+
+	<item
+	component="ComponentInfo{com.android.videoeditor/com.android.videoeditor.projectsactivity}"
+	drawable="com_android_videoeditor"/>
+
+
+	<!-- Engadget -->
+
+	<item
+	component="ComponentInfo{com.aol.mobile.engadget/com.aol.mobile.engadget.splashscreen.SplashScreen}"
+	drawable="com_aol_mobile_engadget"/>
+
+
+	<!-- Tablet talk -->
+
+	<item
+	component="ComponentInfo{com.apdroid.tabtalk/com.apdroid.tabtalk.MainActivity}"
+	drawable="com_apdroid_tabtalk"/>
+
+	<item
+	component="ComponentInfo{com.apdroid.tabtalk/com.apdroid.tabtalk.DialActivity}"
+	drawable="com_apdroid_tabtalk"/>
+
+
+	<!-- Compass -->
+
+	<item
+	component="ComponentInfo{com.apksoftware.compass/com.apksoftware.compass.Compass}"
+	drawable="com_apksoftware_compass"/>
+
+
+	<!-- Tv guiden -->
+
+	<item
+	component="ComponentInfo{com.appsforenbedreverden.tvguide/com.appsforenbedreverden.tvguide.TVGuide}"
+	drawable="com_appsforenbedreverden_tvguide"/>
+
+	<item
+	component="ComponentInfo{com.appsforenbedreverden.tvguide/com.appsforenbedreverden.tvguidepaid.TVGuide}"
+	drawable="com_appsforenbedreverden_tvguide"/>
+
+
+	<!-- Cool wallpapers HD -->
+
+	<item
+	component="ComponentInfo{com.appsilicious.wallpapers/com.appsilicious.wallpapers.WallpapersMain}"
+	drawable="com_appsilicious_wallpapers"/>
+
+
+	<!-- Appbrain -->
+
+	<item
+	component="ComponentInfo{com.appspot.swisscodemonkeys.apps/com.appspot.swisscodemonkeys.apps.AppsActivity}"
+	drawable="com_appspot_swisscodemonkeys_apps"/>
+
+
+	<!-- How to Draw - Easy Lessons -->
+
+	<item
+	component="ComponentInfo{com.artelplus.howtodraw/com.artelplus.howtodraw.Main}"
+	drawable="com_artelplus_howtodraw"/>
+
+
+	<!-- How to Tie a Tie -->
+
+	<item
+	component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}"
+	drawable="com_artelplus_howtotie"/>
+
+
+	<!-- How to Tie a Tie Pro -->
+
+	<item
+	component="ComponentInfo{com.artelplus.howtotiepro/com.artelplus.howtotiepro.Main}"
+	drawable="com_artelplus_howtotiepro"/>
+
+
+	<!-- Quadrant Advanced Edition -->
+
+	<item
+	component="ComponentInfo{com.aurorasoftworks.quadrant.ui.advanced/com.aurorasoftworks.quadrant.ui.advanced.QuadrantAdvancedActivity}"
+	drawable="com_aurorasoftworks_quadrant_ui_advanced"/>
+
+	<item
+	component="ComponentInfo{com.aurorasoftworks.quadrant.ui.advanced/com.aurorasoftworks.quadrant.ui.advanced.QuadrantAdvancedLauncherActivity}"
+	drawable="com_aurorasoftworks_quadrant_ui_advanced"/>
+
+
+	<!-- Quadrant Professional -->
+
+	<item
+	component="ComponentInfo{com.aurorasoftworks.quadrant.ui.professional/com.aurorasoftworks.quadrant.ui.professional.QuadrantProfessionalLauncherActivity}"
+	drawable="com_aurorasoftworks_quadrant_ui_professional"/>
+
+	<item
+	component="ComponentInfo{com.aurorasoftworks.quadrant.ui.professional/com.aurorasoftworks.quadrant.ui.professional.QuadrantProfessionalActivity}"
+	drawable="com_aurorasoftworks_quadrant_ui_professional"/>
+
+
+	<!-- Quadrant Standard -->
+
+	<item
+	component="ComponentInfo{com.aurorasoftworks.quadrant.ui.standard/com.aurorasoftworks.quadrant.ui.standard.QuadrantStandardActivity}"
+	drawable="com_aurorasoftworks_quadrant_ui_standard"/>
+
+	<item
+	component="ComponentInfo{com.aurorasoftworks.quadrant.ui.standard/com.aurorasoftworks.quadrant.ui.standard.QuadrantStandardLauncherActivity}"
+	drawable="com_aurorasoftworks_quadrant_ui_standard"/>
+
+
+	<!-- Badoo -->
+
+	<item
+	component="ComponentInfo{com.badoo.mobile/com.badoo.mobile.android.BadooActivity}"
+	drawable="com_badoo_mobile"/>
+
+
+	<!-- Bambuser -->
+
+	<item
+	component="ComponentInfo{com.bambuser.broadcaster/com.bambuser.broadcaster.BambuserStarter}"
+	drawable="com_bambuser_broadcaster"/>
+
+
+	<!-- DSP Manager -->
+
+	<item
+	component="ComponentInfo{com.bel.android.dspmanager/com.bel.android.dspmanager.activity.DSPManager}"
+	drawable="com_bel_android_dspmanager"/>
+
+
+	<!-- Best buy -->
+
+	<item
+	component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.Home}"
+	drawable="com_bestbuy_android"/>
+
+
+	<!-- Flow Free -->
+
+	<item
+	component="ComponentInfo{com.bigduckgames.flow/com.bigduckgames.flow.flow}"
+	drawable="com_bigduckgames_flow"/>
+
+
+	<!-- Flow Free: Bridges -->
+
+	<item
+	component="ComponentInfo{com.bigduckgames.flowbridges/com.bigduckgames.flowbridges.flow}"
+	drawable="com_bigduckgames_flowbridges"/>
+
+
+	<!-- AdFree -->
+
+	<item
+	component="ComponentInfo{com.bigtincan.adfree/com.bigtincan.android.adfree.FreeMe}"
+	drawable="com_bigtincan_adfree"/>
+
+
+	<!-- Apparatus -->
+
+	<item
+	component="ComponentInfo{com.bithack.apparatus/com.bithack.apparatus.ApparatusApplication}"
+	drawable="com_bithack_apparatus"/>
+
+
+	<!-- Apparatus LITE -->
+
+	<item
+	component="ComponentInfo{com.bithack.apparatuslite/com.bithack.apparatuslite.ApparatusApplication}"
+	drawable="com_bithack_apparatuslite"/>
+
+
+	<!-- Greedy Spiders -->
+
+	<item
+	component="ComponentInfo{com.blyts.greedyspiders/com.blyts.greedyspiders.activities.MainActivity}"
+	drawable="com_blyts_greedyspiders"/>
+
+	<item
+	component="ComponentInfo{com.blyts.greedyspiders/com_blyts_greedyspiders_activities_menuactivity}"
+	drawable="com_blyts_greedyspiders"/>
+
+
+	<!-- Greedy Spiders Free -->
+
+	<item
+	component="ComponentInfo{com.blyts.greedyspiders.free/com.blyts.greedyspiders.free.activities.MainActivity}"
+	drawable="com_blyts_greedyspiders_free"/>
+
+	<item
+	component="ComponentInfo{com.blyts.greedyspiders.free/com.blyts.greedyspiders.free.activities.MenuActivity}"
+	drawable="com_blyts_greedyspiders_free"/>
+
+
+	<!-- Greedy Spiders 2 -->
+
+	<item
+	component="ComponentInfo{com.blyts.greedyspiders2/com.blyts.greedyspiders2.activities.MainActivity}"
+	drawable="com_blyts_greedyspiders2"/>
+
+	<item
+	component="ComponentInfo{com.blyts.greedyspiders2/com.blyts.greedyspiders2.main}"
+	drawable="com_blyts_greedyspiders2"/>
+
+
+	<!-- Greedy Spiders 2 Free -->
+
+	<item
+	component="ComponentInfo{com.blyts.greedyspiders2.free/com.blyts.greedyspiders2.free.activities.MainActivity}"
+	drawable="com_blyts_greedyspiders2_free"/>
+
+
+	<!-- Parkour: Roof Riders -->
+
+	<item
+	component="ComponentInfo{com.blyts.parkour.activities/com.blyts.parkour.activities.InitActivity}"
+	drawable="com_blyts_parkour_activities"/>
+
+
+	<!-- Parkour: Roof Riders Lite -->
+
+	<item
+	component="ComponentInfo{com.blyts.parkourlite.activities/com.blyts.parkourlite.activities.InitActivity}"
+	drawable="com_blyts_parkourlite_activities"/>
+
+
+	<!-- Booking.com -->
+
+	<item
+	component="ComponentInfo{com.booking/com.booking.activity.SplashActivity}"
+	drawable="com_booking"/>
+
+
+	<!-- Box.com -->
+
+	<item
+	component="ComponentInfo{com.box.android/com.box.android.activities.Authentication}"
+	drawable="com_box_android"/>
+
+
+	<!-- SuperGNES -->
+
+	<item
+	component="ComponentInfo{com.bubblezapgames.supergnes/com.bubblezapgames.supergnes.Splash}"
+	drawable="com_bubblezapgames_supergnes"/>
+
+
+	<!-- SuperGNES lite -->
+
+	<item
+	component="ComponentInfo{com.bubblezapgames.supergnes_lite/com.bubblezapgames.supergnes_lite.Splash}"
+	drawable="com_bubblezapgames_supergnes_lite"/>
+
+
+	<!-- Google Chrome Beta -->
+
+	<item
+	component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}"
+	drawable="com_chrome_beta"/>
+
+	<item
+	component="ComponentInfo{com.chrome.beta/com.android.chrome.Main}"
+	drawable="com_chrome_beta"/>
+
+
+	<!-- Colors -->
+
+	<item
+	component="ComponentInfo{com.citc.colors/com.citc.colors.activities.ColorsActivity}"
+	drawable="com_citc_colors"/>
+
+
+	<!-- Gallery -->
+
+	<item
+	component="ComponentInfo{com.google.android.gallery3d/com.android.gallery3d.app.Gallery}"
+	drawable="com_google_android_gallery3d"/>
+
+
+	<!-- CyanogenMod Filemanager -->
+
+	<item
+	component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}"
+	drawable="com_cyanogenmod_filemanager"/>
+
+
+	<!-- CyanogenMod Torch -->
+
+	<item
+	component="ComponentInfo{com.cyanogenmod.torch/com.cyanogenmod.torch.torchactivity}"
+	drawable="com_cyanogenmod_torch"/>
+
+
+	<!-- Paper camera -->
+
+	<item
+	component="ComponentInfo{com.dama.papercamera/com.dama.papercamera.PaperCameraActivity}"
+	drawable="com_dama_papercamera"/>
+
+
+	<!-- Ski Safari -->
+
+	<item
+	component="ComponentInfo{com.DefiantDev.SkiSafari/com.unity3d.player.UnityPlayerProxyActivity}"
+	drawable="com_DefiantDev_SkiSafari"/>
+
+
+	<!-- Feedly -->
+
+	<item
+	component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}"
+	drawable="com_devhd_feedly"/>
+
+
+	<!-- Dictionary -->
+
+	<item
+	component="ComponentInfo{com.dictionary/com.dictionary.Splash}"
+	drawable="com_dictionary"/>
+
+
+	<!-- Dictionary paid -->
+
+	<item
+	component="ComponentInfo{com.dictionary.paid/com.dictionary.paid.Splash}"
+	drawable="com_dictionary_paid"/>
+
+
+	<!-- Akinator the Genie -->
+
+	<item
+	component="ComponentInfo{com.digidust.elokence.akinator.paid/com.digidust.elokence.akinator.activities.SplashscreenActivity}"
+	drawable="com_digidust_elokence_akinator_paid"/>
+
+
+	<!-- Temple Run: Brave -->
+
+	<item
+	component="ComponentInfo{com.disney.brave.google/com.bhvr.extendedunityplayer.ExtendedUnityPlayer}"
+	drawable="com_disney_brave_google"/>
+
+
+	<!-- Where's My Perry? -->
+
+	<item
+	component="ComponentInfo{com.disney.WMP/com.disney.WMP.WMWActivity}"
+	drawable="com_disney_WMP"/>
+
+	<item
+	component="ComponentInfo{com.disney.WMPLite/com.disney.WMPLite.WMWActivity}"
+	drawable="com_disney_WMP"/>
+
+	<item
+	component="ComponentInfo{com.disney.WMP_AMA/com.disney.WMP_AMA.WMWActivity}"
+	drawable="com_disney_WMP"/>
+
+	<item
+	component="ComponentInfo{com.disney.WMPLite_AMA/com.disney.WMPLite_AMA.WMWActivity}"
+	drawable="com_disney_WMP"/>
+
+
+	<!-- Super Hexagon -->
+
+	<item
+	component="ComponentInfo{com.distractionware.superhexagon/com.distractionware.superhexagon.SplashScreenActivity}"
+	drawable="com_distractionware_superhexagon"/>
+
+	<item
+	component="ComponentInfo{com.distractionware.superhexagon.humble/com.distractionware.superhexagon.humble.SplashScreenActivity}"
+	drawable="com_distractionware_superhexagon"/>
+
+
+	<!-- Another world -->
+
+	<item
+	component="ComponentInfo{com.dotemu.anotherworld/com.dotemu.anotherworld.LaunchActivity}"
+	drawable="com_dotemu_anotherworld"/>
+
+
+	<!-- Drippler -->
+
+	<item
+	component="ComponentInfo{com.drippler.android.updates/com.drippler.android.updates.PreSplash}"
+	drawable="com_drippler_android_updates"/>
+
+
+	<!-- Android Activities -->
+
+	<item
+	component="ComponentInfo{com.droidicon.androidactivities/com.droidicon.androidactivities.Main}"
+	drawable="com_droidicon_androidactivities"/>
+
+
+	<!-- Dropbox -->
+
+	<item
+	component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}"
+	drawable="com_dropbox_android"/>
+
+	<item
+	component="ComponentInfo{com.dropbox.android/com.dropbox.android.FileBrowser}"
+	drawable="com_dropbox_android"/>
+
+
+	<!-- FIFA 12 -->
+
+	<item
+	component="ComponentInfo{com.ea.game.fifa12_row/com.ea.game.fifa12_row.Main}"
+	drawable="com_ea_game_fifa12_row"/>
+
+
+	<!-- Madden NFL 12 -->
+
+	<item
+	component="ComponentInfo{com.ea.game.madden12.row/com.ea.game.madden12.Madden12}"
+	drawable="com_ea_game_madden12_row"/>
+
+
+	<!-- Real Racing 2 -->
+
+	<item
+	component="ComponentInfo{com.ea.game.realracing2_OTD_row/com.ea.game.realracing2_OTD_row.RealRacing2Activity}"
+	drawable="com_ea_game_realracing2_OTD_row"/>
+
+	<item
+	component="ComponentInfo{com.ea.game.realracing2_OTD_na/com.ea.game.realracing2_OTD_na.RealRacing2Activity}"
+	drawable="com_ea_game_realracing2_OTD_row"/>
+
+
+	<!-- Mass Effect: Infiltrator -->
+
+	<item
+	component="ComponentInfo{com.ea.games.meinfiltrator.row/com.ea.games.meinfiltrator.row.MassEffectActivity}"
+	drawable="com_ea_games_meinfiltrator_row"/>
+
+	<item
+	component="ComponentInfo{com.ea.games.meinfiltrator.na/com.ea.games.meinfiltrator.na.MassEffectActivity}"
+	drawable="com_ea_games_meinfiltrator_row"/>
+
+
+	<!-- NFS Most Wanted -->
+
+	<item
+	component="ComponentInfo{com.ea.games.nfs13_row/com.ea.ironmonkey.gameactivity}"
+	drawable="com_ea_games_nfs13_row"/>
+
+
+	<!-- Tiger Woods PGA Tour 12 -->
+
+	<item
+	component="ComponentInfo{com.ea.twpgatour12.ROW/com.ea.game.tw1.tw12activity}"
+	drawable="com_ea_twpgatour12_ROW"/>
+
+
+	<!-- Bejeweled 2 -->
+
+	<item
+	component="ComponentInfo{com.eamobile.bejeweled2_row_wf/com.eamobile.bejeweled2_row_wf.Main}"
+	drawable="com_eamobile_bejeweled2_row_wf"/>
+
+
+	<!-- Monopoly -->
+
+	<item
+	component="ComponentInfo{com.eamobile.monopoly_row_wf/com.eamobile.monopoly_row_wf.Main}"
+	drawable="com_eamobile_monopoly_row_wf"/>
+
+
+	<!-- The Sims 3 -->
+
+	<item
+	component="ComponentInfo{com.eamobile.sims3_row_qwf/com.eamobile.sims3_na_qwf.Main}"
+	drawable="com_eamobile_sims3_row_qwf"/>
+
+
+	<!-- Ebay -->
+
+	<item
+	component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay}"
+	drawable="com_ebay_mobile"/>
+
+
+	<!-- Ebuddy -->
+
+	<item
+	component="ComponentInfo{com.ebuddy.android/com.ebuddy.android.ui.StartupActivity}"
+	drawable="com_ebuddy_android"/>
+
+
+	<!-- Endomondo pro -->
+
+	<item
+	component="ComponentInfo{com.endomondo.android.pro/com.endomondo.android.EndoSplash}"
+	drawable="com_endomondo_android_pro"/>
+
+
+	<!-- Eniro -->
+
+	<item
+	component="ComponentInfo{com.eniro/com.eniro.core.android.map.MapActivity}"
+	drawable="com_eniro"/>
+
+
+	<!-- Handyman -->
+
+	<item
+	component="ComponentInfo{com.epocket.handyman.ui/com.epocket.handyman.ui.activity.StartupActivity}"
+	drawable="com_epocket_handyman_ui"/>
+
+
+	<!-- ES Fileexplorer -->
+
+	<item
+	component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}"
+	drawable="com_estrongs_android_pop"/>
+
+
+	<!-- ES Fileexplorer Cupcake -->
+
+	<item
+	component="ComponentInfo{com.estrongs.android.pop.cupcake/com.estrongs.android.pop.cupcake.view.fileexploreractivity}"
+	drawable="com_estrongs_android_pop_cupcake"/>
+
+
+	<!-- Evernote -->
+
+	<item
+	component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}"
+	drawable="com_evernote"/>
+
+
+	<!-- Expedia Hotels & Flights -->
+
+	<item
+	component="ComponentInfo{com.expedia.bookings/com.expedia.bookings.activity.SearchActivity}"
+	drawable="com_expedia_bookings"/>
+
+
+	<!-- Facebook -->
+
+	<item
+	component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
+	drawable="com_facebook_katana"/>
+
+
+	<!-- Facebook messager -->
+
+	<item
+	component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}"
+	drawable="com_facebook_orca"/>
+
+
+	<!-- Glovebox -->
+
+	<item
+	component="ComponentInfo{com.fb.glovebox/com.fb.glovebox.preferences}"
+	drawable="com_fb_glovebox"/>
+
+
+	<!-- Launcher Pro -->
+
+	<item
+	component="ComponentInfo{com.fede.launcher/com.fede.launcher.Launcher}"
+	drawable="com_fede_launcher"/>
+
+
+	<!-- Naked Browser -->
+
+	<item
+	component="ComponentInfo{com.fevdev.nakedbrowser/com.fevdev.nakedbrowser.NakedBrowserActivity}"
+	drawable="com_fevdev_nakedbrowser"/>
+
+
+	<!-- The Secret of Grisly Manor -->
+
+	<item
+	component="ComponentInfo{com.firemaplegames.games.the_secretofgrislymanor/com.firemaplegames.games.the_secretofgrislymanor.MyCoronaActivity}"
+	drawable="com_firemaplegames_games_the_secretofgrislymanor"/>
+
+
+	<!-- Foursquare for business -->
+
+	<item
+	component="ComponentInfo{com.foursquare.merchant/com.foursquare.merchant.LoginActivity}"
+	drawable="com_foursquare_merchant"/>
+
+
+	<!-- The Amazing Spider-Man -->
+
+	<item
+	component="ComponentInfo{com.gameloft.android.ANMP.GloftAMHM/com.gameloft.android.ANMP.GloftAMHM.Game}"
+	drawable="com_gameloft_android_ANMP_GloftAMHM"/>
+
+	<item
+	component="ComponentInfo{com.gameloft.android.ANMP.GloftAMHM/com.intrinsic.gametemplate.BootupActivity}"
+	drawable="com_gameloft_android_ANMP_GloftAMHM"/>
+
+
+	<!-- Go launcher EX -->
+
+	<item
+	component="ComponentInfo{com.gau.go.launcherex/com.jiubang.ggheart.apps.desks.diy.GoLauncher}"
+	drawable="com_gau_go_launcherex"/>
+
+
+	<!-- Google adk 2012 -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.adk2/com.google.android.apps.adk2.activity.ConnectActivity}"
+	drawable="com_google_android_apps_adk2"/>
+
+
+	<!-- Google androidify -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.androidify/com.google.android.apps.androidify.Androidify}"
+	drawable="com_google_android_apps_androidify"/>
+
+
+	<!-- Google blogger -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.TosActivity}"
+	drawable="com_google_android_apps_blogger"/>
+
+
+	<!-- Play books -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}"
+	drawable="com_google_android_apps_books"/>
+
+
+	<!-- Chrome to phone -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.chrometophone/com.google.android.apps.chrometophone.HistoryActivity}"
+	drawable="com_google_android_apps_chrometophone"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.chrometophone/com.google.android.apps.chrometophone.MainActivity}"
+	drawable="com_google_android_apps_chrometophone"/>
+
+	<item
+	component="ComponentInfo{com.celliecraze.android.apps.chrometophone/com.celliecraze.android.apps.chrometophone.HistoryActivity}"
+	drawable="com_google_android_apps_chrometophone"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.chrometophone/com.google.android.apps.chrometophone.ActivityUI}"
+	drawable="com_google_android_apps_chrometophone"/>
+
+
+	<!-- Google+ Messenger -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.circles.realtimechat.ConversationListActivity/com.google.android.apps.circles.realtimechat.ConversationListActivit}"
+	drawable="com_google_android_apps_circles_realtimechat_ConversationListActivity"/>
+
+
+	<!-- Google Currents -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.currents/com.google.apps.dots.android.app.activity.CurrentsStartActivity}"
+	drawable="com_google_android_apps_currents"/>
+
+
+	<!-- Google Drive -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+	drawable="com_google_android_apps_docs"/>
+
+
+	<!-- Google apps device policy -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.enterprise.dmagent/com.google.android.apps.enterprise.dmagent.DMAgentActivity}"
+	drawable="com_google_android_apps_enterprise_dmagent"/>
+
+
+	<!-- Google apps look up -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.enterprise.lookup/com.google.android.apps.enterprise.lookup.ContactListActivity}"
+	drawable="com_google_android_apps_enterprise_lookup"/>
+
+
+	<!-- Google Finance -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.finance/com.google.android.apps.finance.HomeActivity}"
+	drawable="com_google_android_apps_finance"/>
+
+
+	<!-- Google News -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.genie.geniewidget/com.google.android.apps.genie.geniewidget.activities.NewsActivity}"
+	drawable="com_google_android_apps_genie_geniewidget"/>
+
+
+	<!-- Google gesture search -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.gesturesearch/com.google.android.apps.gesturesearch.GShell}"
+	drawable="com_google_android_apps_gesturesearch"/>
+
+
+	<!-- Google alanytics -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.giant/com.google.android.apps.giant.activity.ProfilePickerActivity}"
+	drawable="com_google_android_apps_giant"/>
+
+
+	<!-- Google IO 2012 -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.iosched/com.google.android.apps.iosched.ui.HomeActivity}"
+	drawable="com_google_android_apps_iosched"/>
+
+
+	<!-- Google Maps -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}"
+	drawable="com_google_android_apps_maps"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}"
+	drawable="com_google_android_apps_maps"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.driveabout.app.DestinationActivity}"
+	drawable="com_google_android_apps_maps"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.LatitudeActivity}"
+	drawable="com_google_android_apps_maps"/>
+
+
+	<!-- Google+ -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.HomeActivity}"
+	drawable="com_google_android_apps_plus"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plus.phone.ConversationListActivity}"
+	drawable="com_google_android_apps_plus"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.plusone.app.HomeScreenActivity}"
+	drawable="com_google_android_apps_plus"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.plus/com.google.android.apps.circles.realtimechat.ConversationListActivity}"
+	drawable="com_google_android_apps_plus"/>
+
+
+	<!-- Google reader -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.reader/com.google.android.apps.reader.app.StreamListActivity}"
+	drawable="com_google_android_apps_reader"/>
+
+
+	<!-- Google schemer -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.schemer/com.google.android.apps.schemer.app.OnBoardingActivity}"
+	drawable="com_google_android_apps_schemer"/>
+
+
+	<!-- Google Scoreboard -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.scoreboard/com.google.android.apps.scoreboard.Scoreboard}"
+	drawable="com_google_android_apps_scoreboard"/>
+
+
+	<!-- Google translate -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}"
+	drawable="com_google_android_apps_translate"/>
+
+
+	<!-- Google Goggles -->
+
+	<item
+	component="ComponentInfo{com.google.android.apps.unveil/com.google.android.apps.unveil.CaptureActivity}"
+	drawable="com_google_android_apps_unveil"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.unveil/com.google.android.apps.unveil.HomeActivity}"
+	drawable="com_google_android_apps_unveil"/>
+
+	<item
+	component="ComponentInfo{com.google.android.apps.unveil/com.google.android.apps.unveil.SearchHistoryActivity}"
+	drawable="com_google_android_apps_unveil"/>
+
+
+	<!-- Google car home -->
+
+	<item
+	component="ComponentInfo{com.google.android.carhome/com.google.android.carhome.CarHome}"
+	drawable="com_google_android_carhome"/>
+
+
+	<!-- Gmail -->
+
+	<item
+	component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+	drawable="com_google_android_gm"/>
+
+	<item
+	component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGooglemail}"
+	drawable="com_google_android_gm"/>
+
+	<item
+	component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGoogleMail}"
+	drawable="com_google_android_gm"/>
+
+
+	<!-- Google settings -->
+
+	<item
+	component="ComponentInfo{com.google.android.gms/com.google.android.gms.common.settings.GoogleSettingsActivity}"
+	drawable="com_google_android_gms"/>
+
+
+	<!-- Google Search -->
+
+	<item
+	component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
+	drawable="com_google_android_googlequicksearchbox"/>
+
+
+	<!-- Google tracks -->
+
+	<item
+	component="ComponentInfo{com.google.android.maps.mytracks/com.google.android.apps.mytracks.MyTracks}"
+	drawable="com_google_android_maps_mytracks"/>
+
+
+	<!-- Google intersection explorer -->
+
+	<item
+	component="ComponentInfo{com.google.android.marvin.intersectionexplorer/com.google.android.marvin.intersectionexplorer.IntersectionExplorer}"
+	drawable="com_google_android_marvin_intersectionexplorer"/>
+
+
+	<!-- Google Music -->
+
+	<item
+	component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}"
+	drawable="com_google_android_music"/>
+
+
+	<!-- Google Talk -->
+
+	<item
+	component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}"
+	drawable="com_google_android_talk"/>
+
+
+	<!-- Google Voice Search -->
+
+	<item
+	component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}"
+	drawable="com_google_android_voicesearch"/>
+
+	<item
+	component="ComponentInfo{com.google.android.voicesearch/com.google.android.voicesearch.RecognitionActivity}"
+	drawable="com_google_android_voicesearch"/>
+
+
+	<!-- Youtube -->
+
+	<item
+	component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity}"
+	drawable="com_google_android_youtube"/>
+
+	<item
+	component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}"
+	drawable="com_google_android_youtube"/>
+
+	<item
+	component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
+	drawable="com_google_android_youtube"/>
+
+	<item
+	component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity}"
+	drawable="com_google_android_youtube"/>
+
+	<item
+	component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomePage}"
+	drawable="com_google_android_youtube"/>
+
+
+	<!-- Youtube remote -->
+
+	<item
+	component="ComponentInfo{com.google.android.ytremote/com.google.android.ytremote.WatchActivityProxy}"
+	drawable="com_google_android_ytremote"/>
+
+	<item
+	component="ComponentInfo{com.google.android.ytremote/com.google.android.ytremote.WatchActivity}"
+	drawable="com_google_android_ytremote"/>
+
+
+	<!-- Google Earth -->
+
+	<item
+	component="ComponentInfo{com.google.earth/com.google.earth.EarthActivity}"
+	drawable="com_google_earth"/>
+
+
+	<!-- Photos for google tv -->
+
+	<item
+	component="ComponentInfo{com.google.tv.mediabrowser/com.google.tv.mediabrowser.newui.MainActivity}"
+	drawable="com_google_tv_mediabrowser"/>
+
+
+	<!-- Barcode scanner -->
+
+	<item
+	component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}"
+	drawable="com_google_zxing_client_android"/>
+
+
+	<!-- Groupon -->
+
+	<item
+	component="ComponentInfo{com.groupon/com.groupon.activity.TodaysDeal}"
+	drawable="com_groupon"/>
+
+	<item
+	component="ComponentInfo{com.groupon/com.groupon.activity.splash}"
+	drawable="com_groupon"/>
+
+	<item
+	component="ComponentInfo{com.groupon/com.groupon.activity.TodaysGroupon}"
+	drawable="com_groupon"/>
+
+
+	<!-- Age of Zombies -->
+
+	<item
+	component="ComponentInfo{com.halfbrick.ageofzombies/com.halfbrick.ageofzombies.AOZActivity}"
+	drawable="com_halfbrick_ageofzombies"/>
+
+
+	<!-- Fruit ninja -->
+
+	<item
+	component="ComponentInfo{com.halfbrick.fruitninja/com.halfbrick.fruitninja.FruitNinjaActivity}"
+	drawable="com_halfbrick_fruitninja"/>
+
+
+	<!-- Fruit ninja free -->
+
+	<item
+	component="ComponentInfo{com.halfbrick.fruitninjafree/com.halfbrick.fruitninjafree.FruitNinjafreeActivity}"
+	drawable="com_halfbrick_fruitninjafree"/>
+
+
+	<!-- Jetpack Joyride -->
+
+	<item
+	component="ComponentInfo{com.halfbrick.jetpackjoyride/com.halfbrick.mortar.MortarGameActivityFacebook}"
+	drawable="com_halfbrick_jetpackjoyride"/>
+
+
+	<!-- Handcent -->
+
+	<item
+	component="ComponentInfo{com.handcent.nextsms/com.handcent.sms.ui.ConversationExList}"
+	drawable="com_handcent_nextsms"/>
+
+
+	<!-- Friendcaster chat -->
+
+	<item
+	component="ComponentInfo{com.handmark.friendcaster.chat/com.handmark.friendcaster.chat.MainActivity}"
+	drawable="com_handmark_friendcaster_chat"/>
+
+
+	<!-- Tweetcaster -->
+
+	<item
+	component="ComponentInfo{com.handmark.tweetcaster/com.handmark.tweetcaster.TimelineActivity}"
+	drawable="com_handmark_tweetcaster"/>
+
+
+	<!-- Tweetcaster premium -->
+
+	<item
+	component="ComponentInfo{com.handmark.tweetcaster.premium/com.handmark.tweetcaster.TimelineActivity}"
+	drawable="com_handmark_tweetcaster_premium"/>
+
+
+	<!-- HaxSync Workaround -->
+
+	<item
+	component="ComponentInfo{com.haxsync.facebook.workaround/com.haxsync.facebook.workaround.WorkaroundActivity}"
+	drawable="com_haxsync_facebook_workaround"/>
+
+
+	<!-- Wordfeud free -->
+
+	<item
+	component="ComponentInfo{com.hbwares.wordfeud.free/com.hbwares.wordfeud.ui.WordFeudActivity}"
+	drawable="com_hbwares_wordfeud_free"/>
+
+
+	<!-- Wordfeud -->
+
+	<item
+	component="ComponentInfo{com.hbwares.wordfeud.full/com.hbwares.wordfeud.lib.WordFeudActivity}"
+	drawable="com_hbwares_wordfeud_full"/>
+
+
+	<!-- Hotels.com -->
+
+	<item
+	component="ComponentInfo{com.hcom.android/com.hcom.android.modules.initial.presenter.InitialActivity}"
+	drawable="com_hcom_android"/>
+
+
+	<!-- Our Groceries Shopping List -->
+
+	<item
+	component="ComponentInfo{com.headcode.ourgroceries/com.headcode.ourgroceries.android.ListsActivity}"
+	drawable="com_headcode_ourgroceries"/>
+
+
+	<!-- Ant Raid -->
+
+	<item
+	component="ComponentInfo{com.herocraft.game.antraidgame/com.herocraft.game.antraidgame.Application}"
+	drawable="com_herocraft_game_antraidgame"/>
+
+
+	<!-- Music player HTC -->
+
+	<item
+	component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}"
+	drawable="com_htc_music"/>
+
+
+	<!-- Comics -->
+
+	<item
+	component="ComponentInfo{com.iconology.comics/com.iconology.comics.app.ComicsActivity}"
+	drawable="com_iconology_comics"/>
+
+
+	<!-- Pocket -->
+
+	<item
+	component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.SplashActivity}"
+	drawable="com_ideashower_readitlater_pro"/>
+
+	<item
+	component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}"
+	drawable="com_ideashower_readitlater_pro"/>
+
+
+	<!-- Temple run -->
+
+	<item
+	component="ComponentInfo{com.imangi.templerun/com.temple.run.game.A.LaunchActivity}"
+	drawable="com_imangi_templerun"/>
+
+
+	<!-- Temple run 2 -->
+
+	<item
+	component="ComponentInfo{com.imangi.templerun2/com.prime31.UnityPlayerActivity}"
+	drawable="com_imangi_templerun2"/>
+
+
+	<!-- Polaris office -->
+
+	<item
+	component="ComponentInfo{com.infraware.docmaster/com.htc.FilePicker.FilePickerPolarisOffice}"
+	drawable="com_infraware_docmaster"/>
+
+	<item
+	component="ComponentInfo{com.infraware.docmaster/com.infraware.polarisoffice.OfficeLauncherActivity}"
+	drawable="com_infraware_docmaster"/>
+
+	<item
+	component="ComponentInfo{com.infraware.docmaster/com.infraware.OfficeMainActivity}"
+	drawable="com_infraware_docmaster"/>
+
+
+	<!-- Dice player -->
+
+	<item
+	component="ComponentInfo{com.inisoft.mediaplayer.a/com.inisoft.mediaplayer.a.SplashActivity}"
+	drawable="com_inisoft_mediaplayer_a"/>
+
+
+	<!-- instagram -->
+
+	<item
+	component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
+	drawable="com_instagram_android"/>
+
+
+	<!-- Nyancat: Jump! -->
+
+	<item
+	component="ComponentInfo{com.istomgames.engine/com.istomgames.engine.EngineActivity}"
+	drawable="com_istomgames_engine"/>
+
+
+	<!-- Jawbone companion -->
+
+	<item
+	component="ComponentInfo{com.jawbone.companion/com.jawbone.companion.EULAActivity}"
+	drawable="com_jawbone_companion"/>
+
+
+	<!-- Foursquare -->
+
+	<item
+	component="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}"
+	drawable="com_joelapenna_foursquared"/>
+
+
+	<!-- ROM Toolbox lite -->
+
+	<item
+	component="ComponentInfo{com.jrummy.liberty.toolbox/com.jrummy.liberty.toolbox.MainActivity}"
+	drawable="com_jrummy_liberty_toolbox"/>
+
+
+	<!-- ROM Toolbox Pro -->
+
+	<item
+	component="ComponentInfo{com.jrummy.liberty.toolboxpro/com.jrummy.liberty.toolboxpro.MainActivity}"
+	drawable="com_jrummy_liberty_toolboxpro"/>
+
+	<item
+	component="ComponentInfo{com.jrummy.liberty.toolboxpro/com.jrummy.apps.rom.toolbox.RomToolboxActivity}"
+	drawable="com_jrummy_liberty_toolboxpro"/>
+
+
+	<!-- Guess The Movie -->
+
+	<item
+	component="ComponentInfo{com.june.guessthemovie/com.june.guessthemovie.category.Splash}"
+	drawable="com_june_guessthemovie"/>
+
+
+	<!-- Falcon Pro -->
+
+	<item
+	component="ComponentInfo{com.jv.falcon.pro/com.jv.falcon.pro.activities.TweetListActivity}"
+	drawable="com_jv_falcon_pro"/>
+
+
+	<!-- Kakao talk -->
+
+	<item
+	component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.SplashActivity}"
+	drawable="com_kakao_talk"/>
+
+
+	<!-- Play SE -->
+
+	<item
+	component="ComponentInfo{com.kantaris.playse/com.kantaris.playse.app.MainActivity}"
+	drawable="com_kantaris_playse"/>
+
+	<item
+	component="ComponentInfo{com.kantaris.playse/com.kantaris.playse.app.FavoritesActivity}"
+	drawable="com_kantaris_playse"/>
+
+	<item
+	component="ComponentInfo{com.kantaris.playse/com.kantaris.playse.app.SettingsActivity}"
+	drawable="com_kantaris_playse"/>
+
+	<item
+	component="ComponentInfo{com.kantaris.playse/com.kantaris.playse.app.PlayerActivity}"
+	drawable="com_kantaris_playse"/>
+
+
+	<!-- Battleheart -->
+
+	<item
+	component="ComponentInfo{com.KelliNoda.Battleheart/com.unity3d.player.UnityPlayerProxyActivity}"
+	drawable="com_KelliNoda_Battleheart"/>
+
+
+	<!-- Titanium Backup -->
+
+	<item
+	component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}"
+	drawable="com_keramidas_TitaniumBackup"/>
+
+
+	<!-- Subway surfers -->
+
+	<item
+	component="ComponentInfo{com.kiloo.subwaysurf/com.kiloo.subwaysurfers.SKInAppTest}"
+	drawable="com_kiloo_subwaysurf"/>
+
+
+	<!-- Carbon -->
+
+	<item
+	component="ComponentInfo{com.koushikdutta.backup/com.koushikdutta.backup.MainActivity}"
+	drawable="com_koushikdutta_backup"/>
+
+
+	<!-- Carbon premium -->
+
+	<item
+	component="ComponentInfo{com.koushikdutta.backup.license/com.koushikdutta.backup.license.InstallFree}"
+	drawable="com_koushikdutta_backup_license"/>
+
+
+	<!-- Rom Manager -->
+
+	<item
+	component="ComponentInfo{com.koushikdutta.rommanager/com.koushikdutta.rommanager.RomManager}"
+	drawable="com_koushikdutta_rommanager"/>
+
+
+	<!-- Rom Manager premium -->
+
+	<item
+	component="ComponentInfo{com.koushikdutta.rommanager.license/com.koushikdutta.rommanager.license.InstallFree}"
+	drawable="com_koushikdutta_rommanager_license"/>
+
+
+	<!-- Bankdroid -->
+
+	<item
+	component="ComponentInfo{com.liato.bankdroid/com.liato.bankdroid.MainActivity}"
+	drawable="com_liato_bankdroid"/>
+
+
+	<!-- Lotus notes traveler -->
+
+	<item
+	component="ComponentInfo{com.lotus.sync.traveler/com.lotus.sync.traveler.lotustraveler}"
+	drawable="com_lotus_sync_traveler"/>
+
+
+	<!-- Lotus notes traveler: calendar -->
+
+	<item
+	component="ComponentInfo{com.lotus.sync.traveler/com.lotus.sync.traveler.calendar.LotusCalendar}"
+	drawable="com_lotus_sync_traveler_2"/>
+
+
+	<!-- Lotus notes traveler: lookup -->
+
+	<item
+	component="ComponentInfo{com.lotus.sync.traveler/com.lotus.sync.traveler.android.namelookup.namelookupactivity}"
+	drawable="com_lotus_sync_traveler_3"/>
+
+
+	<!-- Lotus notes traveler: mail -->
+
+	<item
+	component="ComponentInfo{com.lotus.sync.traveler/com.lotus.sync.traveler.lotusmail}"
+	drawable="com_lotus_sync_traveler_4"/>
+
+
+	<!-- Dragon, Fly! -->
+
+	<item
+	component="ComponentInfo{com.lsgvgames.slideandfly/com.lsgvgames.slideandfly}"
+	drawable="com_lsgvgames_slideandfly"/>
+
+	<item
+	component="ComponentInfo{com.lsgvgames.slideandfly/com.lsgvgames.slideandfly.SlideAndFlyActivity}"
+	drawable="com_lsgvgames_slideandfly"/>
+
+
+	<!-- Dragon, Fly! full -->
+
+	<item
+	component="ComponentInfo{com.lsgvgames.slideandflyfull/com.lsgvgames.slideandflyfull}"
+	drawable="com_lsgvgames_slideandflyfull"/>
+
+	<item
+	component="ComponentInfo{com.lsgvgames.slideandflyfull/com.lsgvgames.slideandflyfull.SlideAndFlyActivity}"
+	drawable="com_lsgvgames_slideandflyfull"/>
+
+
+	<!-- Samurai II: Vengeance -->
+
+	<item
+	component="ComponentInfo{com.madfingergames.SamuraiIIAll/com.madfingergames.SamuraiIIAll.com.unity3d.player.UnityPlayerProxyActivity}"
+	drawable="com_madfingergames_SamuraiIIAll"/>
+
+	<item
+	component="ComponentInfo{com.madfingergames.SamuraiIIAll/com.madfingergames.SamuraiIIAll.com.unity3d.player.UnityPlayerActivity}"
+	drawable="com_madfingergames_SamuraiIIAll"/>
+
+	<item
+	component="ComponentInfo{com.madfingergames.SamuraiIIAll/com.madfingergames.SamuraiIIAll.com.unity3d.player.UnityPlayernativeActivity}"
+	drawable="com_madfingergames_SamuraiIIAll"/>
+
+	<item
+	component="ComponentInfo{com.madfingergames.SamuraiIIAll/com.madfingergames:SamuraiIIAll.com.unity3d.player.VideoPlayer}"
+	drawable="com_madfingergames_SamuraiIIAll"/>
+
+
+	<!-- MarineTraffic Ship Positions -->
+
+	<item
+	component="ComponentInfo{com.marinetraffic/com.marinetraffic.marinetraffic}"
+	drawable="com_marinetraffic_android"/>
+
+	<item
+	component="ComponentInfo{com.marinetraffic.android/com.marinetraffic.android.marinetraffic}"
+	drawable="com_marinetraffic_android"/>
+
+
+	<!-- STHLM traveling -->
+
+	<item
+	component="ComponentInfo{com.markupartist.sthlmtraveling/com.markupartist.sthlmtraveling.StartActivity}"
+	drawable="com_markupartist_sthlmtraveling"/>
+
+
+	<!-- Granny smith -->
+
+	<item
+	component="ComponentInfo{com.mediocre.grannysmith/com.mediocre.grannysmith.Main}"
+	drawable="com_mediocre_grannysmith"/>
+
+
+	<!-- Granny smith free -->
+
+	<item
+	component="ComponentInfo{com.mediocre.grannysmithfree/com.mediocre.grannysmithfree.Main}"
+	drawable="com_mediocre_grannysmithfree"/>
+
+
+	<!-- Soundhound -->
+
+	<item
+	component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SoundHound}"
+	drawable="com_melodis_midomiMusicIdentifier"/>
+
+	<item
+	component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.melodis.midomiMusicIdentifier.view.SoundHound}"
+	drawable="com_melodis_midomiMusicIdentifier"/>
+
+	<item
+	component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SoundHound}"
+	drawable="com_melodis_midomiMusicIdentifier"/>
+
+
+	<!-- SetCPU for Root Users -->
+
+	<item
+	component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.Setcpu}"
+	drawable="com_mhuang_overclocking"/>
+
+	<item
+	component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.PhoneMainActivity}"
+	drawable="com_mhuang_overclocking"/>
+
+	<item
+	component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.IntroActivity}"
+	drawable="com_mhuang_overclocking"/>
+
+	<item
+	component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.overclocking}"
+	drawable="com_mhuang_overclocking"/>
+
+	<item
+	component="ComponentInfo{com.mhuang.overclocking/com.mhuang.overclocking.DefaultActivity}"
+	drawable="com_mhuang_overclocking"/>
+
+
+	<!-- SkyDrive -->
+
+	<item
+	component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}"
+	drawable="com_microsoft_skydrive"/>
+
+
+	<!-- MiHome Launcher -->
+
+	<item
+	component="ComponentInfo{com.miui.mihome2/com.miui.mihome.MiHomeMainActivity}"
+	drawable="com_miui_mihome2"/>
+
+
+	<!-- Holo launcher -->
+
+	<item
+	component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}"
+	drawable="com_mobint_hololauncher"/>
+
+
+	<!-- Holo launcher plus -->
+
+	<item
+	component="ComponentInfo{com.mobint.hololauncherplus/com.mobint.hololauncherplus.MainActivity}"
+	drawable="com_mobint_hololauncherplus"/>
+
+
+	<!-- Adv. English & Thesaurus -->
+
+	<item
+	component="ComponentInfo{com.mobisystems.msdict.embedded.wireless.wordnet/com.mobisystems.msdict.viewer.ListActivity}"
+	drawable="com_mobisystems_msdict_embedded_wireless_wordnet"/>
+
+	<item
+	component="ComponentInfo{com.mobisystems.msdict.embedded.wireless.wordnet/com.mobisystems.msdict.viewer.LaunchActivity}"
+	drawable="com_mobisystems_msdict_embedded_wireless_wordnet"/>
+
+
+	<!-- selecta -->
+
+	<item
+	component="ComponentInfo{com.mobivending.selectaapplication/com.mobivending.selectaapplication.screens.MainTabhostActivity}"
+	drawable="com_mobivending_selectaapplication"/>
+
+
+	<!-- Road warrior -->
+
+	<item
+	component="ComponentInfo{com.mobjoy.roadwarrior/com.mobjoy.roadwarrior.RoadWarriorActivity}"
+	drawable="com_mobjoy_roadwarrior"/>
+
+
+	<!-- Camera Launcher for Nexus 7 -->
+
+	<item
+	component="ComponentInfo{com.modaco.cameralauncher/com.modaco.cameralauncherActivity}"
+	drawable="com_modaco_cameralauncher"/>
+
+
+	<!-- Minecraft -->
+
+	<item
+	component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.Minecraft.Market}"
+	drawable="com_mojang_minecraftpe"/>
+
+	<item
+	component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}"
+	drawable="com_mojang_minecraftpe"/>
+
+
+	<!-- Minecraft demo -->
+
+	<item
+	component="ComponentInfo{com.mojang.minecraftpe.demo/com.mojang.minecraftpe.Minecraft.Market.Demo}"
+	drawable="com_mojang_minecraftpe_demo"/>
+
+
+	<!-- Text Messaging -->
+
+	<item
+	component="ComponentInfo{com.motorola.messaging.activity.conversationlistactivity/com.motorola.messaging.activity.ConversationListActivity}"
+	drawable="com_motorola_messaging_activity_conversationlistactivity"/>
+
+
+	<!-- MX Video -->
+
+	<item
+	component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityVideoList}"
+	drawable="com_mxtech_videoplayer_ad"/>
+
+
+	<!-- My Space -->
+
+	<item
+	component="ComponentInfo{com.myspace.android/com.myspace.android.activity.StreamsActivity}"
+	drawable="com_myspace_android"/>
+
+	<item
+	component="ComponentInfo{com.myspace.android/com.myspace.android.MySpace}"
+	drawable="com_myspace_android"/>
+
+
+	<!-- Flight control -->
+
+	<item
+	component="ComponentInfo{com.namcowireless.flightcontrol/com.namcowireless.flightcontrol.StartupActivity}"
+	drawable="com_namcowireless_flightcontrol"/>
+
+
+	<!-- Navigon -->
+
+	<item
+	component="ComponentInfo{com.navigon.navigator_checkout_eu40/com.navigon.navigator_checkout_eu40.hmi.CheckExistingRegistrationActivity}"
+	drawable="com_navigon_navigator_checkout_eu40"/>
+
+	<item
+	component="ComponentInfo{com.navigon.navigator_checkout_eu40/com.navigon.navigator_select.hmi.CheckExistingRegistrationActivity}"
+	drawable="com_navigon_navigator_checkout_eu40"/>
+
+	<item
+	component="ComponentInfo{com.navigon.navigator_checkout_eu40/com.navigon.navigator_select_samsung_pac.hmi.StartScreenActivity}"
+	drawable="com_navigon_navigator_checkout_eu40"/>
+
+	<item
+	component="ComponentInfo{com.navigon.navigator_checkout_eu40/com.navigon.navigator_checkout_nordics.hmi.CheckExistingRegistrationActivity}"
+	drawable="com_navigon_navigator_checkout_eu40"/>
+
+	<item
+	component="ComponentInfo{com.navigon.navigator_checkout_eu40/com.navigon.main}"
+	drawable="com_navigon_navigator_checkout_eu40"/>
+
+
+	<!-- Pro Capture -->
+
+	<item
+	component="ComponentInfo{com.neaststudios.procapture/com.neaststudios.procapture.Camera}"
+	drawable="com_neaststudios_procapture"/>
+
+
+	<!-- Pro Capture free -->
+
+	<item
+	component="ComponentInfo{com.neaststudios.procapture.free/com.neaststudios.procapture.free.Camera}"
+	drawable="com_neaststudios_procapture_free"/>
+
+
+	<!-- Vector -->
+
+	<item
+	component="ComponentInfo{com.nekki.vector/com.nekki.vector.Main}"
+	drawable="com_nekki_vector"/>
+
+
+	<!-- Netflix -->
+
+	<item
+	component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewActivity}"
+	drawable="com_netflix_mediaclient"/>
+
+	<item
+	component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.UIWebViewTabletActivity}"
+	drawable="com_netflix_mediaclient"/>
+
+
+	<!-- Mini motor -->
+
+	<item
+	component="ComponentInfo{com.nextgenreality.minimoto/com.minimotor.SkyNetPrivateUnityActivity}"
+	drawable="com_nextgenreality_minimoto"/>
+
+
+	<!-- Snapseed -->
+
+	<item
+	component="ComponentInfo{com.niksoftware.snapseed/com.niksoftware.snapseed.MainActivity}"
+	drawable="com_niksoftware_snapseed"/>
+
+
+	<!-- Bloons TD 5 -->
+
+	<item
+	component="ComponentInfo{com.ninjakiwi.bloonstd5/com.ninjakiwi.Expansion}"
+	drawable="com_ninjakiwi_bloonstd5"/>
+
+
+	<!-- Superuser -->
+
+	<item
+	component="ComponentInfo{com.noshufou.android.su/com.noshufou.android.su.Su}"
+	drawable="com_noshufou_android_su"/>
+
+	<item
+	component="ComponentInfo{com.noshufou.android.su/com.noshufou.android.sx.Su}"
+	drawable="com_noshufou_android_su"/>
+
+	<item
+	component="ComponentInfo{com.noshufou.android.su/com.noshufou.android.su.AppListActivity}"
+	drawable="com_noshufou_android_su"/>
+
+	<item
+	component="ComponentInfo{com.noshufou.android.su/com.noshufou.android.su.DefaultActivity}"
+	drawable="com_noshufou_android_su"/>
+
+	<item
+	component="ComponentInfo{com.noshufou.android.su/com.noshufou.android.sufewkkfdf.Su}"
+	drawable="com_noshufou_android_su"/>
+
+
+	<!-- Superuser Elite -->
+
+	<item
+	component="ComponentInfo{com.noshufou.android.su.elite/com.noshufou.android.su.elite.Home}"
+	drawable="com_noshufou_android_su_elite"/>
+
+	<item
+	component="ComponentInfo{com.noshufou.android.su.elite/com.noshufou.android.su.elite.FeaturedAppsActivity}"
+	drawable="com_noshufou_android_su_elite"/>
+
+
+	<!-- Swype beta -->
+
+	<item
+	component="ComponentInfo{com.nuance.swype.installer/com.nuance.swype.installer.DispatchActivity}"
+	drawable="com_nuance_swype_installer"/>
+
+
+	<!-- Winamp -->
+
+	<item
+	component="ComponentInfo{com.nullsoft.winamp/com.nullsoft.winamp.SplashScreenActivity}"
+	drawable="com_nullsoft_winamp"/>
+
+	<item
+	component="ComponentInfo{com.nullsoft.winamp/com.nullsoft.prostub.ProStubActivity}"
+	drawable="com_nullsoft_winamp"/>
+
+
+	<!-- Draw Something -->
+
+	<item
+	component="ComponentInfo{com.omgpop.dstpaid/com.omgpop.dstpaid.Main}"
+	drawable="com_omgpop_dstpaid"/>
+
+	<item
+	component="ComponentInfo{com.omgpop.dstfree/com.omgpop.dstfree.Main}"
+	drawable="com_omgpop_dstpaid"/>
+
+
+	<!-- Onkyo remote -->
+
+	<item
+	component="ComponentInfo{com.onkyo.onkyoremote/com.onkyo.onkyoRemote.view.activity.FacadeActivity}"
+	drawable="com_onkyo_onkyoremote"/>
+
+
+	<!-- Opera Browser -->
+
+	<item
+	component="ComponentInfo{com.opera.browser/com.opera.Opera}"
+	drawable="com_opera_browser"/>
+
+
+	<!-- Opera Browser mini -->
+
+	<item
+	component="ComponentInfo{com.opera.mini.android/com.opera.mini.android.Browser}"
+	drawable="com_opera_mini_android"/>
+
+
+	<!-- Power toggles -->
+
+	<item
+	component="ComponentInfo{com.painless.pc/com.painless.pc.settings.LaunchActivity}"
+	drawable="com_painless_pc"/>
+
+
+	<!-- Tetris Space -->
+
+	<item
+	component="ComponentInfo{com.pastagames.ro1mobile/com.power.tetrisspace.TetrisSpace}"
+	drawable="com_pastagames_ro1mobile"/>
+
+
+	<!-- Rayman: Jungle Run -->
+
+	<item
+	component="ComponentInfo{com.pastagames.ro1mobile/com.pastagames.ro1mobile.LaunchActivity}"
+	drawable="com_pastagames_ro1mobile_2"/>
+
+	<item
+	component="ComponentInfo{com.pastagames.ro1mobile/com.pastagames.android.LaunchActivity}"
+	drawable="com_pastagames_ro1mobile_2"/>
+
+
+	<!-- Path -->
+
+	<item
+	component="ComponentInfo{com.path/com.path.activities.EntryPointActivity}"
+	drawable="com_path"/>
+
+	<item
+	component="ComponentInfo{com.path/com.path.activities.LoginActivity}"
+	drawable="com_path"/>
+
+
+	<!-- PayPal -->
+
+	<item
+	component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.GridLauncherActivity}"
+	drawable="com_paypal_android_p2pmobile"/>
+
+	<item
+	component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.HubActivity}"
+	drawable="com_paypal_android_p2pmobile"/>
+
+	<item
+	component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}"
+	drawable="com_paypal_android_p2pmobile"/>
+
+	<item
+	component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.p2p}"
+	drawable="com_paypal_android_p2pmobile"/>
+
+
+	<!-- Pipix -->
+
+	<item
+	component="ComponentInfo{com.pekspro.games.pipix/com.pekspro.games.pipix.launch.Launcher}"
+	drawable="com_pekspro_games_pipix"/>
+
+
+	<!-- Photobucket Mobile -->
+
+	<item
+	component="ComponentInfo{com.photobucket.android/com.photobucket.android.PbSplash}"
+	drawable="com_photobucket_android"/>
+
+
+	<!-- PicsArt - Photo Studio -->
+
+	<item
+	component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}"
+	drawable="com_picsart_studio"/>
+
+
+	<!-- Reckless getaway -->
+
+	<item
+	component="ComponentInfo{com.polarbit.getaway/com.polarbit.Getaway.Getaway}"
+	drawable="com_polarbit_getaway"/>
+
+
+	<!-- Reckless Racing -->
+
+	<item
+	component="ComponentInfo{com.polarbit.RecklessRacing/com.polarbit.RecklessRacing.RecklessRacing}"
+	drawable="com_polarbit_RecklessRacing"/>
+
+
+	<!-- Reckless Racing 2 -->
+
+	<item
+	component="ComponentInfo{com.polarbit.RecklessRacing2/com.polarbit.RecklessRacing2.RecklessRacing2}"
+	drawable="com_polarbit_RecklessRacing2"/>
+
+
+	<!-- Reckless racing lite -->
+
+	<item
+	component="ComponentInfo{com.polarbit.RecklessRacingLite/com.polarbit.RecklessRacingLite.RecklessRacingLite}"
+	drawable="com_polarbit_RecklessRacingLite"/>
+
+
+	<!-- Reckless Racing HD -->
+
+	<item
+	component="ComponentInfo{com.polarbit.RecklessRacingPlay/com.polarbit.RecklessRacingPlay.RecklessRacingPlay}"
+	drawable="com_polarbit_RecklessRacingPlay"/>
+
+
+	<!-- Plants vs Zombies -->
+
+	<item
+	component="ComponentInfo{com.popcap.pvz_row/com.popcap.pvz_row.Main}"
+	drawable="com_popcap_pvz_row"/>
+
+
+	<!-- Pricerunner -->
+
+	<item
+	component="ComponentInfo{com.pricerunner.android/com.pricerunner.android.activities.home.HomeActivity}"
+	drawable="com_pricerunner_android"/>
+
+	<item
+	component="ComponentInfo{com.pricerunner.android/com.pricerunner.android.PriceDroid}"
+	drawable="com_pricerunner_android"/>
+
+
+	<!-- DataSync -->
+
+	<item
+	component="ComponentInfo{com.quintstoffers.DataSync/com.quintstoffers.DataSync.DataSync}"
+	drawable="com_quintstoffers_DataSync"/>
+
+
+	<!-- DataSync Beta -->
+
+	<item
+	component="ComponentInfo{com.quintstoffers.DataSync.beta/com.quintstoffers.DataSync.beta.MainActivity}"
+	drawable="com_quintstoffers_DataSync_beta"/>
+
+
+	<!-- DataSync+ -->
+
+	<item
+	component="ComponentInfo{com.quintstoffers.DataSync.key/com.quintstoffers.DataSync.key.LicenseActivity}"
+	drawable="com_quintstoffers_DataSync_key"/>
+
+
+	<!-- Tapatalk pro -->
+
+	<item
+	component="ComponentInfo{com.quoord.tapatalkpro.activity/com.quoord.tapatalkpro.activity.directory.ics.IcsEntryActivity}"
+	drawable="com_quoord_tapatalkpro_activity"/>
+
+	<item
+	component="ComponentInfo{com.quoord.tapatalkpro.activity/com.quoord.tapatalkpro.activity}"
+	drawable="com_quoord_tapatalkpro_activity"/>
+
+	<item
+	component="ComponentInfo{com.quoord.tapatalkpro.activity/com.quoord.tapatalksumsang.activity.directory.EntryActivity}"
+	drawable="com_quoord_tapatalkpro_activity"/>
+
+	<item
+	component="ComponentInfo{com.quoord.tapatalkpro.activity/com.quoord.tapatalkHD.ui.activity.SearchGridActivity}"
+	drawable="com_quoord_tapatalkpro_activity"/>
+
+	<item
+	component="ComponentInfo{com.quoord.tapatalkpro.activity/com.quoord.tapatalkpro.activity.directory.EntryActivity}"
+	drawable="com_quoord_tapatalkpro_activity"/>
+
+
+	<!-- XDA-Developers -->
+
+	<item
+	component="ComponentInfo{com.quoord.tapatalkxda.activity/com.quoord.tapatalkxda.activity.ForumNavigationActivity}"
+	drawable="com_quoord_tapatalkxda_activity"/>
+
+
+	<!-- XDA-Developers premium -->
+
+	<item
+	component="ComponentInfo{com.quoord.tapatalkxdapre.activity/com.quoord.tapatalkxdapre.activity.forum.ForumNavigationActivity}"
+	drawable="com_quoord_tapatalkxdapre_activity"/>
+
+
+	<!-- Lightflow -->
+
+	<item
+	component="ComponentInfo{com.rageconsulting.android.lightflow/com.rageconsulting.android.lightflow.MainActivity}"
+	drawable="com_rageconsulting_android_lightflow"/>
+
+
+	<!-- Lightflow lite -->
+
+	<item
+	component="ComponentInfo{com.rageconsulting.android.lightflowlite/com.rageconsulting.android.lightflowlite.MainActivity}"
+	drawable="com_rageconsulting_android_lightflowlite"/>
+
+
+	<!-- Unified Remote -->
+
+	<item
+	component="ComponentInfo{com.Relmtech.Remote/com.Relmtech.Remote.RemoteStart}"
+	drawable="com_Relmtech_Remote"/>
+
+
+	<!-- Unified Remote full -->
+
+	<item
+	component="ComponentInfo{com.Relmtech.RemotePaid/com.Relmtech.Remote2.Activities.MainActivity}"
+	drawable="com_Relmtech_RemotePaid"/>
+
+
+	<!-- My Backup: Root -->
+
+	<item
+	component="ComponentInfo{com.rerware.android.MyBackupRoot/com.rerware.android.MyBackupPro.MyBackup}"
+	drawable="com_rerware_android_MyBackupRoot"/>
+
+
+	<!-- Grand Theft Auto III -->
+
+	<item
+	component="ComponentInfo{com.rockstar.gta3/com.rockstar.gta3.ApplanetActivity}"
+	drawable="com_rockstar_gta3"/>
+
+	<item
+	component="ComponentInfo{com.rockstar.gta3/com.rockstar.gta3.DefaultActivity}"
+	drawable="com_rockstar_gta3"/>
+
+	<item
+	component="ComponentInfo{com.rockstar.gta3/com.rockstar.gta3.Applanet.2}"
+	drawable="com_rockstar_gta3"/>
+
+
+	<!-- GTA Vice City -->
+
+	<item
+	component="ComponentInfo{com.rockstargames.gtavc/com.rockstargames.gtavc.GTAVC}"
+	drawable="com_rockstargames_gtavc"/>
+
+
+	<!-- Photo Grid - Collage Maker -->
+
+	<item
+	component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.AdMobActivity}"
+	drawable="com_roidapp_photogrid"/>
+
+	<item
+	component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.MainPage}"
+	drawable="com_roidapp_photogrid"/>
+
+	<item
+	component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.common.AdMobActivity}"
+	drawable="com_roidapp_photogrid"/>
+
+	<item
+	component="ComponentInfo{com.roidapp.photogrid/com.roidapp.photogrid.ModeSelect}"
+	drawable="com_roidapp_photogrid"/>
+
+
+	<!-- Amazing Alex -->
+
+	<item
+	component="ComponentInfo{com.rovio.amazingalex.premium/com.rovio.amazingalex.AAActivity}"
+	drawable="com_rovio_amazingalex_premium"/>
+
+
+	<!-- Amazing Alex HD -->
+
+	<item
+	component="ComponentInfo{com.rovio.amazingalexHD/com.rovio.amazingalexHD.main}"
+	drawable="com_rovio_amazingalexHD"/>
+
+
+	<!-- Angry Birds -->
+
+	<item
+	component="ComponentInfo{com.rovio.angrybirds/com.rovio.fusion.App}"
+	drawable="com_rovio_angrybirds"/>
+
+
+	<!-- Angry Birds Rio -->
+
+	<item
+	component="ComponentInfo{com.rovio.angrybirdsrio/com.rovio.fusion.App}"
+	drawable="com_rovio_angrybirdsrio"/>
+
+
+	<!-- Angry Birds Seasons -->
+
+	<item
+	component="ComponentInfo{com.rovio.angrybirdsseasons/com.rovio.fusion.App}"
+	drawable="com_rovio_angrybirdsseasons"/>
+
+
+	<!-- Angry Birds Space -->
+
+	<item
+	component="ComponentInfo{com.rovio.angrybirdsspace.ads/com.rovio.fusion.App}"
+	drawable="com_rovio_angrybirdsspace_ads"/>
+
+
+	<!-- Angry Birds Star Wars -->
+
+	<item
+	component="ComponentInfo{com.rovio.angrybirdsstarwars.ads.iap/com.rovio.fusion.App}"
+	drawable="com_rovio_angrybirdsstarwars_ads_iap"/>
+
+
+	<!-- Bad Piggies -->
+
+	<item
+	component="ComponentInfo{com.rovio.BadPiggies/com.rovio.BadPiggies.PluginManager}"
+	drawable="com_rovio_BadPiggies"/>
+
+
+	<!-- GooManager -->
+
+	<item
+	component="ComponentInfo{com.s0up.goomanager/com.s0up.goomanager.GooManagerActivity}"
+	drawable="com_s0up_goomanager"/>
+
+	<item
+	component="ComponentInfo{com.s0up.goomanager/com.s0up.goomanager.GooManager}"
+	drawable="com_s0up_goomanager"/>
+
+
+	<!-- Sam Mobile -->
+
+	<item
+	component="ComponentInfo{com.sammobile.app/com.sammobile.app.Program}"
+	drawable="com_sammobile_app"/>
+
+
+	<!-- Sam Mobile free -->
+
+	<item
+	component="ComponentInfo{com.sammobile.app.free/com.sammobile.app.Program}"
+	drawable="com_sammobile_app_free"/>
+
+
+	<!-- Music player Samsung -->
+
+	<item
+	component="ComponentInfo{com.samsung.music/com.samsung.music.Main}"
+	drawable="com_samsung_music"/>
+
+
+	<!-- Kies Air -->
+
+	<item
+	component="ComponentInfo{com.samsung.swift.app.kiesair/com.samsung.swift.applet.AppletActivity}"
+	drawable="com_samsung_swift_app_kiesair"/>
+
+
+	<!-- Settings (Samsung) -->
+
+	<item
+	component="ComponentInfo{com.samsung.twsettings/com.samsung.twsettings.Settings}"
+	drawable="com_samsung_twsettings"/>
+
+
+	<!-- AirDroid -->
+
+	<item
+	component="ComponentInfo{com.sand.airdroid/com.sand.airdroid.Splash}"
+	drawable="com_sand_airdroid"/>
+
+
+	<!-- Feed me -->
+
+	<item
+	component="ComponentInfo{com.seazon.feedme/com.seazon.feedme.activity.FeedListActivity}"
+	drawable="com_seazon_feedme"/>
+
+
+	<!-- ChatOn -->
+
+	<item
+	component="ComponentInfo{com.sec.chaton/com.sec.chaton.HomeActivity}"
+	drawable="com_sec_chaton"/>
+
+
+	<!-- Samsung AllShare -->
+
+	<item
+	component="ComponentInfo{com.sec.pcw/com.sec.pcw.hybrid.CloudApp}"
+	drawable="com_sec_pcw"/>
+
+
+	<!-- Devil's Attorney -->
+
+	<item
+	component="ComponentInfo{com.senri.da/com.senri.da.DevilsAttorneyActivity}"
+	drawable="com_senri_da"/>
+
+
+	<!-- Picsay -->
+
+	<item
+	component="ComponentInfo{com.shinycore.picsayfree/com.shinycore.picsayfree.PicSay}"
+	drawable="com_shinycore_picsayfree"/>
+
+
+	<!-- Picsay pro -->
+
+	<item
+	component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.PicSay}"
+	drawable="com_shinycore_picsaypro"/>
+
+	<item
+	component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}"
+	drawable="com_shinycore_picsaypro"/>
+
+
+	<!-- Football Manager 2013 -->
+
+	<item
+	component="ComponentInfo{com.sigames.fmh2013/com.sigames.fmh2013.fmh2013}"
+	drawable="com_sigames_fmh2013"/>
+
+
+	<!-- Zombies, Run! -->
+
+	<item
+	component="ComponentInfo{com.sixtostart.zombiesrun/com.sixtostart.zombiesrun2.ZombiesRunMainActivity}"
+	drawable="com_sixtostart_zombiesrun"/>
+
+
+	<!-- Skifta -->
+
+	<item
+	component="ComponentInfo{com.skifta.android.app/com.skifta.android.app.HomeActivity}"
+	drawable="com_skifta_android_app"/>
+
+	<item
+	component="ComponentInfo{com.skifta.android.app/com.skifta.android.app.client.app.HomeActivity}"
+	drawable="com_skifta_android_app"/>
+
+
+	<!-- Ski & Snow Report -->
+
+	<item
+	component="ComponentInfo{com.skireport/com.skireport.activities.SkiReport}"
+	drawable="com_skireport"/>
+
+
+	<!-- Skireport -->
+
+	<item
+	component="ComponentInfo{com.skireport/com.skireport.activities.SkiReport}"
+	drawable="com_skireport"/>
+
+
+	<!-- Skistar -->
+
+	<item
+	component="ComponentInfo{com.skistar.SKISTAR1/com.skistar.SKISTAR1.MyskistarActivity}"
+	drawable="com_skistar_SKISTAR1"/>
+
+
+	<!-- Callrecorder -->
+
+	<item
+	component="ComponentInfo{com.skvalex.callrecorder/com.skvalex.callrecorder.CallRecorderActivity}"
+	drawable="com_skvalex_callrecorder"/>
+
+
+	<!-- Skype -->
+
+	<item
+	component="ComponentInfo{com.skype.raider/com.skype.raider.Main}"
+	drawable="com_skype_raider"/>
+
+
+	<!-- Fun Gallery -->
+
+	<item
+	component="ComponentInfo{com.smartanuj.funny/com.smartanuj.funny.Home}"
+	drawable="com_smartanuj_funny"/>
+
+
+	<!-- Snapchat -->
+
+	<item
+	component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}"
+	drawable="com_snapchat_android"/>
+
+
+	<!-- ColorDict -->
+
+	<item
+	component="ComponentInfo{com.socialnmobile.colordict/com.socialnmobile.colordict.activity.Main}"
+	drawable="com_socialnmobile_colordict"/>
+
+
+	<!-- ColorNote -->
+
+	<item
+	component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.NoteList}"
+	drawable="com_socialnmobile_dictapps_notepad_color_note"/>
+
+	<item
+	component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main}"
+	drawable="com_socialnmobile_dictapps_notepad_color_note"/>
+
+
+	<!-- ColorNote Notepad Notes To Do -->
+
+	<item
+	component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.Main}"
+	drawable="com_socialnmobile_dictapps_notepad_color_note_2"/>
+
+	<item
+	component="ComponentInfo{com.socialnmobile.dictapps.notepad.color.note/com.socialnmobile.colornote.activity.NoteList}"
+	drawable="com_socialnmobile_dictapps_notepad_color_note_2"/>
+
+
+	<!-- Sonic Jump -->
+
+	<item
+	component="ComponentInfo{com.sonicjump.sonicjump/com.sonicjump.sonicjump.Loader}"
+	drawable="com_sonicjump_sonicjump"/>
+
+
+	<!-- TrackID -->
+
+	<item
+	component="ComponentInfo{com.sonyericsson.trackid/com.sonyericsson.trackid.activity.WidgetHandlerActivity}"
+	drawable="com_sonyericsson_trackid"/>
+
+	<item
+	component="ComponentInfo{com.sonyericsson.trackid3.client/com.sonyericsson.trackid3.client.activity.WidgetHandlerActivity}"
+	drawable="com_sonyericsson_trackid"/>
+
+	<item
+	component="ComponentInfo{com.sonyericsson.trackid3.client/com.sonyericsson.trackid3.client.activity.MainActivity}"
+	drawable="com_sonyericsson_trackid"/>
+
+	<item
+	component="ComponentInfo{com.sonyericsson.trackid3.client.rachael/com.sonyericsson.trackid3.client.rachael.activity.MainActivity}"
+	drawable="com_sonyericsson_trackid"/>
+
+	<item
+	component="ComponentInfo{com.sonyericsson.trackid3.client.deckard/com.sonyericsson.trackid3.client.deckard.activity.MainActivity}"
+	drawable="com_sonyericsson_trackid"/>
+
+	<item
+	component="ComponentInfo{com.sonyericsson.trackid3.client.mimmi/com.sonyericsson.trackid3.client.mimmi.activity.MainActivity}"
+	drawable="com_sonyericsson_trackid"/>
+
+	<item
+	component="ComponentInfo{com.sonyericsson.trackid3.client.sulin/com.sonyericsson.trackid3.client.sulin.activity.MainActivity}"
+	drawable="com_sonyericsson_trackid"/>
+
+	<item
+	component="ComponentInfo{com.sonyericsson.trackid3.client.robyn/com.sonyericsson.trackid3.client.robyn.activity.MainActivity}"
+	drawable="com_sonyericsson_trackid"/>
+
+
+	<!-- Umano -->
+
+	<item
+	component="ComponentInfo{com.sothree.umano/com.sothree.umano.activities.SplashActivity}"
+	drawable="com_sothree_umano"/>
+
+
+	<!-- Soundcloud -->
+
+	<item
+	component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Main}"
+	drawable="com_soundcloud_android"/>
+
+	<item
+	component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Launch}"
+	drawable="com_soundcloud_android"/>
+
+	<item
+	component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.activity.Dashboard}"
+	drawable="com_soundcloud_android"/>
+
+
+	<!-- Explorer -->
+
+	<item
+	component="ComponentInfo{com.speedsoftware.explorer/com.speedsoftware.explorer.Explorer}"
+	drawable="com_speedsoftware_explorer"/>
+
+
+	<!-- Explorer root -->
+
+	<item
+	component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}"
+	drawable="com_speedsoftware_rootexplorer"/>
+
+
+	<!-- Spotify -->
+
+	<item
+	component="ComponentInfo{com.spotify.mobile.android.ui/com.spotify.mobile.android.ui.Launcher}"
+	drawable="com_spotify_mobile_android_ui"/>
+
+	<item
+	component="ComponentInfo{com.spotify.mobile.android.ui/com.spotify.mobile.android.ui.activity.MainActivity}"
+	drawable="com_spotify_mobile_android_ui"/>
+
+
+	<!-- FINAL FANTASY III -->
+
+	<item
+	component="ComponentInfo{com.square.enix.android.googleplay.FFIII_GP/com.square_enix.android_googleplay.FFIII_GP.BootActivity}"
+	drawable="com_square_enix_android_googleplay_FFIII_GP"/>
+
+
+	<!-- SVOX classic tts -->
+
+	<item
+	component="ComponentInfo{com.svox.classic/com.svox.classic.catalog.Catalog}"
+	drawable="com_svox_classic"/>
+
+
+	<!-- Swype -->
+
+	<item
+	component="ComponentInfo{com.swype.android.installer/com.swype.android.installer.SwypeInstaller}"
+	drawable="com_swype_android_installer"/>
+
+
+	<!-- Taptu -->
+
+	<item
+	component="ComponentInfo{com.taptu.streams/com.taptu.streams.activities.MainActivity}"
+	drawable="com_taptu_streams"/>
+
+
+	<!-- Nova Launcher -->
+
+	<item
+	component="ComponentInfo{com.teslacoilsw.launcher/com.android.launcher2.Launcher}"
+	drawable="com_teslacoilsw_launcher"/>
+
+
+	<!-- Nova Launcher Prime -->
+
+	<item
+	component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}"
+	drawable="com_teslacoilsw_launcher_prime"/>
+
+
+	<!-- Fancy -->
+
+	<item
+	component="ComponentInfo{com.thefancy.app/com.thefancy.app.activities.Main}"
+	drawable="com_thefancy_app"/>
+
+	<item
+	component="ComponentInfo{com.thefancy.app/com.thefancy.app.common.Main}"
+	drawable="com_thefancy_app"/>
+
+	<item
+	component="ComponentInfo{com.thefancy.app/com.thefancy.app.Home}"
+	drawable="com_thefancy_app"/>
+
+	<item
+	component="ComponentInfo{com.thefancy.app/com.thefancy.app.Main}"
+	drawable="com_thefancy_app"/>
+
+
+	<!-- Catch Notes -->
+
+	<item
+	component="ComponentInfo{com.threebanana.notes/com.threebanana.notes.Notes}"
+	drawable="com_threebanana_notes"/>
+
+
+	<!-- Bike Race -->
+
+	<item
+	component="ComponentInfo{com.topfreegames.bikeracefreeworld/com.topfreegames.bikerace.activities.MainActivity}"
+	drawable="com_topfreegames_bikeracefreeworld"/>
+
+
+	<!-- The Curse -->
+
+	<item
+	component="ComponentInfo{com.toystudio.thecurse/com.toystudio.thecurse.Main}"
+	drawable="com_toystudio_thecurse"/>
+
+	<item
+	component="ComponentInfo{com.toystudio.thecursefree/com.toystudio.thecursefree.Main}"
+	drawable="com_toystudio_thecurse"/>
+
+
+	<!-- Tradera -->
+
+	<item
+	component="ComponentInfo{com.tradera/com.tradera.activity.SearchActivity}"
+	drawable="com_tradera"/>
+
+
+	<!-- TripAdvisor -->
+
+	<item
+	component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity}"
+	drawable="com_tripadvisor_tripadvisor"/>
+
+
+	<!-- TSF shell -->
+
+	<item
+	component="ComponentInfo{com.tsf.shell/com.tsf.shell.Home}"
+	drawable="com_tsf_shell"/>
+
+
+	<!-- Tumblr -->
+
+	<item
+	component="ComponentInfo{com.tumblr/com.tumblr.activity.TumblrActivity}"
+	drawable="com_tumblr"/>
+
+
+	<!-- Tv.nu -->
+
+	<item
+	component="ComponentInfo{com.tvnu.app/com.tvnu.app.Main}"
+	drawable="com_tvnu_app"/>
+
+	<item
+	component="ComponentInfo{com.tvnu.app/com.tvnu.app.ui.HomeActivity}"
+	drawable="com_tvnu_app"/>
+
+
+	<!-- Press -->
+
+	<item
+	component="ComponentInfo{com.twentyfivesquares.press/com.twentyfivesquares.press.HomeActivity}"
+	drawable="com_twentyfivesquares_press"/>
+
+
+	<!-- Twitter -->
+
+	<item
+	component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}"
+	drawable="com_twitter_android"/>
+
+
+	<!-- World of Goo -->
+
+	<item
+	component="ComponentInfo{com.twodboy.worldofgoofull/com.twodboy.worldofgoofull.WorldOfGooFull}"
+	drawable="com_twodboy_worldofgoofull"/>
+
+
+	<!-- uTorrent -->
+
+	<item
+	component="ComponentInfo{com.utorrent.client/com.utorrent.client.Main}"
+	drawable="com_utorrent_client"/>
+
+
+	<!-- The Verge -->
+
+	<item
+	component="ComponentInfo{com.verge.android/com.verge.android.VergeMain}"
+	drawable="com_verge_android"/>
+
+
+	<!-- Viaplay -->
+
+	<item
+	component="ComponentInfo{com.viasatondemand/com.viasatondemand.activity.StartActivity}"
+	drawable="com_viasatondemand"/>
+
+	<item
+	component="ComponentInfo{com.viasatondemand/com.viaplay.android.SplashScreenActivity}"
+	drawable="com_viasatondemand"/>
+
+
+	<!-- Viber -->
+
+	<item
+	component="ComponentInfo{com.viber.voip/com.viber.voip.IdleActivity}"
+	drawable="com_viber_voip"/>
+
+
+	<!-- The Weather Channel -->
+
+	<item
+	component="ComponentInfo{com.weather.Weather/com.weather.Weather.activities.WeatherMainActivity}"
+	drawable="com_weather_Weather"/>
+
+
+	<!-- What's app -->
+
+	<item
+	component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
+	drawable="com_whatsapp"/>
+
+
+	<!-- Flickr -->
+
+	<item
+	component="ComponentInfo{com.yahoo.mobile.client.android.flickr/com.yahoo.mobile.client.android.flickr.ui.misc.LoginActivity}"
+	drawable="com_yahoo_mobile_client_android_flickr"/>
+
+
+	<!-- Yahoo Messenger -->
+
+	<item
+	component="ComponentInfo{com.yahoo.mobile.client.android.im/com.yahoo.mobile.client.android.im.YahooMessenger}"
+	drawable="com_yahoo_mobile_client_android_im"/>
+
+
+	<!-- Yelp -->
+
+	<item
+	component="ComponentInfo{com.yelp.android/com.yelp.android.ui.activities.RootActivity}"
+	drawable="com_yelp_android"/>
+
+
+	<!-- Cut The Rope -->
+
+	<item
+	component="ComponentInfo{com.zeptolab.ctr.paid/com.zeptolab.ctr.paid.CtrAppPaid}"
+	drawable="com_zeptolab_ctr_ads"/>
+
+	<item
+	component="ComponentInfo{com.zeptolab.ctr.paid/com.zeptolab.ctr.paid.Applanet.2}"
+	drawable="com_zeptolab_ctr_ads"/>
+
+	<item
+	component="ComponentInfo{com.zeptolab.ctr.ads/saknas}"
+	drawable="com_zeptolab_ctr_ads"/>
+
+
+	<!-- Cut The Rope: Experiments -->
+
+	<item
+	component="ComponentInfo{com.zeptolab.ctrexperiments.google.paid/com.zeptolab.ctrexperiments.google.paid.main}"
+	drawable="com_zeptolab_ctrexperiments_ads"/>
+
+	<item
+	component="ComponentInfo{com.zeptolab.ctrexperiments.hd.google.paid/com.zeptolab.ctrexperiments.hd.google.paid.main}"
+	drawable="com_zeptolab_ctrexperiments_ads"/>
+
+	<item
+	component="ComponentInfo{com.zeptolab.ctrexperiments.ads/com.zeptolab.ctrexperiments.ads.main}"
+	drawable="com_zeptolab_ctrexperiments_ads"/>
+
+
+	<!-- Pudding Monsters -->
+
+	<item
+	component="ComponentInfo{com.zeptolab.monsters.free.google/com.zeptolab.mvsl.MVSLActivity}"
+	drawable="com_zeptolab_monsters_free_google"/>
+
+
+	<!-- Ski and Snow report -->
+
+	<item
+	component="ComponentInfo{com.zumobi.snowreport/com.zumobi.snowreport.LoadingScreenActivity}"
+	drawable="com_zumobi_snowreport"/>
+
+
+	<!-- Scramble With Friends Free -->
+
+	<item
+	component="ComponentInfo{com.zynga.scramble/com.zynga.scramble.ui.launch.ScrambleMainActivity}"
+	drawable="com_zynga_scramble"/>
+
+
+	<!-- Scramble With Friends -->
+
+	<item
+	component="ComponentInfo{com.zynga.scramble.paid/com.zynga.scramble.paid.main}"
+	drawable="com_zynga_scramble_paid"/>
+
+
+	<!-- Words With Friends Free -->
+
+	<item
+	component="ComponentInfo{com.zynga.words/com.zynga.words.ui.launch.WordsMainActivity}"
+	drawable="com_zynga_words"/>
+
+	<item
+	component="ComponentInfo{com.zynga.words/com.zynga.words.menu.GameListActivity}"
+	drawable="com_zynga_words"/>
+
+	<item
+	component="ComponentInfo{com.zynga.words/com.zynga.wfframework.ui.launch.MainActivity}"
+	drawable="com_zynga_words"/>
+
+	<item
+	component="ComponentInfo{com.zynga.words/com.zynga.words.fragment.FragActivity}"
+	drawable="com_zynga_words"/>
+
+
+	<!-- Minimalistic Text -->
+
+	<item
+	component="ComponentInfo{de.devmil.minimaltext/de.devmil.minimaltext.ui.MinimalTextPreferenceManager}"
+	drawable="de_devmil_minimaltext"/>
+
+	<item
+	component="ComponentInfo{de.devmil.minimaltext/de.devmil.minimaltext.uinext.MinimalTextMainActivity}"
+	drawable="de_devmil_minimaltext"/>
+
+	<item
+	component="ComponentInfo{de.devmil.minimaltext/de.devmil.minimaltext.ui.MinimalTextPreferences}"
+	drawable="de_devmil_minimaltext"/>
+
+
+	<!-- What's worth on ebay -->
+
+	<item
+	component="ComponentInfo{de.koloch.evaluator/de.koloch.evaluator.SearchScreen}"
+	drawable="de_koloch_evaluator"/>
+
+
+	<!-- What's worth on ebay free -->
+
+	<item
+	component="ComponentInfo{de.koloch.evaluator.free/de.koloch.evaluator.free.SearchScreen}"
+	drawable="de_koloch_evaluator_free"/>
+
+
+	<!-- Mortplayer Audiobooks -->
+
+	<item
+	component="ComponentInfo{de.stohelit.audiobookplayer/de.stohelit.audiobookplayer.MainPlayer}"
+	drawable="de_stohelit_audiobookplayer"/>
+
+
+	<!-- Mortplayer Music -->
+
+	<item
+	component="ComponentInfo{de.stohelit.folderplayer/de.stohelit.folderplayer.MainPlayer}"
+	drawable="de_stohelit_folderplayer"/>
+
+
+	<!-- DME -->
+
+	<item
+	component="ComponentInfo{dk.excitor.dmemail/dk.excitor.dme.android.ui.Splash}"
+	drawable="dk_excitor_dmemail"/>
+
+
+	<!-- SuperSU -->
+
+	<item
+	component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity}"
+	drawable="eu_chainfire_supersu"/>
+
+
+	<!-- Parcels -->
+
+	<item
+	component="ComponentInfo{eu.zomtec.android.delivery/eu.zomtec.android.delivery.DeliveryActivity}"
+	drawable="eu_zomtec_android_delivery"/>
+
+
+	<!-- Flipboard -->
+
+	<item
+	component="ComponentInfo{flipboard.app/flipboard.activities.TOCActivity}"
+	drawable="flipboard_app"/>
+
+	<item
+	component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivity}"
+	drawable="flipboard_app"/>
+
+
+	<!-- gTunes music download -->
+
+	<item
+	component="ComponentInfo{free.mp3.dlv6/free.mp3.dlv6.MainActivity}"
+	drawable="free_mp3_dlv6"/>
+
+
+	<!-- Avocado -->
+
+	<item
+	component="ComponentInfo{io.avocado.android/io.avocado.android.SplashActivity}"
+	drawable="io_avocado_android"/>
+
+
+	<!-- Android terminal emulator -->
+
+	<item
+	component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}"
+	drawable="jackpal_androidterm"/>
+
+	<item
+	component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term%2}"
+	drawable="jackpal_androidterm"/>
+
+
+	<!-- Desktop VisualizeR -->
+
+	<item
+	component="ComponentInfo{jp.co.bii.android.app.dskvzr/jp.co.bii.android.app.dskvzr.DesktopVisualizerActivity}"
+	drawable="jp_co_bii_android_app_dskvzr"/>
+
+
+	<!-- Line -->
+
+	<item
+	component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}"
+	drawable="jp_naver_line_android"/>
+
+
+	<!-- Line camera -->
+
+	<item
+	component="ComponentInfo{jp.naver.linecamera.android/jp.naver.pick.android.camera.activity.CameraActivity}"
+	drawable="jp_naver_linecamera_android"/>
+
+
+	<!-- Line card -->
+
+	<item
+	component="ComponentInfo{jp.naver.linecard.android/jp.naver.linecard.android.TemplateListActivity}"
+	drawable="jp_naver_linecard_android"/>
+
+	<item
+	component="ComponentInfo{jp.naver.linecard.android/jp.naver.linecard.android.activity.TemplateListActivity}"
+	drawable="jp_naver_linecard_android"/>
+
+
+	<!-- Line bubble -->
+
+	<item
+	component="ComponentInfo{jp.naver.SJLGBUBBLE/jp.naver.SJLGBUBBLE.activity.LineBubble}"
+	drawable="jp_naver_SJLGBUBBLE"/>
+
+
+	<!-- Kik Messenger -->
+
+	<item
+	component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}"
+	drawable="kik_android"/>
+
+	<item
+	component="ComponentInfo{kik.android/kik.android.chat.fragment.KikFragmentActivity}"
+	drawable="kik_android"/>
+
+
+	<!-- Pou -->
+
+	<item
+	component="ComponentInfo{me.pou.app/me.pou.app.App}"
+	drawable="me_pou_app"/>
+
+
+	<!-- NS Tools -->
+
+	<item
+	component="ComponentInfo{mobi.cyann.nstools/mobi.cyann.nstools.MainActivity}"
+	drawable="mobi_cyann_nstools"/>
+
+
+	<!-- Metro Nyheter -->
+
+	<item
+	component="ComponentInfo{mobi.mobiletech.apps.android.metro.se/mobi.mobiletech.apps.android.metro.se.MetroSEActivity}"
+	drawable="mobi_mobiletech_apps_android_metro_se"/>
+
+
+	<!-- Tasker -->
+
+	<item
+	component="ComponentInfo{net.dinglisch.android.taskerm/net.dinglisch.android.taskerm.Tasker}"
+	drawable="net_dinglisch_android_taskerm"/>
+
+
+	<!-- Battery Widget Reborn pro -->
+
+	<item
+	component="ComponentInfo{net.hubalek.android.apps.reborn.pro/net.hubalek.android.apps.reborn.pro.activities.MainActivityBeta}"
+	drawable="net_hubalek_android_apps_reborn_pro"/>
+
+
+	<!-- Battery Widget Reborn -->
+
+	<item
+	component="ComponentInfo{net.hubalek.android.reborn.beta/net.hubalek.android.apps.reborn.beta.activities.MainActivityBeta}"
+	drawable="net_hubalek_android_reborn_beta"/>
+
+
+	<!-- Omega Files -->
+
+	<item
+	component="ComponentInfo{net.indieroms.OmegaFilesJB/net.indieroms.OmegaFilesJB.SplashScreen}"
+	drawable="net_indieroms_OmegaFilesJB"/>
+
+	<item
+	component="ComponentInfo{net.indieroms.OmegaFilesJB/net.indieroms.OmegaFilesJB.OmegaFilesJBActivity}"
+	drawable="net_indieroms_OmegaFilesJB"/>
+
+	<item
+	component="ComponentInfo{net.indieroms.OmegaFilesJB/net.indieroms.OmegaFilesJB.index}"
+	drawable="net_indieroms_OmegaFilesJB"/>
+
+
+	<!-- Game dev story -->
+
+	<item
+	component="ComponentInfo{net.kairosoft.android.gamedev3en/net.kairosoft.android.gamedev3en.Main}"
+	drawable="net_kairosoft_android_gamedev3en"/>
+
+
+	<!-- Mitt i -->
+
+	<item
+	component="ComponentInfo{net.mitti.STOCKHOLM/net.mitti.STOCKHOLM.StockholmActivity}"
+	drawable="net_mitti_STOCKHOLM"/>
+
+
+	<!-- Akinator -->
+
+	<item
+	component="ComponentInfo{net.scimob.akinator/net.scimob.akinator.Akinator}"
+	drawable="net_scimob_akinator"/>
+
+	<item
+	component="ComponentInfo{net.scimob.akinator/net.scimob.akinatorlite.Akinator}"
+	drawable="net_scimob_akinator"/>
+
+	<item
+	component="ComponentInfo{net.scimob.akinator/com.digidust.elokence.akinator.activities.SplashscreenActivity}"
+	drawable="net_scimob_akinator"/>
+
+
+	<!-- Skyscanner -->
+
+	<item
+	component="ComponentInfo{net.skyscanner.android.main/net.skyscanner.android.activity.SearchActivity}"
+	drawable="net_skyscanner_android_main"/>
+
+
+	<!-- Andy-83 -->
+
+	<item
+	component="ComponentInfo{net.supware.ti83/net.supware.ti83.MainActivity}"
+	drawable="net_supware_ti83"/>
+
+
+	<!-- Pic Frame -->
+
+	<item
+	component="ComponentInfo{nz.co.activedevelopment.picframe.android/nz.co.activedevelopment.picframe.android.PicFrameActivity}"
+	drawable="nz_co_activedevelopment_picframe_android"/>
+
+
+	<!-- ADWlauncher EX -->
+
+	<item
+	component="ComponentInfo{org.adwfreak.launcher/org.adwfreak.launcher.Launcher}"
+	drawable="org_adwfreak_launcher"/>
+
+	<item
+	component="ComponentInfo{org.adwfreak.launcher/org.adw.launcherlib.Launcher}"
+	drawable="org_adwfreak_launcher"/>
+
+	<item
+	component="ComponentInfo{org.adwfreak.launcher/org.adwfreak.launcher.main}"
+	drawable="org_adwfreak_launcher"/>
+
+
+	<!-- Flashback -->
+
+	<item
+	component="ComponentInfo{org.chip2n.flashbacklite/org.chip2n.flashbacklite.Flashback}"
+	drawable="org_chip2n_flashbacklite"/>
+
+	<item
+	component="ComponentInfo{org.chip2n.flashbacklite/org.chip2n.flashback.MainActivity}"
+	drawable="org_chip2n_flashbacklite"/>
+
+	<item
+	component="ComponentInfo{org.chip2n.flashbacklite/org.chip2n.flashback.Flashback}"
+	drawable="org_chip2n_flashbacklite"/>
+
+	<item
+	component="ComponentInfo{org.chip2n.flashbacklite/org.chip2n.flashbacklite.MainActivity}"
+	drawable="org_chip2n_flashbacklite"/>
+
+
+	<!-- Faster GPS -->
+
+	<item
+	component="ComponentInfo{org.fastergps/org.fastergps.ui.BaseActivity}"
+	drawable="org_fastergps"/>
+
+
+	<!-- Synodroid -->
+
+	<item
+	component="ComponentInfo{org.jared.synodroid.ds/org.jared.synodroid.ds.DownloadActivity}"
+	drawable="org_jared_synodroid_ds"/>
+
+	<item
+	component="ComponentInfo{org.jared.synodroid.ds/org.jared.synodroid.ds.ui.HomeActivity}"
+	drawable="org_jared_synodroid_ds"/>
+
+	<item
+	component="ComponentInfo{org.jared.synodroid.ds/com.bigpupdev.synodroid.ui.HomeActivity}"
+	drawable="org_jared_synodroid_ds"/>
+
+
+	<!-- Pattrn -->
+
+	<item
+	component="ComponentInfo{org.lucasr.pattrn/org.lucasr.pattrn.ui.MainActivity}"
+	drawable="org_lucasr_pattrn"/>
+
+	<item
+	component="ComponentInfo{org.lucasr.pattrn/org.lucasr.pattrn.ui.HomeActivity}"
+	drawable="org_lucasr_pattrn"/>
+
+
+	<!-- Jewels -->
+
+	<item
+	component="ComponentInfo{org.mhgames.jewels/org.mhgames.jewels.JewelsActivity}"
+	drawable="org_mhgames_jewels"/>
+
+	<item
+	component="ComponentInfo{org.mhgames.jewelse/org.mhgames.jewelse.JewelsActivity}"
+	drawable="org_mhgames_jewels"/>
+
+
+	<!-- HaxSync -->
+
+	<item
+	component="ComponentInfo{org.mots.haxsync/org.mots.haxsync.activities.WelcomeActivity}"
+	drawable="org_mots_haxsync"/>
+
+
+	<!-- RetroArch -->
+
+	<item
+	component="ComponentInfo{org.retroarch/org.retroarch.browser.RetroArch}"
+	drawable="org_retroarch"/>
+
+
+	<!-- Prince of persia free -->
+
+	<item
+	component="ComponentInfo{org.ubisoft.freemium.POPClassic/org.ubisoft.freemium.POPClassic.POPClassic}"
+	drawable="org_ubisoft_freemium_POPClassic"/>
+
+
+	<!-- Prince of persia -->
+
+	<item
+	component="ComponentInfo{org.ubisoft.premium.POPClassic/org.ubisoft.expansion.downloader.POPDownloaderActivity}"
+	drawable="org_ubisoft_premium_POPClassic"/>
+
+
+	<!-- Wordpress -->
+
+	<item
+	component="ComponentInfo{org.wordpress.android/org.wordpress.android.Dashboard}"
+	drawable="org_wordpress_android"/>
+
+	<item
+	component="ComponentInfo{org.wordpress.android/org.wordpress.android.splashScreen}"
+	drawable="org_wordpress_android"/>
+
+
+	<!-- XBMC Remote -->
+
+	<item
+	component="ComponentInfo{org.xbmc.android.remote/org.xbmc.android.remote.presentation.activity.HomeActivity}"
+	drawable="org_xbmc_android_remote"/>
+
+
+	<!-- Zeam launcher -->
+
+	<item
+	component="ComponentInfo{org.zeam/org.zeam.Launcher}"
+	drawable="org_zeam"/>
+
+
+	<!-- Pixlr-o-matic -->
+
+	<item
+	component="ComponentInfo{pixlr.omatic/pixlr.OMatic.OMatic}"
+	drawable="pixlr_omatic"/>
+
+
+	<!-- Package manager ad -->
+
+	<item
+	component="ComponentInfo{rabisoft.packagemanagerad/RabiSoft.PackageManagerAd.Main}"
+	drawable="rabisoft_packagemanagerad"/>
+
+
+	<!-- Package manager AD -->
+
+	<item
+	component="ComponentInfo{RabiSoft.PackageManagerAd/RabiSoft.PackageManagerAd.Main}"
+	drawable="RabiSoft_PackageManagerAd"/>
+
+
+	<!-- TuneIn radio Pro -->
+
+	<item
+	component="ComponentInfo{radiotime.player/tunein.player.pro.Activity}"
+	drawable="radiotime_player"/>
+
+	<item
+	component="ComponentInfo{radiotime.player/tunein.player.pro.Splash}"
+	drawable="radiotime_player"/>
+
+
+	<!-- WyWallet -->
+
+	<item
+	component="ComponentInfo{se.accumulate.me.core.androidclient/se.accumulate.me.core.androidclient.wywallet.WyWalletClient}"
+	drawable="se_accumulate_me_core_androidclient"/>
+
+
+	<!-- Aftonbladet -->
+
+	<item
+	component="ComponentInfo{se.aftonbladet.start/se.aftonbladet.start.Launcher}"
+	drawable="se_aftonbladet_start"/>
+
+	<item
+	component="ComponentInfo{se.aftonbladet.start/se.aftonbladet.start.AftonbladetActivity}"
+	drawable="se_aftonbladet_start"/>
+
+
+	<!-- Blocket -->
+
+	<item
+	component="ComponentInfo{se.appcorn.Blocket/se.appcorn.Blocket.ACSplashScreen}"
+	drawable="se_appcorn_Blocket"/>
+
+	<item
+	component="ComponentInfo{se.appcorn.Blocket/se.appcorn.Blocket.activities.ACSplashScreen}"
+	drawable="se_appcorn_Blocket"/>
+
+
+	<!-- LetsDeal -->
+
+	<item
+	component="ComponentInfo{se.designbaren.letsdeal/se.designbaren.letsdeal.StartupActivity}"
+	drawable="se_designbaren_letsdeal"/>
+
+	<item
+	component="ComponentInfo{se.designbaren.letsdeal/se.designbaren.letsdeal.LetsdealActivity}"
+	drawable="se_designbaren_letsdeal"/>
+
+
+	<!-- Quizkampen -->
+
+	<item
+	component="ComponentInfo{se.feomedia.quizkampen/se.feomedia.quizkampen.MainActivity}"
+	drawable="se_feomedia_quizkampen"/>
+
+
+	<!-- Quizkampen Premium -->
+
+	<item
+	component="ComponentInfo{se.feomedia.quizkampen.premium/se.feomedia.quizkampen.MainActivity}"
+	drawable="se_feomedia_quizkampen_premium"/>
+
+
+	<!-- LiveScore Addicts -->
+
+	<item
+	component="ComponentInfo{se.footballaddicts.livescore/se.footballaddicts.livescore.activities.MainActivity}"
+	drawable="se_footballaddicts_livescore"/>
+
+
+	<!-- Hemnet -->
+
+	<item
+	component="ComponentInfo{se.hemnet.android/se.hemnet.android.SplashActivity}"
+	drawable="se_hemnet_android"/>
+
+
+	<!-- Twee -->
+
+	<item
+	component="ComponentInfo{se.ja1984.twee/se.ja1984.twee.HomeActivity}"
+	drawable="se_ja1984_twee"/>
+
+
+	<!-- JAYS headset control -->
+
+	<item
+	component="ComponentInfo{se.jays.headsetcontrol/se.jays.headsetcontrol.settings.MainSettings}"
+	drawable="se_jays_headsetcontrol"/>
+
+
+	<!-- Quizcross -->
+
+	<item
+	component="ComponentInfo{se.maginteractive.quizcross/se.maginteractive.quizcross.DispatchActivity}"
+	drawable="se_maginteractive_quizcross"/>
+
+
+	<!-- Ruzzle -->
+
+	<item
+	component="ComponentInfo{se.maginteractive.rumble/se.maginteractive.rumble.activities.SplashActivity}"
+	drawable="se_maginteractive_rumble"/>
+
+
+	<!-- Ruzzle free -->
+
+	<item
+	component="ComponentInfo{se.maginteractive.rumble.free/se.maginteractive.rumble.free.activities.SplashActivity}"
+	drawable="se_maginteractive_rumble_free"/>
+
+
+	<!-- Mathem -->
+
+	<item
+	component="ComponentInfo{se.mathem.android/se.mathem.android.ui.MatHemActivity}"
+	drawable="se_mathem_android"/>
+
+
+	<!-- Mecenat -->
+
+	<item
+	component="ComponentInfo{se.mecenat.app/se.mecenat.app.SplashActivity}"
+	drawable="se_mecenat_app"/>
+
+
+	<!-- Prisjakt  -->
+
+	<item
+	component="ComponentInfo{se.petersson.prisjakt/se.petersson.prisjakt.ZapsPrisjakt}"
+	drawable="se_petersson_prisjakt"/>
+
+
+	<!-- Rabble -->
+
+	<item
+	component="ComponentInfo{se.rabble.android/se.rabble.android.RabbleActivity}"
+	drawable="se_rabble_android"/>
+
+
+	<!-- Skatteverket -->
+
+	<item
+	component="ComponentInfo{se.rsv.ef.mobil.android/se.rsv.ef.mobil.android.SkatteverketActivity}"
+	drawable="se_rsv_ef_mobil_android"/>
+
+
+	<!-- SEB enkla firman -->
+
+	<item
+	component="ComponentInfo{se.seb.enklafirman/se.seb.enklafirman.Splash}"
+	drawable="se_seb_enklafirman"/>
+
+
+	<!-- SEB -->
+
+	<item
+	component="ComponentInfo{se.seb.privatkund/se.seb.privatkund.Splash}"
+	drawable="se_seb_privatkund"/>
+
+	<item
+	component="ComponentInfo{se.seb.privatkund/se.seb.privatkund.Main}"
+	drawable="se_seb_privatkund"/>
+
+
+	<!-- SF Bio -->
+
+	<item
+	component="ComponentInfo{se.sfbio.mobile.android/se.sfbio.mobile.android.SplashActivity}"
+	drawable="se_sfbio_mobile_android"/>
+
+
+	<!-- SJ -->
+
+	<item
+	component="ComponentInfo{se.sj.android/se.sj.android.activity.StartActivity}"
+	drawable="se_sj_android"/>
+
+
+	<!-- Skandiabanken -->
+
+	<item
+	component="ComponentInfo{se.skandiabanken.android.wallet/se.smartrefill.ad.bank.activity.SplashActivity}"
+	drawable="se_skandiabanken_android_wallet"/>
+
+	<item
+	component="ComponentInfo{se.skandiabanken.android.wallet/se.smartrefill.bank.activity.SplashActivity}"
+	drawable="se_skandiabanken_android_wallet"/>
+
+
+	<!-- SMHI Väder -->
+
+	<item
+	component="ComponentInfo{se.smhi.mobile.android/se.smhi.mobile.android.activities.SplashActivity}"
+	drawable="se_smhi_mobile_android"/>
+
+	<item
+	component="ComponentInfo{se.smhi.mobile.android/se.smhi.mobile.android.Splash}"
+	drawable="se_smhi_mobile_android"/>
+
+
+	<!-- Sparbanken -->
+
+	<item
+	component="ComponentInfo{se.sparbankerna.mobilbank/se.sparbankerna.mobilbank.MainMenuActivity}"
+	drawable="se_sparbankerna_mobilbank"/>
+
+
+	<!-- P4 -->
+
+	<item
+	component="ComponentInfo{se.sr.kanaler.p4/se.sr.kanaler.p4.activity.OpenChannelActivity}"
+	drawable="se_sr_kanaler_p4"/>
+
+
+	<!-- SvD -->
+
+	<item
+	component="ComponentInfo{se.svd.start/se.svd.start.Launcher}"
+	drawable="se_svd_start"/>
+
+
+	<!-- SAOL -->
+
+	<item
+	component="ComponentInfo{se.svenskaakademien.saol/se.svenskaakademien.saol.SAOLActivity}"
+	drawable="se_svenskaakademien_saol"/>
+
+
+	<!-- Svenska Spel -->
+
+	<item
+	component="ComponentInfo{se.svenskaspel.android2/se.svenskaspel.android.activity.SvenskaSpelActivity}"
+	drawable="se_svenskaspel_android2"/>
+
+	<item
+	component="ComponentInfo{se.svenskaspel.android2/com.apegroup.svenskaspel.activity.SvenskaSpelActivity}"
+	drawable="se_svenskaspel_android2"/>
+
+
+	<!-- Swedbank -->
+
+	<item
+	component="ComponentInfo{se.swedbank.mobil/bank.MainMenuActivity}"
+	drawable="se_swedbank_mobil"/>
+
+
+	<!-- Systembolaget -->
+
+	<item
+	component="ComponentInfo{se.systembolaget.android/se.systembolaget.android.debug.DebugMainActivity}"
+	drawable="se_systembolaget_android"/>
+
+
+	<!-- Mitt3 -->
+
+	<item
+	component="ComponentInfo{se.tre.smart/com.tre.smart.ui.StartActivity}"
+	drawable="se_tre_smart"/>
+
+
+	<!-- Turf -->
+
+	<item
+	component="ComponentInfo{se.turfwars.android/se.turfwars.android.activity.Splash}"
+	drawable="se_turfwars_android"/>
+
+	<item
+	component="ComponentInfo{se.turfwars.android/com.andrimon.turf.activity.Splash}"
+	drawable="se_turfwars_android"/>
+
+
+	<!-- Varningsinfo -->
+
+	<item
+	component="ComponentInfo{se.varningsinfo.android/se.varningsinfo.android.VarningsinfoActivity}"
+	drawable="se_varningsinfo_android"/>
+
+
+	<!-- Ving -->
+
+	<item
+	component="ComponentInfo{se.ving/se.ving.activity.StartActivity}"
+	drawable="se_ving"/>
+
+
+	<!-- Nine: 9GAG for Android -->
+
+	<item
+	component="ComponentInfo{sg.ruqqq.Nine/sg.ruqqq.Nine.MainActivity}"
+	drawable="sg_ruqqq_Nine"/>
+
+
+	<!-- Camera Zoom -->
+
+	<item
+	component="ComponentInfo{slide.cameraZoom/slide.cameraZoom.CameraZoomActivity}"
+	drawable="slide_cameraZoom"/>
+
+
+	<!-- Busybox -->
+
+	<item
+	component="ComponentInfo{stericson.busybox/stericson.busybox.Activity.MainActivity}"
+	drawable="stericson_busybox"/>
+
+
+	<!-- Busybox pro -->
+
+	<item
+	component="ComponentInfo{stericson.busybox.donate/stericson.busybox.donate.Activity.MainActivity}"
+	drawable="stericson_busybox_donate"/>
+
+
+	<!-- TuneIn radio -->
+
+	<item
+	component="ComponentInfo{tunein.player/tunein.player.Activity}"
+	drawable="tunein_player"/>
+
+	<item
+	component="ComponentInfo{tunein.player/tunein.player.Splash}"
+	drawable="tunein_player"/>
+
+
+	<!-- ezPDFreader pro -->
+
+	<item
+	component="ComponentInfo{udk.android.reader/udk.android.reader.ApplicationActivity}"
+	drawable="udk_android_reader"/>
+
+
+	<!-- Vignette -->
+
+	<item
+	component="ComponentInfo{uk.co.neilandtheresa.NewVignette/uk.co.neilandtheresa.Vignette.Vignette}"
+	drawable="uk_co_neilandtheresa_NewVignette"/>
+
+	<item
+	component="ComponentInfo{uk.co.neilandtheresa.NewVignette/uk.co.neilandtheresa.NewVignette.Vignette}"
+	drawable="uk_co_neilandtheresa_NewVignette"/>
+
+
+	<!-- Broken Sword Directors Cut -->
+
+	<item
+	component="ComponentInfo{uk.co.revolution.bs1dc/uk.co.revolution.bs1dc.BS1DCLaunchActivity}"
+	drawable="uk_co_revolution_bs1dc"/>
+
+	<item
+	component="ComponentInfo{uk.co.revolution.bs1dc.es/uk.co.revolution.bs1dc.es.BS1DCLaunchActivity}"
+	drawable="uk_co_revolution_bs1dc"/>
+
+
+	<!-- Broken Sword II Smoking Mirror -->
+
+	<item
+	component="ComponentInfo{uk.co.revolution.BSII/uk.co.revolution.BSII.de.BSIIDownloaderActivity}"
+	drawable="uk_co_revolution_BSII"/>
+
+	<item
+	component="ComponentInfo{uk.co.revolution.BSII/uk.co.revolution.BSII.BSIIDownloaderActivity}"
+	drawable="uk_co_revolution_BSII"/>
+
+	<item
+	component="ComponentInfo{uk.co.revolution.BSII/uk.co.revolution.BSII.es.BSIIDownloaderActivity}"
+	drawable="uk_co_revolution_BSII"/>
+
+
+	<!-- Friendcaster pro -->
+
+	<item
+	component="ComponentInfo{uk.co.senab.blueNotify/uk.co.senab.blueNotify.activity.HomeActivity}"
+	drawable="uk_co_senab_blueNotify"/>
+
+
+	<!-- Friendcaster -->
+
+	<item
+	component="ComponentInfo{uk.co.senab.blueNotifyFree/uk.co.senab.blueNotifyFree.activity.HomeActivity}"
+	drawable="uk_co_senab_blueNotifyFree"/>
+
+
+	<!-- Cifsmanager -->
+
+	<item
+	component="ComponentInfo{ws.plattner.cifsmanager/ws.plattner.cifsmanager.MainActivity}"
+	drawable="ws_plattner_cifsmanager"/>
+
+
+	<!-- FxCamera  -->
+
+	<item
+	component="ComponentInfo{ymst.android.fxcamera/ymst.android.fxcamera.FxCameraTopActivity}"
+	drawable="ymst_android_fxcamera"/>
+
+
+
+
+
+
+
 </resources>

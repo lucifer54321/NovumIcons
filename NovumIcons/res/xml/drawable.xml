@@ -1,248 +1,883 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
-    <item drawable="au_com_phil" />
-    <item drawable="au_com_phil_abduction2" />
-    <item drawable="au_com_phil_abduction" />
-    <item drawable="com_bigtincan_adfree" />
-    <item drawable="com_adobe_flashplayer" />
-    <item drawable="com_adobe_reader" />
-    <item drawable="com_mobisystems_msdict_embedded_wireless_wordnet" />
-    <item drawable="org_adwfreak_launcher" />
-    <item drawable="se_aftonbladet_start" />
-    <item drawable="com_halfbrick_ageofzombies" />
-    <item drawable="com_sand_airdroid" />
-    <item drawable="com_digidust_elokence_akinator_paid" />
-    <item drawable="com_aldiko_android" />
-    <item drawable="com_allsnow_android" />
-    <item drawable="com_rovio_amazingalex_premium" />
-    <item drawable="com_rovio_amazingalexhd" />
-    <item drawable="com_amazon_mshop_android" />
-    <item drawable="com_droidicon_androidactivities" />
-    <item drawable="com_rovio_angrybirds" />
-    <item drawable="com_rovio_angrybirdsseasons" />
-    <item drawable="com_dotemu_anotherworld" />
-    <item drawable="com_andrew_apollo" />
-    <item drawable="com_appspot_swisscodemonkeys_apps" />
-    <item drawable="com_rovio_badpiggies" />
-    <item drawable="com_badoo_mobile" />
-    <item drawable="com_bambuser_broadcaster" />
-    <item drawable="com_liato_bankdroid" />
-    <item drawable="com_google_zxing_client_android" />
-    <item drawable="net_hubalek_android_reborn_beta" />
-    <item drawable="net_hubalek_android_apps_reborn_pro" />
-    <item drawable="com_kellinoda_battleheart" />
-    <item drawable="com_bestbuy_android" />
-    <item drawable="com_topfreegames_bikeracefreeworld" />
-    <item drawable="se_appcorn_blocket" />
-    <item drawable="com_ninjakiwi_bloonstd5" />
-    <item drawable="cn_ssdl_bluedict" />
-    <item drawable="com_box_android" />
-    <item drawable="uk_co_revolution_bs1dc" />
-    <item drawable="com_android_browser" />
-    <item drawable="stericson_busybox" />
-    <item drawable="stericson_busybox_donate" />
-    <item drawable="com_android_calculator2" />
-    <item drawable="com_android_calender" />
-    <item drawable="com_android_camera" />
-    <item drawable="com_modaco_cameralauncher" />
-    <item drawable="slide_camerazoom" />
-    <item drawable="com_koushikdutta_backup" />
-    <item drawable="com_koushikdutta_backup_license" />
-    <item drawable="com_sec_chaton" />
-    <item drawable="com_socialnmobile_colordict" />
-    <item drawable="com_socialnmobile_dictapps_notepad_color_note" />
-    <item drawable="com_iconology_comics" />
-    <item drawable="com_apksoftware_compass" />
-    <item drawable="com_android_contacts" />
-    <item drawable="com_appsilicious_wallpapers" />
-    <item drawable="com_zeptolab_ctr_paid" />
-    <item drawable="com_zeptolab_ctrexperiments_google_paid" />
-    <item drawable="com_cyanogenmod_filemanager" />
-    <item drawable="com_quintstoffers_datasync" />
-    <item drawable="com_quintstoffers_datasync_beta" />
-    <item drawable="com_quintstoffers_datasync_key" />
-    <item drawable="com_ea_deadspace_row" />
-    <item drawable="com_senri_da" />
-    <item drawable="com_inisoft_mediaplayer_a" />
-    <item drawable="com_dictionary" />
-    <item drawable="com_dictionary_paid" />
-    <item drawable="com_drippler_android_updates" />
-    <item drawable="com_dropbox_android" />
-    <item drawable="com_ebay_mobile" />
-    <item drawable="com_ebuddy_android" />
-    <item drawable="se_hockeyligan_elitserien1112" />
-    <item drawable="com_aol_mobile_engadget" />
-    <item drawable="com_eniro" />
-    <item drawable="com_evernote" />
-    <item drawable="com_speedsoftware_explorer" />
-    <item drawable="com_speedsoftware_rootexplorer" />
-    <item drawable="udk_android_reader" />
-    <item drawable="com_facebook_katana" />
-    <item drawable="com_facebook_orca" />
-    <item drawable="com_jv_falcon_pro" />
-    <item drawable="com_gokhanmoral_fastdormancytoggle_i9300" />
-    <item drawable="org_fastergps" />
-    <item drawable="com_seazon_feedme" />
-    <item drawable="com_devhd_feedly" />
-    <item drawable="com_ea_game_fifa12_row" />
-    <item drawable="com_yahoo_mobile_client_android_flickr" />
-    <item drawable="com_namcowireless_flightcontrol" />
-    <item drawable="com_bigduckgames_flow" />
-    <item drawable="com_bigduckgames_flowbridges" />
-    <item drawable="com_sigames_fmh2013" />
-    <item drawable="com_joelapenna_foursquared" />
-    <item drawable="com_foursquare_merchant" />
-    <item drawable="com_handmark_friendcaster_chat" />
-    <item drawable="com_halfbrick_fruitninja" />
-    <item drawable="com_halfbrick_fruitninjafree" />
-    <item drawable="com_smartanuj_funny" />
-    <item drawable="ymst_android_fxcamera" />
-    <item drawable="net_kairosoft_android_gamedev3en" />
-    <item drawable="com_gau_go_launcherex" />
-    <item drawable="com_google_android_apps_circles_realtimechat_conversationlistactivity" />
-    <item drawable="com_google_android_apps_adk2" />
-    <item drawable="com_google_android_apps_giant" />
-    <item drawable="com_google_android_apps_androidify" />
-    <item drawable="com_google_android_apps_enterprise_dmagent" />
-    <item drawable="com_google_android_apps_enterprise_lookup" />
-    <item drawable="com_google_android_apps_blogger" />
-    <item drawable="com_google_android_carhome" />
-    <item drawable="com_android_chrome" />
-    <item drawable="com_google_android_apps_currents" />
-    <item drawable="com_google_android_apps_docs" />
-    <item drawable="com_google_earth" />
-    <item drawable="com_google_android_apps_finance" />
-    <item drawable="com_google_android_apps_gesturesearch" />
-    <item drawable="com_google_android_marvin_intersectionexplorer" />
-    <item drawable="com_android_vending" />
-    <item drawable="com_google_android_googlequicksearchbox" />
-    <item drawable="com_google_android_apps_translate" />
-    <item drawable="com_google_android_voicesearch" />
-    <item drawable="com_google_android_apps_plus" />
-    <item drawable="com_rockstar_gta3" />
-    <item drawable="com_mediocre_grannysmith" />
-    <item drawable="com_mediocre_grannysmithfree" />
-    <item drawable="com_noinnion_android_greader_reader" />
-    <item drawable="beril_mootor_gmc" />
-    <item drawable="com_epocket_handyman_ui" />
-    <item drawable="com_mobint_hololauncher" />
-    <item drawable="com_mobint_hololauncherplus" />
-    <item drawable="com_artelplus_howtodraw" />
-    <item drawable="com_artelplus_howtotie" />
-    <item drawable="com_artelplus_howtotiepro" />
-    <item drawable="com_instagram_android" />
-    <item drawable="com_halfbrick_jetpackjoyride" />
-    <item drawable="com_kakao_talk" />
-    <item drawable="jp_naver_line_android" />
-    <item drawable="jp_naver_sjlgbubble" />
-    <item drawable="jp_naver_linecamera_android" />
-    <item drawable="jp_naver_linecard_android" />
-    <item drawable="air_net_machinarium_machinarium" />
-    <item drawable="com_ea_games_meinfiltrator" />
-    <item drawable="com_android_mms" />
-    <item drawable="com_mojang_minecraftpe" />
-    <item drawable="com_mojang_minecraftpe_demo" />
-    <item drawable="de_stohelit_audiobookplayer" />
-    <item drawable="de_stohelit_folderplayer" />
-    <item drawable="com_htc_music" />
-    <item drawable="com_samsung_music" />
-    <item drawable="com_netflix_mediaclient" />
-    <item drawable="air_snspzfree" />
-    <item drawable="air_snspz" />
-    <item drawable="com_opera_browser" />
-    <item drawable="com_opera_mini_android" />
-    <item drawable="com_addictivezone_odefenderfull1" />
-    <item drawable="com_addictivezone_odefenderlite1" />
-    <item drawable="com_headcode_ourgroceries" />
-    <item drawable="rabisoft_packagemanagerad" />
-    <item drawable="com_dama_papercamera" />
-    <item drawable="eu_zomtec_android_delivery" />
-    <item drawable="com_roidapp_photogrid" />
-    <item drawable="com_adobe_psmobile" />
-    <item drawable="nz_co_activedevelopment_picframe_android" />
-    <item drawable="com_shinycore_picsayfree" />
-    <item drawable="com_shinycore_picsaypro" />
-    <item drawable="pixlr_omatic" />
-    <item drawable="com_google_android_apps_books" />
-    <item drawable="com_kantaris_playse" />
-    <item drawable="com_infraware_docmaster" />
-    <item drawable="org_ubisoft_premium_popclassic" />
-    <item drawable="org_ubisoft_freemium_popclassic" />
-    <item drawable="com_neaststudios_procapture" />
-    <item drawable="com_neaststudios_procapture_free" />
-    <item drawable="com_alphonso_pulse" />
-    <item drawable="com_alensw_picfolder" />
-    <item drawable="se_feomedia_quizkampen" />
-    <item drawable="se_feomedia_quizkampen_premium" />
-    <item drawable="com_polarbit_getaway" />
-    <item drawable="com_polarbit_recklessracing" />
-    <item drawable="com_polarbit_recklessracingplay" />
-    <item drawable="com_polarbit_recklessracinglite" />
-    <item drawable="org_retroarch" />
-    <item drawable="com_mobjoy_roadwarrior" />
-    <item drawable="com_koushikdutta_rommanager" />
-    <item drawable="com_koushikdutta_rommanager_license" />
-    <item drawable="com_jrummy_liberty_toolbox" />
-    <item drawable="com_jrummy_liberty_toolboxpro" />
-    <item drawable="se_maginteractive_rumble" />
-    <item drawable="se_maginteractive_rumble_free" />
-    <item drawable="com_madfingergames_samuraiiiall" />
-    <item drawable="se_seb_privatkund" />
-    <item drawable="se_seb_enklafirman" />
-    <item drawable="com_mhuang_overclocking" />
-    <item drawable="com_android_settings" />
-    <item drawable="com_android_settings" />
-    <item drawable="com_samsung_twsettings" />
-    <item drawable="se_rsv_ef_mobil_android" />
-    <item drawable="com_defiantdev_skisafari" />
-    <item drawable="com_soundcloud_android" />
-    <item drawable="com_melodis_midomimusicidentifier" />
-    <item drawable="com_melodis_midomimusicidentifier_freemium" />
-    <item drawable="com_spotify_mobile_android_ui" />
-    <item drawable="com_valvesoftware_android_steam_community" />
-    <item drawable="com_markupartist_sthlmtraveling" />
-    <item drawable="com_distractionware_superhexagon" />
-    <item drawable="com_bubblezapgames_supergnes" />
-    <item drawable="com_bubblezapgames_supergnes_lite" />
-    <item drawable="se_svd_start" />
-    <item drawable="com_svox_classic" />
-    <item drawable="air_se_svt_svti_android_svtplayer" />
-    <item drawable="alei_switchpro" />
-    <item drawable="com_swype_android_installer" />
-    <item drawable="com_apdroid_tabtalk" />
-    <item drawable="com_taptu_streams" />
-    <item drawable="net_dinglisch_android_taskerm" />
-    <item drawable="com_imangi_templerun" />
-    <item drawable="com_disney_brave_google" />
-    <item drawable="com_pastagames_ro1mobile" />
-    <item drawable="com_tradera" />
-    <item drawable="com_tsf_shell" />
-    <item drawable="com_appsforenbedreverden_tvguide" />
-    <item drawable="com_tvnu_app" />
-    <item drawable="se_ja1984_twee" />
-    <item drawable="com_handmark_tweetcaster" />
-    <item drawable="com_handmark_tweetcaster_premium" />
-    <item drawable="com_sothree_umano" />
-    <item drawable="com_relmtech_remote" />
-    <item drawable="com_relmtech_remotepaid" />
-    <item drawable="com_utorrent_client" />
-    <item drawable="com_nekki_vector" />
-    <item drawable="com_viasatondemand" />
-    <item drawable="com_viber_voip" />
-    <item drawable="uk_co_neilandtheresa_newvignette" />
-    <item drawable="de_koloch_evaluator" />
-    <item drawable="de_koloch_evaluator_free" />
-    <item drawable="com_disney_wmp" />
-    <item drawable="com_disney_wmplite" />
-    <item drawable="com_hbwares_wordfeud_full" />
-    <item drawable="com_hbwares_wordfeud_free" />
-    <item drawable="org_wordpress_android" />
-    <item drawable="com_twodboy_worldofgoofull" />
-    <item drawable="se_accumulate_me_core_androidclient" />
-    <item drawable="com_google_android_youtube" />
-    <item drawable="com_google_android_ytremote" />
-    <item drawable="org_zeam" />
-    <item drawable="net_zedge_android" />
+	<!-- Pix: Pixel Mixer -->
+	<item drawable="air_net_daum_pix"/>
+	<!-- Machinarium -->
+	<item drawable="air_net_machinarium_Machinarium"/>
+	<!-- Svt Play -->
+	<item drawable="air_se_svt_svti_android_svtplayer"/>
+	<!-- SuperNinjaSkydivingPlus -->
+	<item drawable="air_snspz"/>
+	<!-- NinjaSkydivingPlusZomb -->
+	<item drawable="air_snspzFree"/>
+	<!-- SwitchPro Widget -->
+	<item drawable="alei_switchpro"/>
+	<!-- Abduction! -->
+	<item drawable="au_com_phil"/>
+	<!-- Abduction! World Attack -->
+	<item drawable="au_com_phil_abduction"/>
+	<!-- Abduction! 2 -->
+	<item drawable="au_com_phil_abduction2"/>
+	<!-- Gunman clive -->
+	<item drawable="beril_mootor_gmc"/>
+	<!-- Blue Dict -->
+	<item drawable="cn_ssdl_bluedict"/>
+	<!-- Accuweather -->
+	<item drawable="com_accuweather_android"/>
+	<!-- Orbital Defender Full -->
+	<item drawable="com_addictivezone_odefenderfull1"/>
+	<!-- Orbital Defender Lite -->
+	<item drawable="com_addictivezone_odefenderlite1"/>
+	<!-- Adobe flash player  -->
+	<item drawable="com_adobe_flashplayer"/>
+	<!-- Photoshop Express -->
+	<item drawable="com_adobe_psmobile"/>
+	<!-- Adobe Reader -->
+	<item drawable="com_adobe_reader"/>
+	<!-- Sportbladet -->
+	<item drawable="com_aftonbladet_sportbladet"/>
+	<!-- Androzip -->
+	<item drawable="com_agilesoftresource"/>
+	<!-- Aldiko -->
+	<item drawable="com_aldiko_android"/>
+	<!-- QuickPic -->
+	<item drawable="com_alensw_PicFolder"/>
+	<!-- AllSnow Ski Reports & Tracker -->
+	<item drawable="com_allsnow_android"/>
+	<!-- Pulse news -->
+	<item drawable="com_alphonso_pulse"/>
+	<!-- AlpineReplay Ski & Snowboard -->
+	<item drawable="com_alpinereplay_android"/>
+	<!-- Amazon -->
+	<item drawable="com_amazon_mshop_android"/>
+	<!-- Fancy Widget -->
+	<item drawable="com_anddoes_fancywidget"/>
+	<!-- Apollo -->
+	<item drawable="com_andrew_apollo"/>
+	<!-- Clock -->
+	<item drawable="com_android_alarmclock"/>
+	<!-- Browser -->
+	<item drawable="com_android_browser"/>
+	<!-- Calculator -->
+	<item drawable="com_android_calculator2"/>
+	<!-- Calendar -->
+	<item drawable="com_android_calendar"/>
+	<!-- Camera -->
+	<item drawable="com_google_android_gallery3d"/>
+	<!-- Google Chrome -->
+	<item drawable="com_android_chrome"/>
+	<!-- Contacts -->
+	<item drawable="com_android_contacts"/>
+	<!-- Phone (HTC Dialer) -->
+	<item drawable="com_android_htcdialer"/>
+	<!-- Messages -->
+	<item drawable="com_android_mms"/>
+	<!-- Music player -->
+	<item drawable="com_android_music"/>
+	<!-- Phone -->
+	<item drawable="com_android_phone"/>
+	<!-- Downloads -->
+	<item drawable="com_android_providers_downloads_ui"/>
+	<!-- Settings -->
+	<item drawable="com_android_settings"/>
+	<!-- Settings (HTC) -->
+	<item drawable="com_android_settings"/>
+	<!-- Ljudinspelaren -->
+	<item drawable="com_android_soundrecorder"/>
+	<!-- Google Play Store -->
+	<item drawable="com_android_vending"/>
+	<!-- Video Editor -->
+	<item drawable="com_android_videoeditor"/>
+	<!-- Engadget -->
+	<item drawable="com_aol_mobile_engadget"/>
+	<!-- Tablet talk -->
+	<item drawable="com_apdroid_tabtalk"/>
+	<!-- Compass -->
+	<item drawable="com_apksoftware_compass"/>
+	<!-- Tv guiden -->
+	<item drawable="com_appsforenbedreverden_tvguide"/>
+	<!-- Cool wallpapers HD -->
+	<item drawable="com_appsilicious_wallpapers"/>
+	<!-- Appbrain -->
+	<item drawable="com_appspot_swisscodemonkeys_apps"/>
+	<!-- How to Draw - Easy Lessons -->
+	<item drawable="com_artelplus_howtodraw"/>
+	<!-- How to Tie a Tie -->
+	<item drawable="com_artelplus_howtotie"/>
+	<!-- How to Tie a Tie Pro -->
+	<item drawable="com_artelplus_howtotiepro"/>
+	<!-- Quadrant Advanced Edition -->
+	<item drawable="com_aurorasoftworks_quadrant_ui_advanced"/>
+	<!-- Quadrant Professional -->
+	<item drawable="com_aurorasoftworks_quadrant_ui_professional"/>
+	<!-- Quadrant Standard -->
+	<item drawable="com_aurorasoftworks_quadrant_ui_standard"/>
+	<!-- Badoo -->
+	<item drawable="com_badoo_mobile"/>
+	<!-- Bambuser -->
+	<item drawable="com_bambuser_broadcaster"/>
+	<!-- DSP Manager -->
+	<item drawable="com_bel_android_dspmanager"/>
+	<!-- Best buy -->
+	<item drawable="com_bestbuy_android"/>
+	<!-- Flow Free -->
+	<item drawable="com_bigduckgames_flow"/>
+	<!-- Flow Free: Bridges -->
+	<item drawable="com_bigduckgames_flowbridges"/>
+	<!-- AdFree -->
+	<item drawable="com_bigtincan_adfree"/>
+	<!-- Apparatus -->
+	<item drawable="com_bithack_apparatus"/>
+	<!-- Apparatus LITE -->
+	<item drawable="com_bithack_apparatuslite"/>
+	<!-- Greedy Spiders -->
+	<item drawable="com_blyts_greedyspiders"/>
+	<!-- Greedy Spiders Free -->
+	<item drawable="com_blyts_greedyspiders_free"/>
+	<!-- Greedy Spiders 2 -->
+	<item drawable="com_blyts_greedyspiders2"/>
+	<!-- Greedy Spiders 2 Free -->
+	<item drawable="com_blyts_greedyspiders2_free"/>
+	<!-- Parkour: Roof Riders -->
+	<item drawable="com_blyts_parkour_activities"/>
+	<!-- Parkour: Roof Riders Lite -->
+	<item drawable="com_blyts_parkourlite_activities"/>
+	<!-- Booking.com -->
+	<item drawable="com_booking"/>
+	<!-- Box.com -->
+	<item drawable="com_box_android"/>
+	<!-- SuperGNES -->
+	<item drawable="com_bubblezapgames_supergnes"/>
+	<!-- SuperGNES lite -->
+	<item drawable="com_bubblezapgames_supergnes_lite"/>
+	<!-- Google Chrome Beta -->
+	<item drawable="com_chrome_beta"/>
+	<!-- Colors -->
+	<item drawable="com_citc_colors"/>
+	<!-- Gallery -->
+	<item drawable="com_google_android_gallery3d"/>
+	<!-- CyanogenMod Filemanager -->
+	<item drawable="com_cyanogenmod_filemanager"/>
+	<!-- CyanogenMod Torch -->
+	<item drawable="com_cyanogenmod_torch"/>
+	<!-- Paper camera -->
+	<item drawable="com_dama_papercamera"/>
+	<!-- Ski Safari -->
+	<item drawable="com_DefiantDev_SkiSafari"/>
+	<!-- Feedly -->
+	<item drawable="com_devhd_feedly"/>
+	<!-- Dictionary -->
+	<item drawable="com_dictionary"/>
+	<!-- Dictionary paid -->
+	<item drawable="com_dictionary_paid"/>
+	<!-- Akinator the Genie -->
+	<item drawable="com_digidust_elokence_akinator_paid"/>
+	<!-- Temple Run: Brave -->
+	<item drawable="com_disney_brave_google"/>
+	<!-- Where's My Perry? -->
+	<item drawable="com_disney_WMP"/>
+	<!-- Super Hexagon -->
+	<item drawable="com_distractionware_superhexagon"/>
+	<!-- Another world -->
+	<item drawable="com_dotemu_anotherworld"/>
+	<!-- Drippler -->
+	<item drawable="com_drippler_android_updates"/>
+	<!-- Android Activities -->
+	<item drawable="com_droidicon_androidactivities"/>
+	<!-- Dropbox -->
+	<item drawable="com_dropbox_android"/>
+	<!-- FIFA 12 -->
+	<item drawable="com_ea_game_fifa12_row"/>
+	<!-- Madden NFL 12 -->
+	<item drawable="com_ea_game_madden12_row"/>
+	<!-- Real Racing 2 -->
+	<item drawable="com_ea_game_realracing2_OTD_row"/>
+	<!-- Mass Effect: Infiltrator -->
+	<item drawable="com_ea_games_meinfiltrator_row"/>
+	<!-- NFS Most Wanted -->
+	<item drawable="com_ea_games_nfs13_row"/>
+	<!-- Tiger Woods PGA Tour 12 -->
+	<item drawable="com_ea_twpgatour12_ROW"/>
+	<!-- Bejeweled 2 -->
+	<item drawable="com_eamobile_bejeweled2_row_wf"/>
+	<!-- Monopoly -->
+	<item drawable="com_eamobile_monopoly_row_wf"/>
+	<!-- The Sims 3 -->
+	<item drawable="com_eamobile_sims3_row_qwf"/>
+	<!-- Ebay -->
+	<item drawable="com_ebay_mobile"/>
+	<!-- Ebuddy -->
+	<item drawable="com_ebuddy_android"/>
+	<!-- Endomondo pro -->
+	<item drawable="com_endomondo_android_pro"/>
+	<!-- Eniro -->
+	<item drawable="com_eniro"/>
+	<!-- Handyman -->
+	<item drawable="com_epocket_handyman_ui"/>
+	<!-- ES Fileexplorer -->
+	<item drawable="com_estrongs_android_pop"/>
+	<!-- ES Fileexplorer Cupcake -->
+	<item drawable="com_estrongs_android_pop_cupcake"/>
+	<!-- Evernote -->
+	<item drawable="com_evernote"/>
+	<!-- Expedia Hotels & Flights -->
+	<item drawable="com_expedia_bookings"/>
+	<!-- Facebook -->
+	<item drawable="com_facebook_katana"/>
+	<!-- Facebook messager -->
+	<item drawable="com_facebook_orca"/>
+	<!-- Glovebox -->
+	<item drawable="com_fb_glovebox"/>
+	<!-- Launcher Pro -->
+	<item drawable="com_fede_launcher"/>
+	<!-- Naked Browser -->
+	<item drawable="com_fevdev_nakedbrowser"/>
+	<!-- The Secret of Grisly Manor -->
+	<item drawable="com_firemaplegames_games_the_secretofgrislymanor"/>
+	<!-- Foursquare for business -->
+	<item drawable="com_foursquare_merchant"/>
+	<!-- The Amazing Spider-Man -->
+	<item drawable="com_gameloft_android_ANMP_GloftAMHM"/>
+	<!-- Go launcher EX -->
+	<item drawable="com_gau_go_launcherex"/>
+	<!-- Google adk 2012 -->
+	<item drawable="com_google_android_apps_adk2"/>
+	<!-- Google androidify -->
+	<item drawable="com_google_android_apps_androidify"/>
+	<!-- Google blogger -->
+	<item drawable="com_google_android_apps_blogger"/>
+	<!-- Play books -->
+	<item drawable="com_google_android_apps_books"/>
+	<!-- Chrome to phone -->
+	<item drawable="com_google_android_apps_chrometophone"/>
+	<!-- Google+ Messenger -->
+	<item drawable="com_google_android_apps_circles_realtimechat_ConversationListActivity"/>
+	<!-- Google Currents -->
+	<item drawable="com_google_android_apps_currents"/>
+	<!-- Google Drive -->
+	<item drawable="com_google_android_apps_docs"/>
+	<!-- Google apps device policy -->
+	<item drawable="com_google_android_apps_enterprise_dmagent"/>
+	<!-- Google apps look up -->
+	<item drawable="com_google_android_apps_enterprise_lookup"/>
+	<!-- Google Finance -->
+	<item drawable="com_google_android_apps_finance"/>
+	<!-- Google News -->
+	<item drawable="com_google_android_apps_genie_geniewidget"/>
+	<!-- Google gesture search -->
+	<item drawable="com_google_android_apps_gesturesearch"/>
+	<!-- Google alanytics -->
+	<item drawable="com_google_android_apps_giant"/>
+	<!-- Google IO 2012 -->
+	<item drawable="com_google_android_apps_iosched"/>
+	<!-- Google Maps -->
+	<item drawable="com_google_android_apps_maps"/>
+	<!-- Google+ -->
+	<item drawable="com_google_android_apps_plus"/>
+	<!-- Google reader -->
+	<item drawable="com_google_android_apps_reader"/>
+	<!-- Google schemer -->
+	<item drawable="com_google_android_apps_schemer"/>
+	<!-- Google Scoreboard -->
+	<item drawable="com_google_android_apps_scoreboard"/>
+	<!-- Google translate -->
+	<item drawable="com_google_android_apps_translate"/>
+	<!-- Google Goggles -->
+	<item drawable="com_google_android_apps_unveil"/>
+	<!-- Google car home -->
+	<item drawable="com_google_android_carhome"/>
+	<!-- Gmail -->
+	<item drawable="com_google_android_gm"/>
+	<!-- Google settings -->
+	<item drawable="com_google_android_gms"/>
+	<!-- Google Search -->
+	<item drawable="com_google_android_googlequicksearchbox"/>
+	<!-- Google tracks -->
+	<item drawable="com_google_android_maps_mytracks"/>
+	<!-- Google intersection explorer -->
+	<item drawable="com_google_android_marvin_intersectionexplorer"/>
+	<!-- Google Music -->
+	<item drawable="com_google_android_music"/>
+	<!-- Google Talk -->
+	<item drawable="com_google_android_talk"/>
+	<!-- Google Voice Search -->
+	<item drawable="com_google_android_voicesearch"/>
+	<!-- Youtube -->
+	<item drawable="com_google_android_youtube"/>
+	<!-- Youtube remote -->
+	<item drawable="com_google_android_ytremote"/>
+	<!-- Google Earth -->
+	<item drawable="com_google_earth"/>
+	<!-- Photos for google tv -->
+	<item drawable="com_google_tv_mediabrowser"/>
+	<!-- Barcode scanner -->
+	<item drawable="com_google_zxing_client_android"/>
+	<!-- Groupon -->
+	<item drawable="com_groupon"/>
+	<!-- Age of Zombies -->
+	<item drawable="com_halfbrick_ageofzombies"/>
+	<!-- Fruit ninja -->
+	<item drawable="com_halfbrick_fruitninja"/>
+	<!-- Fruit ninja free -->
+	<item drawable="com_halfbrick_fruitninjafree"/>
+	<!-- Jetpack Joyride -->
+	<item drawable="com_halfbrick_jetpackjoyride"/>
+	<!-- Handcent -->
+	<item drawable="com_handcent_nextsms"/>
+	<!-- Friendcaster chat -->
+	<item drawable="com_handmark_friendcaster_chat"/>
+	<!-- Tweetcaster -->
+	<item drawable="com_handmark_tweetcaster"/>
+	<!-- Tweetcaster premium -->
+	<item drawable="com_handmark_tweetcaster_premium"/>
+	<!-- HaxSync Workaround -->
+	<item drawable="com_haxsync_facebook_workaround"/>
+	<!-- Wordfeud free -->
+	<item drawable="com_hbwares_wordfeud_free"/>
+	<!-- Wordfeud -->
+	<item drawable="com_hbwares_wordfeud_full"/>
+	<!-- Hotels.com -->
+	<item drawable="com_hcom_android"/>
+	<!-- Our Groceries Shopping List -->
+	<item drawable="com_headcode_ourgroceries"/>
+	<!-- Ant Raid -->
+	<item drawable="com_herocraft_game_antraidgame"/>
+	<!-- Music player HTC -->
+	<item drawable="com_htc_music"/>
+	<!-- Comics -->
+	<item drawable="com_iconology_comics"/>
+	<!-- Pocket -->
+	<item drawable="com_ideashower_readitlater_pro"/>
+	<!-- Temple run -->
+	<item drawable="com_imangi_templerun"/>
+	<!-- Temple run 2 -->
+	<item drawable="com_imangi_templerun2"/>
+	<!-- Polaris office -->
+	<item drawable="com_infraware_docmaster"/>
+	<!-- Dice player -->
+	<item drawable="com_inisoft_mediaplayer_a"/>
+	<!-- instagram -->
+	<item drawable="com_instagram_android"/>
+	<!-- Nyancat: Jump! -->
+	<item drawable="com_istomgames_engine"/>
+	<!-- Jawbone companion -->
+	<item drawable="com_jawbone_companion"/>
+	<!-- Foursquare -->
+	<item drawable="com_joelapenna_foursquared"/>
+	<!-- ROM Toolbox lite -->
+	<item drawable="com_jrummy_liberty_toolbox"/>
+	<!-- ROM Toolbox Pro -->
+	<item drawable="com_jrummy_liberty_toolboxpro"/>
+	<!-- Guess The Movie -->
+	<item drawable="com_june_guessthemovie"/>
+	<!-- Falcon Pro -->
+	<item drawable="com_jv_falcon_pro"/>
+	<!-- Kakao talk -->
+	<item drawable="com_kakao_talk"/>
+	<!-- Play SE -->
+	<item drawable="com_kantaris_playse"/>
+	<!-- Battleheart -->
+	<item drawable="com_KelliNoda_Battleheart"/>
+	<!-- Titanium Backup -->
+	<item drawable="com_keramidas_TitaniumBackup"/>
+	<!-- Subway surfers -->
+	<item drawable="com_kiloo_subwaysurf"/>
+	<!-- Carbon -->
+	<item drawable="com_koushikdutta_backup"/>
+	<!-- Carbon premium -->
+	<item drawable="com_koushikdutta_backup_license"/>
+	<!-- Rom Manager -->
+	<item drawable="com_koushikdutta_rommanager"/>
+	<!-- Rom Manager premium -->
+	<item drawable="com_koushikdutta_rommanager_license"/>
+	<!-- Bankdroid -->
+	<item drawable="com_liato_bankdroid"/>
+	<!-- Lotus notes traveler -->
+	<item drawable="com_lotus_sync_traveler"/>
+	<!-- Lotus notes traveler: calendar -->
+	<item drawable="com_lotus_sync_traveler_2"/>
+	<!-- Lotus notes traveler: lookup -->
+	<item drawable="com_lotus_sync_traveler_3"/>
+	<!-- Lotus notes traveler: mail -->
+	<item drawable="com_lotus_sync_traveler_4"/>
+	<!-- Dragon, Fly! -->
+	<item drawable="com_lsgvgames_slideandfly"/>
+	<!-- Dragon, Fly! full -->
+	<item drawable="com_lsgvgames_slideandflyfull"/>
+	<!-- Samurai II: Vengeance -->
+	<item drawable="com_madfingergames_SamuraiIIAll"/>
+	<!-- MarineTraffic Ship Positions -->
+	<item drawable="com_marinetraffic_android"/>
+	<!-- STHLM traveling -->
+	<item drawable="com_markupartist_sthlmtraveling"/>
+	<!-- Granny smith -->
+	<item drawable="com_mediocre_grannysmith"/>
+	<!-- Granny smith free -->
+	<item drawable="com_mediocre_grannysmithfree"/>
+	<!-- Soundhound -->
+	<item drawable="com_melodis_midomiMusicIdentifier"/>
+	<!-- SetCPU for Root Users -->
+	<item drawable="com_mhuang_overclocking"/>
+	<!-- SkyDrive -->
+	<item drawable="com_microsoft_skydrive"/>
+	<!-- MiHome Launcher -->
+	<item drawable="com_miui_mihome2"/>
+	<!-- Holo launcher -->
+	<item drawable="com_mobint_hololauncher"/>
+	<!-- Holo launcher plus -->
+	<item drawable="com_mobint_hololauncherplus"/>
+	<!-- Adv. English & Thesaurus -->
+	<item drawable="com_mobisystems_msdict_embedded_wireless_wordnet"/>
+	<!-- selecta -->
+	<item drawable="com_mobivending_selectaapplication"/>
+	<!-- Road warrior -->
+	<item drawable="com_mobjoy_roadwarrior"/>
+	<!-- Camera Launcher for Nexus 7 -->
+	<item drawable="com_modaco_cameralauncher"/>
+	<!-- Minecraft -->
+	<item drawable="com_mojang_minecraftpe"/>
+	<!-- Minecraft demo -->
+	<item drawable="com_mojang_minecraftpe_demo"/>
+	<!-- Text Messaging -->
+	<item drawable="com_motorola_messaging_activity_conversationlistactivity"/>
+	<!-- MX Video -->
+	<item drawable="com_mxtech_videoplayer_ad"/>
+	<!-- My Space -->
+	<item drawable="com_myspace_android"/>
+	<!-- Flight control -->
+	<item drawable="com_namcowireless_flightcontrol"/>
+	<!-- Navigon -->
+	<item drawable="com_navigon_navigator_checkout_eu40"/>
+	<!-- Pro Capture -->
+	<item drawable="com_neaststudios_procapture"/>
+	<!-- Pro Capture free -->
+	<item drawable="com_neaststudios_procapture_free"/>
+	<!-- Vector -->
+	<item drawable="com_nekki_vector"/>
+	<!-- Netflix -->
+	<item drawable="com_netflix_mediaclient"/>
+	<!-- Mini motor -->
+	<item drawable="com_nextgenreality_minimoto"/>
+	<!-- Snapseed -->
+	<item drawable="com_niksoftware_snapseed"/>
+	<!-- Bloons TD 5 -->
+	<item drawable="com_ninjakiwi_bloonstd5"/>
+	<!-- Superuser -->
+	<item drawable="com_noshufou_android_su"/>
+	<!-- Superuser Elite -->
+	<item drawable="com_noshufou_android_su_elite"/>
+	<!-- Swype beta -->
+	<item drawable="com_nuance_swype_installer"/>
+	<!-- Winamp -->
+	<item drawable="com_nullsoft_winamp"/>
+	<!-- Draw Something -->
+	<item drawable="com_omgpop_dstpaid"/>
+	<!-- Onkyo remote -->
+	<item drawable="com_onkyo_onkyoremote"/>
+	<!-- Opera Browser -->
+	<item drawable="com_opera_browser"/>
+	<!-- Opera Browser mini -->
+	<item drawable="com_opera_mini_android"/>
+	<!-- Power toggles -->
+	<item drawable="com_painless_pc"/>
+	<!-- Tetris Space -->
+	<item drawable="com_pastagames_ro1mobile"/>
+	<!-- Rayman: Jungle Run -->
+	<item drawable="com_pastagames_ro1mobile_2"/>
+	<!-- Path -->
+	<item drawable="com_path"/>
+	<!-- PayPal -->
+	<item drawable="com_paypal_android_p2pmobile"/>
+	<!-- Pipix -->
+	<item drawable="com_pekspro_games_pipix"/>
+	<!-- Photobucket Mobile -->
+	<item drawable="com_photobucket_android"/>
+	<!-- PicsArt - Photo Studio -->
+	<item drawable="com_picsart_studio"/>
+	<!-- Reckless getaway -->
+	<item drawable="com_polarbit_getaway"/>
+	<!-- Reckless Racing -->
+	<item drawable="com_polarbit_RecklessRacing"/>
+	<!-- Reckless Racing 2 -->
+	<item drawable="com_polarbit_RecklessRacing2"/>
+	<!-- Reckless racing lite -->
+	<item drawable="com_polarbit_RecklessRacingLite"/>
+	<!-- Reckless Racing HD -->
+	<item drawable="com_polarbit_RecklessRacingPlay"/>
+	<!-- Plants vs Zombies -->
+	<item drawable="com_popcap_pvz_row"/>
+	<!-- Pricerunner -->
+	<item drawable="com_pricerunner_android"/>
+	<!-- DataSync -->
+	<item drawable="com_quintstoffers_DataSync"/>
+	<!-- DataSync Beta -->
+	<item drawable="com_quintstoffers_DataSync_beta"/>
+	<!-- DataSync+ -->
+	<item drawable="com_quintstoffers_DataSync_key"/>
+	<!-- Tapatalk pro -->
+	<item drawable="com_quoord_tapatalkpro_activity"/>
+	<!-- XDA-Developers -->
+	<item drawable="com_quoord_tapatalkxda_activity"/>
+	<!-- XDA-Developers premium -->
+	<item drawable="com_quoord_tapatalkxdapre_activity"/>
+	<!-- Lightflow -->
+	<item drawable="com_rageconsulting_android_lightflow"/>
+	<!-- Lightflow lite -->
+	<item drawable="com_rageconsulting_android_lightflowlite"/>
+	<!-- Unified Remote -->
+	<item drawable="com_Relmtech_Remote"/>
+	<!-- Unified Remote full -->
+	<item drawable="com_Relmtech_RemotePaid"/>
+	<!-- My Backup: Root -->
+	<item drawable="com_rerware_android_MyBackupRoot"/>
+	<!-- Grand Theft Auto III -->
+	<item drawable="com_rockstar_gta3"/>
+	<!-- GTA Vice City -->
+	<item drawable="com_rockstargames_gtavc"/>
+	<!-- Photo Grid - Collage Maker -->
+	<item drawable="com_roidapp_photogrid"/>
+	<!-- Amazing Alex -->
+	<item drawable="com_rovio_amazingalex_premium"/>
+	<!-- Amazing Alex HD -->
+	<item drawable="com_rovio_amazingalexHD"/>
+	<!-- Angry Birds -->
+	<item drawable="com_rovio_angrybirds"/>
+	<!-- Angry Birds Rio -->
+	<item drawable="com_rovio_angrybirdsrio"/>
+	<!-- Angry Birds Seasons -->
+	<item drawable="com_rovio_angrybirdsseasons"/>
+	<!-- Angry Birds Space -->
+	<item drawable="com_rovio_angrybirdsspace_ads"/>
+	<!-- Angry Birds Star Wars -->
+	<item drawable="com_rovio_angrybirdsstarwars_ads_iap"/>
+	<!-- Bad Piggies -->
+	<item drawable="com_rovio_BadPiggies"/>
+	<!-- GooManager -->
+	<item drawable="com_s0up_goomanager"/>
+	<!-- Sam Mobile -->
+	<item drawable="com_sammobile_app"/>
+	<!-- Sam Mobile free -->
+	<item drawable="com_sammobile_app_free"/>
+	<!-- Music player Samsung -->
+	<item drawable="com_samsung_music"/>
+	<!-- Kies Air -->
+	<item drawable="com_samsung_swift_app_kiesair"/>
+	<!-- Settings (Samsung) -->
+	<item drawable="com_samsung_twsettings"/>
+	<!-- AirDroid -->
+	<item drawable="com_sand_airdroid"/>
+	<!-- Feed me -->
+	<item drawable="com_seazon_feedme"/>
+	<!-- ChatOn -->
+	<item drawable="com_sec_chaton"/>
+	<!-- Samsung AllShare -->
+	<item drawable="com_sec_pcw"/>
+	<!-- Devil's Attorney -->
+	<item drawable="com_senri_da"/>
+	<!-- Picsay -->
+	<item drawable="com_shinycore_picsayfree"/>
+	<!-- Picsay pro -->
+	<item drawable="com_shinycore_picsaypro"/>
+	<!-- Football Manager 2013 -->
+	<item drawable="com_sigames_fmh2013"/>
+	<!-- Zombies, Run! -->
+	<item drawable="com_sixtostart_zombiesrun"/>
+	<!-- Skifta -->
+	<item drawable="com_skifta_android_app"/>
+	<!-- Ski & Snow Report -->
+	<item drawable="com_skireport"/>
+	<!-- Skireport -->
+	<item drawable="com_skireport"/>
+	<!-- Skistar -->
+	<item drawable="com_skistar_SKISTAR1"/>
+	<!-- Callrecorder -->
+	<item drawable="com_skvalex_callrecorder"/>
+	<!-- Skype -->
+	<item drawable="com_skype_raider"/>
+	<!-- Fun Gallery -->
+	<item drawable="com_smartanuj_funny"/>
+	<!-- Snapchat -->
+	<item drawable="com_snapchat_android"/>
+	<!-- ColorDict -->
+	<item drawable="com_socialnmobile_colordict"/>
+	<!-- ColorNote -->
+	<item drawable="com_socialnmobile_dictapps_notepad_color_note"/>
+	<!-- ColorNote Notepad Notes To Do -->
+	<item drawable="com_socialnmobile_dictapps_notepad_color_note_2"/>
+	<!-- Sonic Jump -->
+	<item drawable="com_sonicjump_sonicjump"/>
+	<!-- TrackID -->
+	<item drawable="com_sonyericsson_trackid"/>
+	<!-- Umano -->
+	<item drawable="com_sothree_umano"/>
+	<!-- Soundcloud -->
+	<item drawable="com_soundcloud_android"/>
+	<!-- Explorer -->
+	<item drawable="com_speedsoftware_explorer"/>
+	<!-- Explorer root -->
+	<item drawable="com_speedsoftware_rootexplorer"/>
+	<!-- Spotify -->
+	<item drawable="com_spotify_mobile_android_ui"/>
+	<!-- FINAL FANTASY III -->
+	<item drawable="com_square_enix_android_googleplay_FFIII_GP"/>
+	<!-- SVOX classic tts -->
+	<item drawable="com_svox_classic"/>
+	<!-- Swype -->
+	<item drawable="com_swype_android_installer"/>
+	<!-- Taptu -->
+	<item drawable="com_taptu_streams"/>
+	<!-- Nova Launcher -->
+	<item drawable="com_teslacoilsw_launcher"/>
+	<!-- Nova Launcher Prime -->
+	<item drawable="com_teslacoilsw_launcher_prime"/>
+	<!-- Fancy -->
+	<item drawable="com_thefancy_app"/>
+	<!-- Catch Notes -->
+	<item drawable="com_threebanana_notes"/>
+	<!-- Bike Race -->
+	<item drawable="com_topfreegames_bikeracefreeworld"/>
+	<!-- The Curse -->
+	<item drawable="com_toystudio_thecurse"/>
+	<!-- Tradera -->
+	<item drawable="com_tradera"/>
+	<!-- TripAdvisor -->
+	<item drawable="com_tripadvisor_tripadvisor"/>
+	<!-- TSF shell -->
+	<item drawable="com_tsf_shell"/>
+	<!-- Tumblr -->
+	<item drawable="com_tumblr"/>
+	<!-- Tv.nu -->
+	<item drawable="com_tvnu_app"/>
+	<!-- Press -->
+	<item drawable="com_twentyfivesquares_press"/>
+	<!-- Twitter -->
+	<item drawable="com_twitter_android"/>
+	<!-- World of Goo -->
+	<item drawable="com_twodboy_worldofgoofull"/>
+	<!-- uTorrent -->
+	<item drawable="com_utorrent_client"/>
+	<!-- The Verge -->
+	<item drawable="com_verge_android"/>
+	<!-- Viaplay -->
+	<item drawable="com_viasatondemand"/>
+	<!-- Viber -->
+	<item drawable="com_viber_voip"/>
+	<!-- The Weather Channel -->
+	<item drawable="com_weather_Weather"/>
+	<!-- What's app -->
+	<item drawable="com_whatsapp"/>
+	<!-- Flickr -->
+	<item drawable="com_yahoo_mobile_client_android_flickr"/>
+	<!-- Yahoo Messenger -->
+	<item drawable="com_yahoo_mobile_client_android_im"/>
+	<!-- Yelp -->
+	<item drawable="com_yelp_android"/>
+	<!-- Cut The Rope -->
+	<item drawable="com_zeptolab_ctr_ads"/>
+	<!-- Cut The Rope: Experiments -->
+	<item drawable="com_zeptolab_ctrexperiments_ads"/>
+	<!-- Pudding Monsters -->
+	<item drawable="com_zeptolab_monsters_free_google"/>
+	<!-- Ski and Snow report -->
+	<item drawable="com_zumobi_snowreport"/>
+	<!-- Scramble With Friends Free -->
+	<item drawable="com_zynga_scramble"/>
+	<!-- Scramble With Friends -->
+	<item drawable="com_zynga_scramble_paid"/>
+	<!-- Words With Friends Free -->
+	<item drawable="com_zynga_words"/>
+	<!-- Minimalistic Text -->
+	<item drawable="de_devmil_minimaltext"/>
+	<!-- What's worth on ebay -->
+	<item drawable="de_koloch_evaluator"/>
+	<!-- What's worth on ebay free -->
+	<item drawable="de_koloch_evaluator_free"/>
+	<!-- Mortplayer Audiobooks -->
+	<item drawable="de_stohelit_audiobookplayer"/>
+	<!-- Mortplayer Music -->
+	<item drawable="de_stohelit_folderplayer"/>
+	<!-- DME -->
+	<item drawable="dk_excitor_dmemail"/>
+	<!-- SuperSU -->
+	<item drawable="eu_chainfire_supersu"/>
+	<!-- Parcels -->
+	<item drawable="eu_zomtec_android_delivery"/>
+	<!-- Flipboard -->
+	<item drawable="flipboard_app"/>
+	<!-- gTunes music download -->
+	<item drawable="free_mp3_dlv6"/>
+	<!-- Avocado -->
+	<item drawable="io_avocado_android"/>
+	<!-- Android terminal emulator -->
+	<item drawable="jackpal_androidterm"/>
+	<!-- Desktop VisualizeR -->
+	<item drawable="jp_co_bii_android_app_dskvzr"/>
+	<!-- Line -->
+	<item drawable="jp_naver_line_android"/>
+	<!-- Line camera -->
+	<item drawable="jp_naver_linecamera_android"/>
+	<!-- Line card -->
+	<item drawable="jp_naver_linecard_android"/>
+	<!-- Line bubble -->
+	<item drawable="jp_naver_SJLGBUBBLE"/>
+	<!-- Kik Messenger -->
+	<item drawable="kik_android"/>
+	<!-- Pou -->
+	<item drawable="me_pou_app"/>
+	<!-- NS Tools -->
+	<item drawable="mobi_cyann_nstools"/>
+	<!-- Metro Nyheter -->
+	<item drawable="mobi_mobiletech_apps_android_metro_se"/>
+	<!-- Tasker -->
+	<item drawable="net_dinglisch_android_taskerm"/>
+	<!-- Battery Widget Reborn pro -->
+	<item drawable="net_hubalek_android_apps_reborn_pro"/>
+	<!-- Battery Widget Reborn -->
+	<item drawable="net_hubalek_android_reborn_beta"/>
+	<!-- Omega Files -->
+	<item drawable="net_indieroms_OmegaFilesJB"/>
+	<!-- Game dev story -->
+	<item drawable="net_kairosoft_android_gamedev3en"/>
+	<!-- Mitt i -->
+	<item drawable="net_mitti_STOCKHOLM"/>
+	<!-- Akinator -->
+	<item drawable="net_scimob_akinator"/>
+	<!-- Skyscanner -->
+	<item drawable="net_skyscanner_android_main"/>
+	<!-- Andy-83 -->
+	<item drawable="net_supware_ti83"/>
+	<!-- Pic Frame -->
+	<item drawable="nz_co_activedevelopment_picframe_android"/>
+	<!-- ADWlauncher EX -->
+	<item drawable="org_adwfreak_launcher"/>
+	<!-- Flashback -->
+	<item drawable="org_chip2n_flashbacklite"/>
+	<!-- Faster GPS -->
+	<item drawable="org_fastergps"/>
+	<!-- Synodroid -->
+	<item drawable="org_jared_synodroid_ds"/>
+	<!-- Pattrn -->
+	<item drawable="org_lucasr_pattrn"/>
+	<!-- Jewels -->
+	<item drawable="org_mhgames_jewels"/>
+	<!-- HaxSync -->
+	<item drawable="org_mots_haxsync"/>
+	<!-- RetroArch -->
+	<item drawable="org_retroarch"/>
+	<!-- Prince of persia free -->
+	<item drawable="org_ubisoft_freemium_POPClassic"/>
+	<!-- Prince of persia -->
+	<item drawable="org_ubisoft_premium_POPClassic"/>
+	<!-- Wordpress -->
+	<item drawable="org_wordpress_android"/>
+	<!-- XBMC Remote -->
+	<item drawable="org_xbmc_android_remote"/>
+	<!-- Zeam launcher -->
+	<item drawable="org_zeam"/>
+	<!-- Pixlr-o-matic -->
+	<item drawable="pixlr_omatic"/>
+	<!-- Package manager ad -->
+	<item drawable="rabisoft_packagemanagerad"/>
+	<!-- Package manager AD -->
+	<item drawable="RabiSoft_PackageManagerAd"/>
+	<!-- TuneIn radio Pro -->
+	<item drawable="radiotime_player"/>
+	<!-- WyWallet -->
+	<item drawable="se_accumulate_me_core_androidclient"/>
+	<!-- Aftonbladet -->
+	<item drawable="se_aftonbladet_start"/>
+	<!-- Blocket -->
+	<item drawable="se_appcorn_Blocket"/>
+	<!-- LetsDeal -->
+	<item drawable="se_designbaren_letsdeal"/>
+	<!-- Quizkampen -->
+	<item drawable="se_feomedia_quizkampen"/>
+	<!-- Quizkampen Premium -->
+	<item drawable="se_feomedia_quizkampen_premium"/>
+	<!-- LiveScore Addicts -->
+	<item drawable="se_footballaddicts_livescore"/>
+	<!-- Hemnet -->
+	<item drawable="se_hemnet_android"/>
+	<!-- Twee -->
+	<item drawable="se_ja1984_twee"/>
+	<!-- JAYS headset control -->
+	<item drawable="se_jays_headsetcontrol"/>
+	<!-- Quizcross -->
+	<item drawable="se_maginteractive_quizcross"/>
+	<!-- Ruzzle -->
+	<item drawable="se_maginteractive_rumble"/>
+	<!-- Ruzzle free -->
+	<item drawable="se_maginteractive_rumble_free"/>
+	<!-- Mathem -->
+	<item drawable="se_mathem_android"/>
+	<!-- Mecenat -->
+	<item drawable="se_mecenat_app"/>
+	<!-- Prisjakt  -->
+	<item drawable="se_petersson_prisjakt"/>
+	<!-- Rabble -->
+	<item drawable="se_rabble_android"/>
+	<!-- Skatteverket -->
+	<item drawable="se_rsv_ef_mobil_android"/>
+	<!-- SEB enkla firman -->
+	<item drawable="se_seb_enklafirman"/>
+	<!-- SEB -->
+	<item drawable="se_seb_privatkund"/>
+	<!-- SF Bio -->
+	<item drawable="se_sfbio_mobile_android"/>
+	<!-- SJ -->
+	<item drawable="se_sj_android"/>
+	<!-- Skandiabanken -->
+	<item drawable="se_skandiabanken_android_wallet"/>
+	<!-- SMHI Väder -->
+	<item drawable="se_smhi_mobile_android"/>
+	<!-- Sparbanken -->
+	<item drawable="se_sparbankerna_mobilbank"/>
+	<!-- P4 -->
+	<item drawable="se_sr_kanaler_p4"/>
+	<!-- SvD -->
+	<item drawable="se_svd_start"/>
+	<!-- SAOL -->
+	<item drawable="se_svenskaakademien_saol"/>
+	<!-- Svenska Spel -->
+	<item drawable="se_svenskaspel_android2"/>
+	<!-- Swedbank -->
+	<item drawable="se_swedbank_mobil"/>
+	<!-- Systembolaget -->
+	<item drawable="se_systembolaget_android"/>
+	<!-- Mitt3 -->
+	<item drawable="se_tre_smart"/>
+	<!-- Turf -->
+	<item drawable="se_turfwars_android"/>
+	<!-- Varningsinfo -->
+	<item drawable="se_varningsinfo_android"/>
+	<!-- Ving -->
+	<item drawable="se_ving"/>
+	<!-- Nine: 9GAG for Android -->
+	<item drawable="sg_ruqqq_Nine"/>
+	<!-- Camera Zoom -->
+	<item drawable="slide_cameraZoom"/>
+	<!-- Busybox -->
+	<item drawable="stericson_busybox"/>
+	<!-- Busybox pro -->
+	<item drawable="stericson_busybox_donate"/>
+	<!-- TuneIn radio -->
+	<item drawable="tunein_player"/>
+	<!-- ezPDFreader pro -->
+	<item drawable="udk_android_reader"/>
+	<!-- Vignette -->
+	<item drawable="uk_co_neilandtheresa_NewVignette"/>
+	<!-- Broken Sword Directors Cut -->
+	<item drawable="uk_co_revolution_bs1dc"/>
+	<!-- Broken Sword II Smoking Mirror -->
+	<item drawable="uk_co_revolution_BSII"/>
+	<!-- Friendcaster pro -->
+	<item drawable="uk_co_senab_blueNotify"/>
+	<!-- Friendcaster -->
+	<item drawable="uk_co_senab_blueNotifyFree"/>
+	<!-- Cifsmanager -->
+	<item drawable="ws_plattner_cifsmanager"/>
+	<!-- FxCamera  -->
+	<item drawable="ymst_android_fxcamera"/>
 
 </resources>
